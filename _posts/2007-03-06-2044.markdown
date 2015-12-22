@@ -1,0 +1,26 @@
+---
+author: dealingwith
+date: '2007-03-06 21:06:00'
+layout: post
+slug: '2044'
+status: publish
+title: '...'
+wordpress_id: '2044'
+---
+
+[![][1]][2]
+
+[portrait #2][3]
+
+Originally uploaded by [yuridojc][4].
+
+that's really all i have to say
+
+   [1]: http://farm1.static.flickr.com/126/412555508_ba9f2fdfb7_m.jpg
+
+   [2]: http://www.flickr.com/photos/yuridojc/412555508/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/yuridojc/412555508/
+
+   [4]: http://www.flickr.com/people/yuridojc/
+

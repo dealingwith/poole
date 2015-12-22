@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.danielsjourney.com/miriam/">Miriam's Journal</a> <i>and once again, bargaining made my day</i>
+

@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2008-01-09 17:55:00'
+layout: post
+slug: wotd-9
+status: publish
+title: WotD
+wordpress_id: '2437'
+categories:
+ - word of the day
+---
+
+OMGBBQ [cotton][1]..._as a verb_! As seen [in this article][2]
+
+> Sosnay's review found Zier's red ascot - which matched the handkerchief in
+the breast pocket of Zier's pinstriped gray suit - "borders on contemptuous,"
+given the judge's prior warnings that he only **cottons to** neck- and bow-
+ties.
+
+It would be oh-so groan-worthy if it wasn't _so good_.
+
+   [1]: http://dictionary.reference.com/search?q=cotton
+
+   [2]: http://www.jsonline.com/story/index.aspx?id=705084
+

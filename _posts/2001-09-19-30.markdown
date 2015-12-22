@@ -1,0 +1,43 @@
+---
+author: dealingwith
+date: '2001-09-19 22:10:00'
+layout: post
+slug: '30'
+status: publish
+title: '...'
+wordpress_id: '3089'
+categories:
+ - nonlinear
+---
+
+**7. Business organization software **
+
+[http://www.microsoft.com/office/visio/][1]
+
+[http://www.conceptdraw.com/en/][2]
+
+[http://www.paraben.com/html/flow.html][3]
+
+[http://www.smartdraw.com/][4]
+
+
+Business organizational software is also only ok. My software is in its most
+basic form an integration of these with those from 6. However it is much more
+than that. These allow the non-linear connections, but are all based around a
+flowchart metaphor. My idea, based around the story/informational field/map
+(you even get to pick your language!), is fundamentally different and
+therefore infinitely more flexible in it's application. The same version of
+the product could be used for both this market, storyboarding, and the
+following market....
+
+
+   [1]: http://www.microsoft.com/office/visio/
+
+   [2]: http://www.conceptdraw.com/en/
+
+   [3]: http://www.paraben.com/html/flow.html
+
+   [4]: http://www.smartdraw.com/
+
+   
+

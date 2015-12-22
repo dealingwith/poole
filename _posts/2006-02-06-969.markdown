@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2006-02-06 10:38:00'
+layout: post
+slug: '969'
+status: publish
+title: '...'
+wordpress_id: '969'
+---
+
+[this is in pretty much everyone's cube here][1], and i was definately feeling
+it a bit ago.
+
+   [1]: http://dilbert.com/comics/dilbert/archive/dilbert-20060129.html
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2006-03-03 08:18:00'
+layout: post
+slug: '1070'
+status: publish
+title: '...'
+wordpress_id: '1070'
+---
+
+[THIS][1] is what the intarweb is all about.
+
+   [1]: http://www.flickr.com/photo_zoom.gne?id=96987694&size=o
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-03-04 14:10:00'
+layout: post
+slug: '213'
+status: publish
+title: '...'
+wordpress_id: '213'
+---
+
+Blogs were the new BB's. BB's are now the new blogs. [Long live BB's][1]!
+
+   [1]: http://www.hchamp.com/other/archives/000246.html
+

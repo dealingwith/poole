@@ -1,0 +1,51 @@
+---
+author: dealingwith
+date: '2006-03-11 12:54:00'
+layout: post
+slug: sx-update-02
+status: publish
+title: sx update 02
+wordpress_id: '1094'
+categories:
+ - sxsw
+ - sxswi2006
+---
+
+Last night at midnight went to [This Film Is Not Yet Rated][1] which was
+excellent. Missed my chance to see [Thank You For Smoking][2], will have to
+catch that one in theatres. The line for _Rated_ was so long though, I don't
+want to know how crazy _Smoking_ was.
+
+Sitting in the Platinum Louge at the moment. The SX wireless network was
+dropping me constantly, over here I'm picking up another open one that...is
+also dropping me constantly! I think I'm going to rebuild this laptop when I
+get back to Dallas. I think it might be me, what with the network problems at
+home etc. And the main reason I've hesitated is mostly moot -- my development
+environment being mostly setup on the tower, except for [Putty][3] and all my
+[CVS][4] stuff, which isn't working on the laptop anymore either for some
+reason.
+
+Anyhoo, free coffee and water which is very good for my still hungover self. I
+can't even focus well on far away things because I'm so dehydrated. Just went
+to [How to Do Precisely the Right Thing at All Possible Times][5] which was
+ok. Meant to go to a 10 o'clock session but slept until 10:30. Now just
+killing time before [the opening keynote][6], then I'm off to [BarCamp
+Austin][7]. Wanted to see [How to Create Passionate Users][8] but it might not
+be worth the trip back to the convention center from BarCamp. Will see.
+
+   [1]: http://2006.sxsw.com/film/screenings/film/F5470.html
+
+   [2]: http://2006.sxsw.com/film/screenings/film/F3477.html
+
+   [3]: http://www.chiark.greenend.org.uk/~sgtatham/putty/
+
+   [4]: http://www.google.com/search?q=define%3A+CVS&sourceid=mozilla-search&start=0&start=0&ie=utf-8&oe=utf-8&client=firefox-a&rls=org.mozilla:en-US:official
+
+   [5]: http://2006.sxsw.com/interactive/programming/panels/?action=show&id=IAP060050
+
+   [6]: http://2006.sxsw.com/interactive/programming/panels/?action=show&id=IAP060078
+
+   [7]: http://barcamp.org/BarCampAustin
+
+   [8]: http://2006.sxsw.com/interactive/programming/panels/?action=show&id=IAP060014
+

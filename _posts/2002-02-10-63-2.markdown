@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 17:38:00'
+layout: post
+slug: 63-2
+status: publish
+title: '...'
+wordpress_id: '3101'
+categories:
+ - nonlinear
+---
+
+[Alan Sondheim: Internet Philosophy and Psychology][1]
+
+
+   [1]: http://www.anu.edu.au/english/internet_txt/
+
+   
+

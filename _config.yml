@@ -1,14 +1,14 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:           /:year/:month/:day/:title.html
+# relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+title:               danielsjourney
+tagline:             seeking stories beauty meaning
+url:                 http://danielsjourney.com
+paginate:            10
 baseurl:             ""
 
 # Assets
@@ -20,11 +20,8 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Daniel Miller
+  url:               https://twitter.com/dealingwith
+  email:             dealingwith@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+gems: [jekyll-paginate]

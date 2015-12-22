@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2005-03-23 00:22:00'
+layout: post
+slug: '424'
+status: publish
+title: '...'
+wordpress_id: '424'
+---
+
+[lj_nifty: Bookmarklet to post to LJ][1]
+
+
+
+    javascript:d=document;t=d.selection?d.selection.createRange().text:d.getSe
+lection();void(window.open('http://www.livejournal.com/update.bml?mode=full&ev
+ent='+escape('nn<em>')+escape(t)+escape('</em>nn')+'<a
+href'+escape('=')+'"'+escape(d.location.href)+'">'+escape(d.title)+'</a>'))
+
+
+doesn't work in frames pages (can't grab selected text)...yet another reason
+frames suck
+
+   [1]: http://www.livejournal.com/community/lj_nifty/86519.html
+

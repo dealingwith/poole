@@ -1,0 +1,10 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.rebeccadangelo.com/dangelo/main.htm"><img src="images/rebecca_protests.jpg" border=0></a>
+from rebecca d'angelo, from the DC protests
+

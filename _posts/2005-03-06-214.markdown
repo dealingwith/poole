@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-03-06 16:53:00'
+layout: post
+slug: '214'
+status: publish
+title: '...'
+wordpress_id: '214'
+---
+
+[good coffee blog][1]
+
+   [1]: http://www.tonx.org/
+

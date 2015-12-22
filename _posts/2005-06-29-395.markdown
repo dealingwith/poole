@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-06-29 11:47:00'
+layout: post
+slug: '395'
+status: publish
+title: '...'
+wordpress_id: '395'
+---
+
+[Boffins create zombie dogs][1]
+
+   [1]: http://www.news.com.au/story/0,10117,15739502-13762,00.html
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: '...'
+categories:
+ - imagining
+---
+
+
+
+
+
+
+
+<img src="images/july_2003/DSCN1131.jpg" width="400" height="300" alt="why?" border="5" />
+

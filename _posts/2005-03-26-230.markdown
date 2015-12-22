@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-03-26 14:32:00'
+layout: post
+slug: '230'
+status: publish
+title: '...'
+wordpress_id: '230'
+---
+
+[yes.][1]
+
+   [1]: http://www.dilbert.com/comics/dilbert/archive/dilbert-20050326.html
+

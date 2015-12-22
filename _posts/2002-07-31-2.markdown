@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.wibsite.com/wibblethorpe/quote.htm">http://www.wibsite.com/wibblethorpe/quote.htm</a>
+

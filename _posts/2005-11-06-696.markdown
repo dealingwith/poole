@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2005-11-06 23:43:00'
+layout: post
+slug: '696'
+status: publish
+title: '...'
+wordpress_id: '696'
+---
+
+_A firsthand account of the situation in Pakistan 2005._
+
+[Humanitarian Man][1]
+
+   [1]: http://humanitarianman.blogspot.com/
+

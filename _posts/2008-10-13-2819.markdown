@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2008-10-13 12:50:00'
+layout: post
+slug: '2819'
+status: publish
+title: '...'
+wordpress_id: '2819'
+categories:
+ - comedy
+ - comics
+ - consumption
+ - crime
+ - elsewhere
+---
+
+[![][1]][2]
+
+   [1]: http://danielsjourney.com/blog/files/2008/10/steal_this_comic.png
+
+   [2]: http://xkcd.com/488/
+

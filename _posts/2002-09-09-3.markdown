@@ -1,0 +1,14 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>my</i> new biz card, for those that haven't seen it yet, anyway:
+
+<center><font face="arial" size="3"><b>Daniel W. Miller</b>
+<small>human being
+
+www.danielsjourney.com</small></font></center>
+

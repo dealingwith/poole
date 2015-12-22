@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.steveswebpage.com/">Steve's Web Page: The Main Central Page With All the Doings</a> ..the guy from Blue's Clues
+

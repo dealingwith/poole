@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.themorningnews.org/archives/letters/rosecrans/quitter.shtml">The Morning News - Quitter</a> <i>still not understood, exactly, what content is, how it becomes dynamic or forward-thinking, and exactly how the creatives are supposed to populate or architect it...</i>
+

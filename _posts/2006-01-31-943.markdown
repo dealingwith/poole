@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2006-01-31 21:41:00'
+layout: post
+slug: '943'
+status: publish
+title: '...'
+wordpress_id: '943'
+---
+
+![][1]
+
+![this is how i felt today][2]
+
+   [1]: http://danielsjourney.com/blog/files/2006/01/zzzzzz7654329.jpg
+
+   [2]: http://danielsjourney.com/blog/files/2006/01/zzzzzz7654223.jpg (thisis how i felt today)
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.coupland.com/coupland/art/art_con_12.html">coupland -- garage</a>
+

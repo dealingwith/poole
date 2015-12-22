@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-04-02 09:51:00'
+layout: post
+slug: '242'
+status: publish
+title: '...'
+wordpress_id: '242'
+---
+
+[To the young programmers of the World!][1]
+
+   [1]: http://www.sgi.com/misc/grafica/future/futman.html
+
