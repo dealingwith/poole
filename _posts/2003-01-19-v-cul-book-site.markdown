@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'v cul book site'
+title: 'v cool book site'
 categories:
  - elsewhere
 ---

@@ -27,7 +27,7 @@ What can I say? [I know how you feel][2]. "I don't even {know} what month,
 what season, what year." {Sory, now I'm quoting myself from an ancient song I
 never sing.} ...I don't know when the ability to feel comes back.
 
-All I know is a cul girl is cooking chocolate chip cookies right behind me
+All I know is a cool girl is cooking chocolate chip cookies right behind me
 over there.
 
    [1]: http://theinnocencemission.com/

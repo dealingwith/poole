@@ -9,5 +9,5 @@ So in ironies of ironies, I found made in the USA, non-sweatshop jeans in the me
 
 
 
-<a href="http://www.wrangler.com">Wrangler</a> is definately the new cul. I'll be wearing my old-old school jeans with pride...
+<a href="http://www.wrangler.com">Wrangler</a> is definately the new cool. I'll be wearing my old-old school jeans with pride...
 

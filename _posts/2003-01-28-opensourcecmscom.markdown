@@ -9,7 +9,7 @@ categories:
 
 
 
-oh yeah. u can preview all the open source CMS's here. definately cul. definately too many out there already! but i have an abundance mentality dmmit!
+oh yeah. u can preview all the open source CMS's here. definately cool. definately too many out there already! but i have an abundance mentality dmmit!
 
 
 

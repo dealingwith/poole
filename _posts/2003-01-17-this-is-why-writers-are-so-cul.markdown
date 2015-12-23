@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'this is why writers are so cul'
+title: 'this is why writers are so cool'
 categories:
  - quotable
 ---

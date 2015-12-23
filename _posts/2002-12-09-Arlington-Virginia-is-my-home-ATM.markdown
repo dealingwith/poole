@@ -19,7 +19,7 @@ a sign near our place that i have been meaning to take a picture of for a while 
 
 <img src="images/hsu1.jpg">
 
-last night we went to see three of my friends play at staccato, a cul little club in DC. first up were the Hsu sisters. meant to take shots during their set. oops. anyway, amazing music.
+last night we went to see three of my friends play at staccato, a cool little club in DC. first up were the Hsu sisters. meant to take shots during their set. oops. anyway, amazing music.
 
 
 

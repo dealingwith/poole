@@ -33,6 +33,6 @@ via his <a href="http://www.urbanphoto.org/tokyo/main.htm">tokyolife photoessay<
 
 
 
-urbanphoto.org also made it straight into my favorites for later perusal. they have a cul bit on <a href="http://www.urbanphoto.org/#27may">bicycling</a>, an extremely viable alt.transportation method still in predominance in other parts of the world.
+urbanphoto.org also made it straight into my favorites for later perusal. they have a cool bit on <a href="http://www.urbanphoto.org/#27may">bicycling</a>, an extremely viable alt.transportation method still in predominance in other parts of the world.
 
 

@@ -34,7 +34,7 @@ and <a href="http://www.sff.ba/">the Sarajevo Film Festival</a>, which I think I
 
 
 
-<a href="http://www.unsa.ba/eng/sarajevobh.html">The University of Sarajevo</a> (english site) (cul <a href="http://www.unsa.ba/">flash intro</a> on their homepage) (here's the actual <a href="http://www.unsa.ba/eng/home.html">english home page of the university</a>, I linked to their Sarajvo/BiH info page before)
+<a href="http://www.unsa.ba/eng/sarajevobh.html">The University of Sarajevo</a> (english site) (cool <a href="http://www.unsa.ba/">flash intro</a> on their homepage) (here's the actual <a href="http://www.unsa.ba/eng/home.html">english home page of the university</a>, I linked to their Sarajvo/BiH info page before)
 
 
 

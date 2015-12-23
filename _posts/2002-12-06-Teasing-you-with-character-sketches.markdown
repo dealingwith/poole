@@ -9,7 +9,7 @@ categories:
 
 
 
-So the first cat to play was actually a duo with a drum machine. I won't tell you much more, but the dude had reading glasses--he was a very cul, older cat...
+So the first cat to play was actually a duo with a drum machine. I won't tell you much more, but the dude had reading glasses--he was a very cool, older cat...
 
 
 

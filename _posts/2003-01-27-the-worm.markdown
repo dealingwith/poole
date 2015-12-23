@@ -17,7 +17,7 @@ some sample text:
 
 
 
-...<b>U:</b> <a href="http://www.hyperorg.com/blogger/mtarchive/001121.html">JOHO has some cul info about it too</a>...
+...<b>U:</b> <a href="http://www.hyperorg.com/blogger/mtarchive/001121.html">JOHO has some cool info about it too</a>...
 
 <em>By THE ASSOCIATED PRESS
 

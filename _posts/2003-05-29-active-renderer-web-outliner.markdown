@@ -9,7 +9,7 @@ categories:
 
 
 
-<strong>Update:</strong> Radio is <a href="http://radio.userland.com/faq">licensed on a yearly basis</a>--40 clams a year. Not cul w/me; I'd rather pay more but have it for good. This yearly stuff sounds too much like Time Life Books or a bad car lease. 
+<strong>Update:</strong> Radio is <a href="http://radio.userland.com/faq">licensed on a yearly basis</a>--40 clams a year. Not cool w/me; I'd rather pay more but have it for good. This yearly stuff sounds too much like Time Life Books or a bad car lease. 
 		
 
 

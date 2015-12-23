@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'writers are tre cul but most always poor as shit'
+title: 'writers are tre cool but most always poor as shit'
 categories:
  - elsewhere
 ---

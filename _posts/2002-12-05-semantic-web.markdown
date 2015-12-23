@@ -54,7 +54,7 @@ even more specifically, how it works in relation to <b>information and how we
 can best represent that information through technology</b>. this is a subject <a href="http://nonlinear.blogspot.com/">i
 have been very interested in</a> for a long time (the psych grad in me coming
 out). anyway, there is a dept at UC Berkeley that is working on this stuff, and
-it's tre cul:
+it's tre cool:
 
 <a href ='http://bailando.sims.berkeley.edu/index.html'>BAILANDO Project Homepage</a>
 
@@ -63,7 +63,7 @@ it's tre cul:
 and here's one more UI article, unrelated to the UCB projects: <a href ='http://www.infoworld.com/articles/op/xml/02/11/28/021128opwebserv.xml'>Multimodal user interfaces</a> 
 
 this is related--deals with the actual <b>hardware piece of UI</b> more--and
-also just <b>tre cul for the tweaker in all of us</b>: <a href ='http://riot.com.au/systems.php'>riot.com.au - systems</a> 
+also just <b>tre cool for the tweaker in all of us</b>: <a href ='http://riot.com.au/systems.php'>riot.com.au - systems</a> 
 
 here are some good tech <b>blogs</b> as well:
 <a href ='http://www.fettig.net/'>Abe Fettig</a>
