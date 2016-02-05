@@ -3,13 +3,13 @@ layout: post
 title: "Desire, meaning, beauty, stories (the last post)"
 ---
 
-<div class="media"><iframe width="420" height="315" src="http://www.youtube.com/embed/fD1512_XJEw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<iframe width="100%" height="315" src="http://www.youtube.com/embed/fD1512_XJEw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-I had promised that [this post about the problem of desire](http://2010.danielsjourney.com/2011/10/02/desire.html) would be continued and before I end this chapter of my blogging life I want to try and wrap it up. Except it's complicated. I was discussing motivations and plans with a trusted friend and said, "...but of course it's never about the money. It's about how we see ourselves, about how these things support the narrative of who we think we are" (or something like that).
+I had promised that [this post about the problem of desire]({{ site.baseurl }}/2011/10/02/desire.html) would be continued and before I end this chapter of my blogging life I want to try and wrap it up. Except it's complicated. I was discussing motivations and plans with a trusted friend and said, "...but of course it's never about the money. It's about how we see ourselves, about how these things support the narrative of who we think we are" (or something like that).
 
 At any rate, I don't have time to finish those thoughts exactly. They are heavily influenced, as I mentioned, by [Pete Rollins](http://peterrollins.net/), specifically his thoughts on [desire](http://peterrollins.net/?tag=desire) and [drive](http://peterrollins.net/?tag=drive) (which in turn are influenced by [Lacan](http://en.wikipedia.org/wiki/Jacques_Lacan)). It is also heavily influenced by Victor Frankl, who wrote [a famous book](http://en.wikipedia.org/wiki/Man's_Search_for_Meaning) on meaning. I would suggest you just go read all that stuff.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/MmKta5tymPY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="http://www.youtube.com/embed/MmKta5tymPY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <hr>
 
@@ -24,5 +24,3 @@ But it is time to stop writing publicly about it in such an explicit manner. Obv
 There were a lot of things I had still wanted to say here, but life has demanded more time and energy than I could spare to consider or communicate them, which is probably a really good thing. It's time to focus on Lucy, my marriage, my work.
 
 Once I get my new/old blog up and running, the RSS feed, [Twitter](http://twitter.com/_danielsjourney) and Facebook postings will automatically switch over. See you over there.
-
-<p class="date">November 21, 2011</p>

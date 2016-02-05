@@ -2,6 +2,8 @@
 //
 // Update the foundational and global aspects of the page.
 
+$yellow: #ffff90;
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -39,11 +41,20 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-decoration: underline;
+    border-bottom: 1px dotted #268bd2;
   }
 
   strong {
     color: inherit;
+  }
+}
+
+h1 a {
+  &:hover,
+  &:focus {
+    background-color: rgba($yellow,.6);
+    box-shadow: 0 0 2px 2px white;
+    border: none;
   }
 }
 
@@ -75,4 +86,8 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
+}
+
+.small {
+  font-size: .8em
 }
