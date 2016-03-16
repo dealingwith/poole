@@ -19,7 +19,7 @@ body {
 html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.4;
 
   @media (min-width: 38em) {
     font-size: 18px;
@@ -27,7 +27,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #404040;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -93,4 +93,10 @@ tbody tr:nth-child(odd) th {
 }
 .italic {
   font-style: italic;
+}
+
+.cc-logo {
+  border: 1px solid #515151;
+  border-radius: 100px;
+  padding: 2px 4px 4px;
 }

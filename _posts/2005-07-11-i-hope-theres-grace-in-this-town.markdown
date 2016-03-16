@@ -5,24 +5,29 @@ categories:
  - announcements
 ---
 
-<img src="http://danielsjourney.com/blog/files/2005/07/DJDC---RIPiii.jpg" />
+### danielsjourney.com blog
 
-danielsjourney.com blog
-2001-2005
+#### 2001-2005
 
 those who want to keep up know where to look
 
-<a href="http://www.mikeriddell.co.nz/">From Riddell</a>'s <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0829814566/qid=1121279099/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/102-5131049-5514530?v=glance&s=books&n=507846">Sacred Journey</a>:<blockquote>
-<strong>At the heart of [evil] is the proclivity for deception. The essence of evil is to deceive, distort and confuse.</strong> It prospers by imitating that which is good and true, only to invade and colonise it with death.
+From <a href="https://en.wikipedia.org/wiki/Mike_Riddell">Riddell</a>'s <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0829814566/qid=1121279099/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/102-5131049-5514530?v=glance&s=books&n=507846">Sacred Journey</a>:
 
-<strong>...evil creates confusion wherever it spreads. Issues which were previously clear become mired in layers of subtlety until no one can be sure what is happening any more.</strong> And even when terrible things are being done, it is not at all certain how they occur or who is responsible.
+> At the heart of evil is the proclivity for deception. The essence of evil is to deceive, distort and confuse. It prospers by imitating that which is good and true, only to invade and colonise it with death.
 
-<strong>...in the continuous spectrum between bad and evil, there is some indeterminate region in which a boundary is crossed. Usually it is occasioned by repeated and unrepentant acts of deception. Sustained lying seems to create a vulnerability to a deeper corruption. Psychologists speak of dissociation, a mechanism by which people are able to perform horrendous deeds yet create enough psychic distance for themselves that they fail to feel any guilt or remorse...</strong></blockquote>
+> ...evil creates confusion wherever it spreads. Issues which were previously clear become mired in layers of subtlety until no one can be sure what is happening any more. And even when terrible things are being done, it is not at all certain how they occur or who is responsible.
 
-...<blockquote>...It is in denial that real troubles start. When we begin not only to try to convince others, but also to believe for ourselves that there is nothing bad within us, then we are flirting with real danger. In self-deception genuine evil may gain a foothold, festering in hidden darkness until an opporunity presents itself to erupt in a seething force which sweeps all before it.
+> ...in the continuous spectrum between bad and evil, there is some indeterminate region in which a boundary is crossed. Usually it is occasioned by repeated and unrepentant acts of deception. Sustained lying seems to create a vulnerability to a deeper corruption. Psychologists speak of dissociation, a mechanism by which people are able to perform horrendous deeds yet create enough psychic distance for themselves that they fail to feel any guilt or remorse...
 
-<strong>...But...deceit and lies can never overcome truth, however much damage they may appear to cause in the short term. Ingrained dishonesty and the evil it produces are ultimately self-defeating.</strong></blockquote>
-the farewell mix:
+...
+
+> ...It is in denial that real troubles start. When we begin not only to try to convince others, but also to believe for ourselves that there is nothing bad within us, then we are flirting with real danger. In self-deception genuine evil may gain a foothold, festering in hidden darkness until an opporunity presents itself to erupt in a seething force which sweeps all before it.
+
+> ...But...deceit and lies can never overcome truth, however much damage they may appear to cause in the short term. Ingrained dishonesty and the evil it produces are ultimately self-defeating.
+
+---
+
+#### the farewell mix:
 
 Michael Miller - Grace Town
 
@@ -66,8 +71,8 @@ Sufjan Stevens - Casimir Pulaski Day
 > Oh the glory that the lord has made  
 > And the complications when I see his face  
 > In the morning in the window  
-> **Oh the glory when he took our place**  
-> **But he took my shoulders and he shook my face**  
+> Oh the glory when he took our place  
+> But he took my shoulders and he shook my face  
 > And he takes and he takes and he takes
 
 and still:
