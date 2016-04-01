@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mistakes"
+date: 2016-03-28 18:29:06 -0500
+comments: true
+categories: 
+---
+
+![Mistakes]({{ site.baseurl }}/assets/2016/03/calm-5resized.jpg)
+
+IIRC, this is from one of my favorite organizations, [The School of Life](http://www.theschooloflife.com/). 
