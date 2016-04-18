@@ -1,0 +1,11 @@
+---
+layout: post
+title: "70th floor"
+date: 2016-04-14 23:45:16 -0500
+comments: true
+categories: 
+---
+
+[![70th floor, BoA building, downtown Dallas]({{ site.baseurl }}/assets/2016/04/70thfloor_boa.jpg "70th floor, BoA building, downtown Dallas")]({{ site.baseurl }}/assets/2016/04/70thfloor_boa.jpg)
+
+This was the view from where we gave [our talk]({{ site.baseurl }}/2016/04/08/dallas-startup-week-talks.html) yesterday. I don't think I've ever been that high up in Dallas before. Photo by [Andrew Miller](https://twitter.com/findandrew).

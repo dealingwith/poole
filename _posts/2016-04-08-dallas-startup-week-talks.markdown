@@ -20,7 +20,7 @@ From the talk description:
 
 > How does a startup implement a practical yet lightweight development process? What are the right things to learn from agile methodologies and which ones aren't really worth it for small startup teams? What tools are available to facilitate this process? Two senior developers from Modern Message, a local SaaS startup in the multifamily industry, answer these questions and more from their experience and stories of success and failures
 
-I will be presenting alongside Modern Message's senior developer, [Sean Linsley](https://twitter.com/seanlinsley), who I have had the pleasure of working with for over two and a half years. We will explain why a solid software development process is important and describe Modern Message's own methodology for shipping great product. The talk is 1pm on the 72nd Floor of the Bank of America building, 901 Main St, Dallas.
+I will be presenting alongside Modern Message's senior developer, [Sean Linsley](https://twitter.com/seanlinsley), who I have had the pleasure of working with for over two and a half years. We will explain why a solid software development process is important and describe Modern Message's own methodology for shipping great product. The talk is 1pm on the **70th** Floor of the Bank of America building, 901 Main St, Dallas.
 
 ![Sean and Daniel]({{ site.baseurl }}/assets/2016/04/sean-daniel-1.jpg "Sean and Daniel")
 

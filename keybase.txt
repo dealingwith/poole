@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dealingwith
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danielsjourney.com
+  * I am dealingwith (https://keybase.io/dealingwith) on keybase.
+  * I have a public key with fingerprint 0689 2735 224A AEB7 F01E  06C7 71BD 0FF5 68BA CD81
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016520f6e76fcf1aef78c89b2c692416efab310848852df900fc16d3db5b43d4e40a",
+            "fingerprint": "06892735224aaeb7f01e06c771bd0ff568bacd81",
+            "host": "keybase.io",
+            "key_id": "71bd0ff568bacd81",
+            "kid": "01016520f6e76fcf1aef78c89b2c692416efab310848852df900fc16d3db5b43d4e40a",
+            "uid": "e32703ef7b5e80dc94b0d954f4471c19",
+            "username": "dealingwith"
+        },
+        "revoke": {
+            "sig_ids": [
+                "f469fc27a3be58b5d16197ae21a9698a2cde5c8a1018c7c701447afbd49499570f"
+            ]
+        },
+        "service": {
+            "hostname": "danielsjourney.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460323077,
+    "expire_in": 157680000,
+    "prev": "fd7e67fc6d19b4ce9af4ccc743091ce470188ede78e304bea73a01ebf7c3a2eb",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJ8AnicrZJ/aFZVGMffpat8aVAkozIqL/5jrnnOvefec84NV9GPESRFZpZrvJ0f
+z9l73eu9b++9e7fpRiIpMQWdJTUiKQgMlDBkYai5qf0wl1Rkg8poVIINtCgHYkXn
+jvyvPzv/XM653+fz/T4Pz/GmOYViw/7Tz/564PeDvOHk+J89hVXFY43rHZnofidc
+73TD7AcqGtKs1B1pJ3QQRjjwXWQCoIFRBgswlCnGpasC7hIcgBHSw4gRxnxXG46Q
+UTjQnpa+JJ4mQJBwWhwTxV1Qq9aiOMuxAeMu9XzXJUKApAZhQIGiFEuNjPEDJoXS
+DNvCcpLmFTacFCm0Rol9s5fSbLz/0P/PuXtmceC5FHkWIX1gSCtOJNLcJ4YQihXm
+uTCFWizWglVrEBXbbm+UlZ3BFqcG9aQb8tGmUZfNnTphh2NIwI1yqfAk+Ez6GgeY
+UwEuFjzgTLhKg6+YsH0wRRVF2FoJIzXhhHOfIuN0WrY1rUdqFp4P6koAEUdQSdck
+PbUY+ltVstYGrNaSLFFJxf4vZ1k1zKNl/dVc3wuy9C+pJKNY2/C2oA61NEpiJ8RW
+qbIoR2MSIM/1EKUtDvRVoxqUolzh04Ahe3IbqFuk0RQCalSgMZdEAReGKKUo8RDH
+CohtiDHQQBl4iEgQ1BN2CaShyhMuSCfv7bk4yS1tTtFlmXZ8sch6auAMHh17Zm6h
+oVi4uvGqfIkLxXnXX1ntr9695q/bd0+2bQlb/R/HdsSftw1/efTh0dU7Dr96y+oL
+A80d89f1Hb5zZjLb4F2+dlfL/gXDk1P3VNmy69wbxODE3KFzd2wORw8df6m6dXzo
+630bD2xZdPOpi7s717145pHwi4Fvlz/w920ftldEee/3n3a6bx27f+nMkXLz6N3n
+3js/JU7fOrBx+OM9N+08Uf9t4baVzWMrfj4zvaRhSdsTfSea1zTO2X7j09tfOOR8
+dHmg/cmL072XJtpPzb+0adPbjy76bmt1pmliYpfseH5kOhSv139Ydd/U+fePLPjs
+m9fSx1/5ZOHQ4nceXHp2pG3fLyvnTf/0xsiGN/+40FS86+S2Fcv2POUtXn7vwb07
+N7vjD72sPzj72D+eTGiR
+=En1H
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dealingwith
+
+==================================================================
