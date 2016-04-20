@@ -3,7 +3,7 @@ layout: post
 title: "It's ok to be sad: on the legitimacy of unhappiness, part 1"
 date: 2016-02-03 23:43:59 -0600
 comments: true
-categories: 
+categories: its-ok-to-be-sad
 ---
 
 ## On the meaning of suffering

@@ -41,8 +41,8 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    background-color: rgba($yellow,.6);
-    border-bottom: 1px solid lighten(#268bd2,.6);
+    background-color: rgba($yellow,.5);
+    border-bottom: 1px solid lighten(#268bd2,.5);
   }
 
   strong {
