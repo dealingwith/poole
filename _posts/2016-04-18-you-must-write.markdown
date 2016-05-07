@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "You must write"
+excerpt: There is no substitute for your own voice. You must write.
 date: 2016-04-18 15:45:26 -0500
 comments: true
 categories: 
