@@ -6,7 +6,7 @@ permalink:           /:year/:month/:day/:title.html
 
 # Setup
 title:               danielsjourney
-tagline:             ...
+tagline:             "seeking, stories, beauty, meaning"
 url:                 http://danielsjourney.com
 paginate:            10
 baseurl:             ""

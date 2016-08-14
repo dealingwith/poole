@@ -14,8 +14,13 @@ title: Home
 
       <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
+
+      {% if post.image %}
+       <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt"><div class="image" style="background-image:url({{ post.image }})"></div></a>
+      {% endif %}
+      
       {% if post.excerpt %}
-       <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt }}⇢</a>
+       <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt }}&nbsp;⇢</a>
       {% endif %}
 
       <!-- {{ post.content }} -->

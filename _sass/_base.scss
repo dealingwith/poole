@@ -17,17 +17,17 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Sans-Serif;
-  font-size: 16px;
+  font-family: "Helvetica Neue", Sans-Serif; //Avenir
+  font-size: 18px;
   line-height: 1.4;
 
-  // @media (min-width: 38em) {
-  //   font-size: 18px;
-  // }
+  @media (max-width: 435px) {
+    font-size: 16px;
+  }
 }
 
 body {
-  color: #000;
+  color: #404040;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -41,7 +41,7 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    border-bottom: 1px dotted lighten(#4C4C4C, 10);
+    border-bottom: 1px solid lighten(#268bd2, 20);
   }
 
   strong {
@@ -101,9 +101,34 @@ tbody tr:nth-child(odd) th {
   padding: 2px 4px 4px;
 }
 
+// .masthead-title {
+//   @media (min-width: 435px) { 
+//     &.wide {
+//       display: block;
+//     }
+//     &.narrow {
+//       display: none;
+//     }
+//   }
+//   @media (max-width: 435px) {
+//     &.wide {
+//       display: none;
+//     }
+//     &.narrow {
+//       display: block;
+//     }
+//   }
+// }
+
 .menu {
-  float: right;
-  margin: 0 0 0 10px;
+  margin: 10px 0 0 0px;
+  // @media (min-width: 435px) { 
+  //   // float: right;
+  //   margin: 0 0 0 10px;
+  // }
+  // @media (max-width: 435px) {
+  //   margin-bottom: 10px;
+  // }
 }
 
 .menu-item {
@@ -112,8 +137,10 @@ tbody tr:nth-child(odd) th {
   float: left;
   font-size: .8em;
   margin: 0px;
-  padding: 5px 10px;
-  text-transform: all-caps;
+  padding: 2px 10px 3px 10px;
+  &:first-child {
+    padding-left: 0px;
+  }
   &:last-child {
     border-right: 0px;
   }
@@ -133,7 +160,6 @@ article {
 }
 
 .excerpt {
-  // background: lighten($yellow, 19);
   color: lighten(#4C4C4C, 10);
   display: block;
   margin: -5px;
@@ -142,5 +168,10 @@ article {
     background: $yellow;
     border-bottom: none;
     background: lighten($yellow, 15);
+  }
+  div.image {
+    background-position: center;
+    background-size: cover;
+    height: 200px;
   }
 }
