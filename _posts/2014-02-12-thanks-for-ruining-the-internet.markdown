@@ -6,7 +6,7 @@ comments: true
 categories: [comment, technology]
 ---
 
-![Programming](/images/WPXF.jpg 'It is like nostalgia in a box!')
+![Programming](/images/atari-basic-programming.jpg 'It is like nostalgia in a box!')
 
 I read two articles today that at first don't seem to have anything to do with one another but connected for me in a profound way that I'm going to attempt to capture in this post. I've been thinking a lot lately about how the web has changed since I first started participating in it at around the turn of the century.
 
@@ -52,7 +52,7 @@ That's not all. All this data they're collecting about you is driving product de
 
 ---
 
-Without strong leadership steering these ships, we're destined to continue down the path of deprivation. The pirates have taken over the fleet, and those with discipline and old-world skills are hidden away in enclaves, quietly existing on the resources available around them. The point is: We have a surplus of knowledge and a paucity of wisdom (a notable exception being Stewart Butterfield's <a href="https://medium.com/p/4c59524d650d">leadership of Slack</a>). Perhaps this is not a new problem.
+Without strong leadership steering these ships, we're destined to continue down the path of deprivation. The pirates have taken over the fleet, and those with discipline and old-world skills are hidden away in enclaves, quietly existing on the resources available to them. The point is: We have a surplus of knowledge and a paucity of wisdom (a notable exception being Stewart Butterfield's <a href="https://medium.com/p/4c59524d650d">leadership of Slack</a>). Perhaps this is not a new problem.
 
 ---
 
@@ -72,6 +72,6 @@ In case you didn't take the time to read Zeynep's article, I'm going to include 
 
 ---
 
-Postscript: I realized that this post is an expanded/updated version of [Life Is Too Short to Make Shitty Software](http://blog.danielsjourney.com/2011/03/15/life-is-too-short-to-make-shitty-software/).
+Postscript: I realized that this post is an expanded/updated version of [Life Is Too Short to Make Shitty Software]({{ site.base_url }}/2011/03/15/life-is-too-short-to-make-shitty-software/).
 
 ---
