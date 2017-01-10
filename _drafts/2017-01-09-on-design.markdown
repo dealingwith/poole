@@ -1,0 +1,9 @@
+---
+layout: post
+title: "On Design"
+excerpt: 
+date: 2017-01-09 21:39:59 -0600
+comments: true
+categories: 
+---
+
