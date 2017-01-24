@@ -23,7 +23,6 @@ function search(term) {
 
 $(function() {
   $('#aa-search-input').on('search', function(input) {
-    console.log(input.target.value, input.target);
     if (input.target.value)
       search(input.target.value);
     else
