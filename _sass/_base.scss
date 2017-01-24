@@ -292,7 +292,7 @@ a[href^="#fnref:"] {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .masthead-title {
@@ -450,3 +450,19 @@ a.pagination-item:hover {
   background-color: #f9f9f9;
 }
 
+.aa-input-search {
+  border: 1px solid #e5e5e5;
+  float: right;
+  font-size: 0.8em;
+  margin-left: 5px;
+  padding: 4px;
+}
+#search-results {
+  display: none;
+  border-top: 2px solid #e5e5e5;
+  border-bottom: 2px solid #e5e5e5;
+  margin: 20px 0;
+  &:before {
+    content: 'search results:'
+  }
+}

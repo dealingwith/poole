@@ -43,7 +43,7 @@ See [LinkedIn](https://www.linkedin.com/in/dealingwith) for a complete work hist
 - Co-wrote the book "MSMQ From Scratch"
 - Delivered training worldwide
 
-### Education
+## Education
 
 - BS in Psychology from the University of Arizona
 - Emphasis and research assistance in Organizational Psychology

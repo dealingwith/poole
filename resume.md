@@ -44,7 +44,7 @@ Enterprise Software Training / 1999 to 2001
 - Co-wrote the book "MSMQ From Scratch"
 - Delivered training worldwide
 
-### Education
+## Education
 
 - BS in Psychology from the University of Arizona
 - Emphasis and research assistance in Organizational Psychology

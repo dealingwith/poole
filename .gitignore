@@ -44,3 +44,5 @@ node_modules
 *.mp3
 
 public/mcu-12-16
+public/lucys-server
+public/mcu-server
