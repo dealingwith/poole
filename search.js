@@ -22,10 +22,10 @@ function search(term) {
 }
 
 $(function() {
-  $search_input = $('#aa-search-input');
-  $search_input.on('search', function(key) {
-    if ($search_input.val())
-      search($search_input.val());
+  $('#aa-search-input').on('search', function(input) {
+    console.log(input.target.value, input.target);
+    if (input.target.value)
+      search(input.target.value);
     else
       location.reload();
   });

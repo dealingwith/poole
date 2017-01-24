@@ -26,5 +26,4 @@ what it does for them.
 of the killer user-experience. 
 - Less is difficult, that’s why less is more
 
-Originally from `http://www.acm.org/ubiquity/views/v7i07_pfeiffer.html` (dead link)
-
+Originally from `http://www.acm.org/ubiquity/views/v7i07_pfeiffer.html [dead link]`
