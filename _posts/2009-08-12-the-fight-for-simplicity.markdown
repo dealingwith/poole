@@ -12,7 +12,7 @@ categories:
  - ux
 ---
 
-[I spoke to simplicity before][1], but lately it has become a bit of a mantra
+[I spoke to simplicity before]({{ site.baseurl }}/2009/05/26/there-will-be-a-rise-of-new-creative-leaders-in-the-world-fueled-by-rich-humanity.html), but lately it has become a bit of a mantra
 of mine, accosted from all sides, it seems, by **complexity**. I've made some
 observations:
 
@@ -52,25 +52,13 @@ interface design, as that is an area I read the most about:
 
   * [Marco Arment with a simple compare/contrast][10].
 
-  * [Your app vs successful apps][11]. A simple explanation of user interface
-simplicity.
-
   * [Practicing product minimalism][12].
 
-  * [Managing UI Complexity][13] by Brandon Walkin is a extremely well written
-post well advertised by its title. It contains many great tips for simplifying
-the user interface of applications. He mentions a common design problem I've
-often encountered:
+  * _Managing UI Complexity_ `[dead link]` by Brandon Walkin is a extremely well written post well advertised by its title. It contains many great tips for simplifying the user interface of applications. He mentions a common design problem I've often encountered: "The [user interface] reflects the developer's model of the task rather than the user's model."
 
-> The [user interface] reflects the developer’s model of the task rather than
-the user’s model.
-
-  * [Approaching a Minimum Viable Product][14] and [Minimum Viable Product: a
-guide][15].
+  * _Approaching a Minimum Viable Product_ `[dead link]` and [Minimum Viable Product: a guide][15].
 
   * [Do The Simplest Thing That Could Possibly Work][16].
-
-   [1]: http://nonlinear.blogspot.com/2009/05/there-will-be-rise-of-new-creative.html
 
    [2]: http://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
 
@@ -90,13 +78,7 @@ guide][15].
 
    [10]: http://www.marco.org/143114030
 
-   [11]: http://2pt3.com/post/your-app-vs-successful-apps-fight/
-
    [12]: http://garry.posterous.com/practicing-product-minimalism
-
-   [13]: http://www.brandonwalkin.com/blog/2009/08/10/managing-ui-complexity/
-
-   [14]: http://www.threeriversinstitute.org/blog/?p=333
 
    [15]: http://startuplessonslearned.blogspot.com/2009/08/minimum-viable-product-guide.html
 

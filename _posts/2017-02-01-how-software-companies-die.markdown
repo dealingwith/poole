@@ -17,7 +17,7 @@ Programming is the Great Game. It consumes you, body and soul. When you're caugh
 
 You won.
 
-You're aware that some people think you're a nerd. So what? They're not players. They've never jousted with Windows or gone hand to hand with DOS. To them C++ is a decent grade, almost a B - not a language. They barely exist. Like soldiers or artists, you don't care about the opinions of civilians. You're building something intricate and fine. They'll never understand it.
+You're aware that some people think you're a nerd. So what? They're not players. They've never jousted with Windows or gone hand to hand with DOS. To them C++ is a decent grade, almost a B--not a language. They barely exist. Like soldiers or artists, you don't care about the opinions of civilians. You're building something intricate and fine. They'll never understand it.
 
 ## Beekeeping
 

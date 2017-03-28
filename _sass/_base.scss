@@ -1,5 +1,6 @@
 
 $yellow: rgba(#ffff90, .8);
+$link-blue: #268bd2;
 
 * {
   -webkit-box-sizing: border-box;
@@ -22,7 +23,8 @@ body {
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: #268bd2;
+  color: $link-blue;
+  position: relative;
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
@@ -35,6 +37,7 @@ a {
   strong {
     color: inherit;
   }
+
 }
 
 h1, .masthead-title {
@@ -123,7 +126,7 @@ tbody tr:nth-child(odd) th {
   border-right: 1px solid #e9e9e9;
   display: block;
   float: left;
-  font-family: Avenir, Sans-Serif;
+  font-family: "Helvetica Neue", Sans-Serif; //Avenir, Sans-Serif;
   font-size: .9em;
   margin: 0px;
   padding: 6px 10px 5px;
@@ -165,8 +168,8 @@ article {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: "Helvetica Neue", Sans-Serif; //"BlinkMacSystemFont", "Avenir", 
-  font-size: 16px;
+  font-family: Avenir, Sans-Serif;//"BlinkMacSystemFont", //"Helvetica Neue", Sans-Serif;
+  font-size: 18px;
   line-height: 1.4em;
 }
 
@@ -393,7 +396,7 @@ a[href^="#fnref:"] {
 .pagination {
   overflow: hidden; // clearfix
   margin: 0 -1.5rem 1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Sans-Serif; //"PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }

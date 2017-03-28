@@ -11,7 +11,7 @@ url:                 http://danielsjourney.com
 paginate:            10
 baseurl:             ""
 excerpt_separator:   ""
-exclude:             ['public/mcu-server','public/mcu-12-16','public/lucys-server']
+exclude:             []
 
 # Assets
 #
