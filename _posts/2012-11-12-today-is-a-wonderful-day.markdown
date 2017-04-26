@@ -72,7 +72,7 @@ Yesterday Penn and I had a day together. First we went to Cindy's for a 2nd brea
 
 ---
 
-So this is just the [usual](http://2010.danielsjourney.com/2011/11/29/desire-and-meaning.html), a post about meaning and [more](http://2010.danielsjourney.com/2011/11/07/worst-day.html) ruminating about how it might be staring me in the face the entire time. Maybe I'm just having a midlife crisis. Maybe I've never really been able to distinguish between the [important and the merely urgent][1]. *Maybe I should just go home.*
+So this is just the [usual](http://danielsjourney.com/2011/11/29/desire-and-meaning.html), a post about meaning and [more](http://danielsjourney.com/2011/11/07/worst-day.html) ruminating about how it might be staring me in the face the entire time. Maybe I'm just having a midlife crisis. Maybe I've never really been able to distinguish between the [important and the merely urgent][1]. *Maybe I should just go home.*
 
 *Later, at home*...and maybe I should just keep writing.
 

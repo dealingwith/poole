@@ -6,7 +6,7 @@ comments: true
 categories: minutia
 ---
 
-[Some perspective](http://2010.danielsjourney.com/2011/08/13/one-year.html).
+[Some perspective](http://danielsjourney.com/2011/08/13/one-year.html).
 
 <iframe style="border: 0; width: 100%; height: 120px; margin-bottom: 1em;" src="http://bandcamp.com/EmbeddedPlayer/album=1033868237/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/t=1/transparent=true/" seamless><a href="http://music.sonluxmusic.com/album/son-lux-breakthru-radio-session">Son Lux (BreakThru Radio Session) by Son Lux</a></iframe>
 

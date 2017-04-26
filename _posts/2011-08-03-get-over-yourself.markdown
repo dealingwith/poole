@@ -3,7 +3,7 @@ layout: post
 title: "Get Over Yourself"
 ---
 
-<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/11%20Wake%20Me.mp3">Tom Conlon - Wake Me</a></span></span></p>
+<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/11%20Wake%20Me.mp3">Tom Conlon - Wake Me</a></span></span></p>
 
 Some days I feel like I need a shirt that says: "I lost my daughter. Get over yourself."
 
@@ -28,7 +28,7 @@ Then on the way home from work I stopped by Whole Foods for Necessary Supplies (
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/11%20Wake%20Me.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/11%20Wake%20Me.mp3",  
         titles: "Wake Me",  
         artists: "Tom Conlon"});
   });

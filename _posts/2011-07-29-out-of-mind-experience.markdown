@@ -19,10 +19,10 @@ Ezra Caldwell* posted an intimate and important** [post](http://www.fastboycycle
 
 <hr>
 
-My friend and producer Salim Nourallah has a new record coming out this summer. Be on the lookout for it. This tune crossed my desk about the same time as Ezra's post and seemed to just fit. Had a stressful day today, but it&rsquo;s odd how not-really-stressful &ldquo;normal&rdquo; stress is to me now. Intellectually I know that circumstances are stressful, I even see it written across my friends&rsquo; faces&hellip;but my heart is less troubled. The scale [has been re-calibrated after all](http://2010.danielsjourney.com/2011/02/28/I-can-not-go-on.html).
+My friend and producer Salim Nourallah has a new record coming out this summer. Be on the lookout for it. This tune crossed my desk about the same time as Ezra's post and seemed to just fit. Had a stressful day today, but it&rsquo;s odd how not-really-stressful &ldquo;normal&rdquo; stress is to me now. Intellectually I know that circumstances are stressful, I even see it written across my friends&rsquo; faces&hellip;but my heart is less troubled. The scale [has been re-calibrated after all](http://danielsjourney.com/2011/02/28/I-can-not-go-on.html).
 
 <iframe width="500" height="314" src="http://www.youtube.com/embed/_rEVko3rHoI?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
 <p class="date" style="margin-top:2em;">July 29, 2011</p>
 
-<p class="postscript">* Who you <a href="http://2010.danielsjourney.com/2010/10/24/fast-boy.html">will remember from previous posts</a>.<br><br>** &hellip;at least for those who have also experienced traumatic times in their lives; it ties into a lot of things about fear that I have been thinking about lately; about how to deal with the realities of the future given the horrors of the past; about <a href="http://2010.danielsjourney.com/2011/02/06/a-black-wave-is-comin.html">coping</a> with whatever that traumatic experience did to one's psychology.</p>
+<p class="postscript">* Who you <a href="http://danielsjourney.com/2010/10/24/fast-boy.html">will remember from previous posts</a>.<br><br>** &hellip;at least for those who have also experienced traumatic times in their lives; it ties into a lot of things about fear that I have been thinking about lately; about how to deal with the realities of the future given the horrors of the past; about <a href="http://danielsjourney.com/2011/02/06/a-black-wave-is-comin.html">coping</a> with whatever that traumatic experience did to one's psychology.</p>

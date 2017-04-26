@@ -3,7 +3,7 @@ layout: post
 title: "Fear, Flatulence, Fingers, Fabulous"
 ---
 
-<img src="http://2010.danielsjourney.com/files/bathroom_huddle.jpg" title="Bathroom Huddle">
+<img src="http://danielsjourney.com/files/bathroom_huddle.jpg" title="Bathroom Huddle">
 
 Last night hail and tornados fell upon our city, distracting Penn from his homework and generally striking fear into the populace of our metroplex. As [the weather man](http://twitpic.com/52522m) continued to pronounce the imminent destruction of our homes and businesses, Penn expressed multiple times, _"I'm scared!"_ My only response was, "I am too! We all are!" I have a whole post about fear coming up.
 

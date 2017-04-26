@@ -3,7 +3,7 @@ layout: post
 title: "All You Lucky People"
 ---
 
-<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/13%20All%20You%20Lucky%20People.mp3">Adam Again - All You Lucky People</a></span></span></p>
+<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/13%20All%20You%20Lucky%20People.mp3">Adam Again - All You Lucky People</a></span></span></p>
 
 I'm after it  
 And you'll know  
@@ -14,7 +14,7 @@ Say hello
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/13%20All%20You%20Lucky%20People.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/13%20All%20You%20Lucky%20People.mp3",  
         titles: "All You Lucky People",  
         artists: "Adam Again"});
   });

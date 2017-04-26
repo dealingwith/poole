@@ -3,7 +3,7 @@ layout: post
 title: "The Gathering Gloom in the Stable Room"
 ---
 
-<img src="http://2010.danielsjourney.com/files/MG_9765.jpg" title="Photo by Kelsey Foster http://kelseyfoster.net">
+<img src="http://danielsjourney.com/files/MG_9765.jpg" title="Photo by Kelsey Foster http://kelseyfoster.net">
 
 Last Sunday we had the privilege of attending [The Dallas Family Band](http://dallasfamilyband.com/)'s "christmas/carol-singing/merrymaking festivities" at [Murray Street Coffee](http://murraystreetcoffee.com/). There was also plentiful, tasty food provided by the attendees.
 

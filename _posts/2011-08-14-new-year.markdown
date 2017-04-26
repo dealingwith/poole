@@ -17,7 +17,7 @@ I had more to say but have run out of time multiple times. Thank you all for you
 
 <p class="media"><span class="audioplayer"><span id="audioplayer_1"></span></span></p>
 
-([Here is the directory with all the tunes, for your time-shifted enjoyment](http://2010.danielsjourney.com/files/NewYear/). There is one bonus track in there, not included in the player because there is a reader of this blog for whom it would be too difficult to hear.)
+([Here is the directory with all the tunes, for your time-shifted enjoyment](http://danielsjourney.com/files/NewYear/). There is one bonus track in there, not included in the player because there is a reader of this blog for whom it would be too difficult to hear.)
 
 <p class="date">August 14, 2011</p>
 
@@ -25,7 +25,7 @@ I had more to say but have run out of time multiple times. Thank you all for you
   $(function(){
     AudioPlayer.embed("audioplayer_1", 
       {
-        soundFile: "http://2010.danielsjourney.com/files/NewYear/03%20Don't%20Stop%20Believing.mp3, http://2010.danielsjourney.com/files/NewYear/01%20New%20Years%20Day.mp3, http://2010.danielsjourney.com/files/NewYear/01%20So%20am%20I.mp3, http://2010.danielsjourney.com/files/NewYear/01%20Faithfully.mp3",  
+        soundFile: "http://danielsjourney.com/files/NewYear/03%20Don't%20Stop%20Believing.mp3, http://danielsjourney.com/files/NewYear/01%20New%20Years%20Day.mp3, http://danielsjourney.com/files/NewYear/01%20So%20am%20I.mp3, http://danielsjourney.com/files/NewYear/01%20Faithfully.mp3",  
         titles: "Don't Stop Believing, New Years Day, So Am I, Faithfully",  
         artists: "Clem Snide, Andy Zipf, Andy Zipf, Clem Snide"});
   });

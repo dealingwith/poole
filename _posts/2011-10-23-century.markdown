@@ -17,7 +17,7 @@ On top of that it was rather windy on the scheduled day and I have two friends, 
 
 At one point, somewhere in the last 25 miles of the ride, I was by myself in the hills southeast of Mesquite, and I started singing _Warriors of Love_ by my friend Salim Nourallah. It's off a record he's not released yet, except to those who pledged to it prior to its production.
 
-<span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/08%20Warriors%20of%20Love.mp3">Salim Nourallah - Warriors of Love</a></span></span>
+<span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/08%20Warriors%20of%20Love.mp3">Salim Nourallah - Warriors of Love</a></span></span>
 
 As I sung the first line of the chorus--_now is the time, to go the way of the warriors_--I felt chills flow across my body and I knew they weren't the "bonk chills", despite my fatigue.* 
 
@@ -29,7 +29,7 @@ It felt very much like her presence. It is a feeling I desire every day. And it 
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/08%20Warriors%20of%20Love.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/08%20Warriors%20of%20Love.mp3",  
         titles: "Warriors of Love",  
         artists: "Salim Nourallah"});
   });

@@ -24,7 +24,7 @@ While I covet the resources, space and comfort on display along the "rich" route
 
 ### Contentment
 
-I've always struggled with the balance between contentment and drive. I spent so much of my life discontent and striving towards some unknowable happiness that when I arrived at it [I didn't know what to do](http://themusicgroup.org/track/what-am-i-supposed-to-do). More recent [events](http://2010.danielsjourney.com) then threw all ideas about contentment and happiness--or even trust in a higher purpose--to the wind. 
+I've always struggled with the balance between contentment and drive. I spent so much of my life discontent and striving towards some unknowable happiness that when I arrived at it [I didn't know what to do](http://themusicgroup.org/track/what-am-i-supposed-to-do). More recent [events](http://danielsjourney.com) then threw all ideas about contentment and happiness--or even trust in a higher purpose--to the wind. 
 
 ![Calvin and Hobbes: History is the fiction we invent to persuade ourselves that events are knowable and that life has order and direction.](/files/2012/03/calvin_history.jpg)
 

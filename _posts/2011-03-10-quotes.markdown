@@ -43,11 +43,11 @@ Alfred North Whitehead:
 
 <p class="postscript">I was searching for the Whitehead quote &ldquo;It is the business of the future to be dangerous&rdquo; about a year ago because of the DJ Spooky song <em>Synchronic Disjecta</em>.</p>
 
-<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/02%20Synchronic%20Disjecta.mp3">DJ Spooky - Synchronic Disjecta</a></span></span></p>
+<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/02%20Synchronic%20Disjecta.mp3">DJ Spooky - Synchronic Disjecta</a></span></span></p>
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/02%20Synchronic%20Disjecta.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/02%20Synchronic%20Disjecta.mp3",  
         titles: "Synchronic Disjecta",  
         artists: "DJ Spooky"});
   });

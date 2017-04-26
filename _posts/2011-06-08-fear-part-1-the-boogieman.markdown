@@ -3,7 +3,7 @@ layout: post
 title: "Fear, Part 1: The Boogieman"
 ---
 
-<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/The%20Fear.mp3">Travis - The Fear</a></span></span></p>
+<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/The%20Fear.mp3">Travis - The Fear</a></span></span></p>
 
 Had the craziest nightmare last night, but it was so interesting to me that when I woke up from it I didn't have that residual fear and icky feeling one usually has after waking from a nightmare, but was immediately struck by the meaning of it. I wish I had jumped out of bed immediately to capture the details, but unfortunately I have been extra tired this week and could not keep myself from falling back into a much more peaceful sleep.
 
@@ -22,7 +22,7 @@ As I looked at Carissa, bewildered, I reached to touch the back of my neck and a
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/The%20Fear.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/The%20Fear.mp3",  
         titles: "The Fear",  
         artists: "Travis"});
   });

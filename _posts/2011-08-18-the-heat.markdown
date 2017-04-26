@@ -22,7 +22,7 @@ It would seem the heat is driving everyone insane. For a while we were kept exci
   $(function(){
     AudioPlayer.embed("audioplayer_1", 
       {
-        soundFile: "http://2010.danielsjourney.com/files/Summertime.mp3",  
+        soundFile: "http://danielsjourney.com/files/Summertime.mp3",  
         titles: "It's Summertime",  
         artists: "The Flaming Lips"});
   });

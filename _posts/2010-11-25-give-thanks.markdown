@@ -3,7 +3,7 @@ layout: post
 title: "Give Thanks"
 ---
 
-<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/07%20The%20Wind%20Has%20Left%20My%20Sail%20mp3.mp3">Chris Holt - The Wind Has Left My Sail</a></span></span></p>
+<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/07%20The%20Wind%20Has%20Left%20My%20Sail%20mp3.mp3">Chris Holt - The Wind Has Left My Sail</a></span></span></p>
 
 All you  
 whose whole family  
@@ -48,7 +48,7 @@ give thanks
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/07%20The%20Wind%20Has%20Left%20My%20Sail%20mp3.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/07%20The%20Wind%20Has%20Left%20My%20Sail%20mp3.mp3",  
         titles: "The Wind Has Left My Sail",  
         artists: "Chris Holt"});
   });

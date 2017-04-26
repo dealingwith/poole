@@ -3,7 +3,7 @@ layout: post
 title: "Before/After"
 ---
 
-<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/ChemSet/05%20Love%20(Dance%20on%20the%20one%20that%20brought%20you).mp3">The Chemistry Set - Love (Dance on the one that brought you)</a></span></span></p>
+<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/ChemSet/05%20Love%20(Dance%20on%20the%20one%20that%20brought%20you).mp3">The Chemistry Set - Love (Dance on the one that brought you)</a></span></span></p>
 
 I used to define my life in terms of before and after certain relationships. But the one that lasted from 2009 to 2010 has trumped everything and defined my life into a binary before/after that makes all others simply lumped into one amorphous before.
 
@@ -25,7 +25,7 @@ I used to define my life in terms of before and after certain relationships. But
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/ChemSet/01%20New%20Hope%20PA.mp3,http://2010.danielsjourney.com/files/ChemSet/05%20Love%20(Dance%20on%20the%20one%20that%20brought%20you).mp3,http://2010.danielsjourney.com/files/ChemSet/08%20Pilot%20kiss%20my%20karma.mp3,http://2010.danielsjourney.com/files/ChemSet/09%20T-rex%20devours%20the%20glitteratti.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/ChemSet/01%20New%20Hope%20PA.mp3,http://danielsjourney.com/files/ChemSet/05%20Love%20(Dance%20on%20the%20one%20that%20brought%20you).mp3,http://danielsjourney.com/files/ChemSet/08%20Pilot%20kiss%20my%20karma.mp3,http://danielsjourney.com/files/ChemSet/09%20T-rex%20devours%20the%20glitteratti.mp3",  
         titles: "New Hope PA,Love (Dance on the one that brought you),Pilot kiss my karma,T-rex devours the glitteratti",  
         artists: "The Chemistry Set"});
   });

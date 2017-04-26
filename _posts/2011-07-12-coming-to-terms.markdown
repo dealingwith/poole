@@ -3,7 +3,7 @@ layout: post
 title: "Coming to Terms"
 ---
 
-<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://2010.danielsjourney.com/files/01%20I%20Ain't%20The%20Kind%20For%20Givin'%20Up.mp3">Andy Zipf - I Ain't the Kind for Givin' Up</a></span></span></p>
+<p class="media"><span class="audioplayer"><span id="audioplayer_1"><a href="http://danielsjourney.com/files/01%20I%20Ain't%20The%20Kind%20For%20Givin'%20Up.mp3">Andy Zipf - I Ain't the Kind for Givin' Up</a></span></span></p>
 
 You might have noticed a gradually increasing dearth of posts around here. I've been busy. [Work](http://extrasauce.com) has been (lately, very) busy and, I dare say, enjoyable. I've had the amazing luck to have gone from one amazing team (Collecta&mdash;where I was for the last two years) to yet another. I cannot hide my excitement about the group of people I've found myself surrounded by at Extra Sauce and I must confess a somewhat disturbing affection* for my coworkers. I have a good feeling about this one.
 
@@ -48,7 +48,7 @@ Summer. It's alright.
 
 <script type="text/javascript">  
   $(function(){
-    AudioPlayer.embed("audioplayer_1", {soundFile: "http://2010.danielsjourney.com/files/01%20I%20Ain't%20The%20Kind%20For%20Givin'%20Up.mp3",  
+    AudioPlayer.embed("audioplayer_1", {soundFile: "http://danielsjourney.com/files/01%20I%20Ain't%20The%20Kind%20For%20Givin'%20Up.mp3",  
         titles: "I Ain't the Kind for Givin' Up",  
         artists: "Andy Zipf"});
   });

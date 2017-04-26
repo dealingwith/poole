@@ -16,7 +16,7 @@ Work continues apace, full of all the challenges I signed up for. Life-stuff con
 
 In the evenings we have dinner together and then I hold Lucy while Carissa puts Penn to bed. Then she takes Lucy and puts her to bed, sometimes falling asleep with her. I'm usually not far behind.
 
-I still make plans, as we all do. For this spring I'm hoping to do a few epic [rides](http://2010.danielsjourney.com/2011/10/23/century.html), continue work on my next record and finish a few other projects that have been hanging around for a while. Here's a little teaser of that record. I'm cautiously hoping to have it out in the fall.
+I still make plans, as we all do. For this spring I'm hoping to do a few epic [rides](http://danielsjourney.com/2011/10/23/century.html), continue work on my next record and finish a few other projects that have been hanging around for a while. Here's a little teaser of that record. I'm cautiously hoping to have it out in the fall.
 
 <span id="audioplayer_1"><a href="http://blog.danielsjourney.com/files/2012/02/A-Beautiful-Place-sample.mp3">A Beautiful Place</a></span>
 

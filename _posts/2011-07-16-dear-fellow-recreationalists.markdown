@@ -3,7 +3,7 @@ layout: post
 title: "Dear Fellow Recreational Utilizers of the Trails and Roads Near White Rock Lake, Dallas, Texas"
 ---
 
-<img src="http://2010.danielsjourney.com/files/fat-cyclist.jpg" title="fat cyclist">
+<img src="http://danielsjourney.com/files/fat-cyclist.jpg" title="fat cyclist">
 
 While it is [very hot outside](http://twitter.com/#!/dealingwith/status/92007355289567233), this does not give you license to ride your bike shirtless. The only males who are allowed to bicycle shirtless are surfers and other drunk [beachgoers](http://media.photobucket.com/image/fat%20shirtless%20bicyclist/nollpost/mrnspace/fat%20guys%20on%20bikes/Florida100.jpg). (Women, in general, are [excused from this rule](http://www.flickr.com/search/?q=topless%20bicyclist), yet almost never break it.) Despite your proximity to water, there are no beaches at White Rock Lake. In fact, Dallas is what we refer to as &ldquo;landlocked&rdquo; in that the nearest beach is a five hour drive by motorcar. This rule applies to all men but even more so to fat men. It also applies to the adiposely-advanced runner. No one wants to see even the smallest of man-boobs bounce. Further, wearing only a heart rate monitor above the waist is evidence of even more severe social impairment and grounds for institutionalization.
 
