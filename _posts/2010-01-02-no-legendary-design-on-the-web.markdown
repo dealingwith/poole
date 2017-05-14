@@ -11,15 +11,16 @@ categories:
  - design
 ---
 
-[Why there are no legendary web designers][1] got me all in bunch earlier
+_Why there are no legendary web designers_ (`dead link`) got me all in bunch earlier
 today, had to share here. In reply to:
 
 > The web is a low resolution, low fidelity, crappy medium.
 
+> A quick gut check: Would you ever hang a web design on your wall?
 
-A quick gut check: Would you ever hang a web design on your wall?
+...etc.
 
-...etc...you can go read the rest of the piece if you want, I replied:
+I replied:
 
 > Couldn't disagree more. There are plenty of web designs that I would project
 onto my wall (or maybe display in a digital frame)--printing them would be
@@ -31,16 +32,12 @@ TechCrunch and CNN then no, certainly not. But there are some amazing artists
 doing work designed and delivered on the web. Similarly, there are some very
 famous artists who used low-fidelity technologies centrally in their art.
 
-
-Your other arguments fall apart equally as fast--looking at a painting is a
+> Your other arguments fall apart equally as fast--looking at a painting is a
 solitary experience abstracted from our sense of touch and smell, and yet the
 visual arts is one of our primary artistic forms.
 
-
-Also, it's 2010! If you are bashing the web based on bandwidth and screen
+> Also, it's 2010! If you are bashing the web based on bandwidth and screen
 resolution, where were you in 2000, or 1995?
-
-   [1]: http://uxhero.com/ux-theory/why-there-are-no-legendary-web-designers/
 
    
 

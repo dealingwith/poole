@@ -168,9 +168,9 @@ article {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: Avenir, Sans-Serif;//"BlinkMacSystemFont", //"Helvetica Neue", Sans-Serif;
-  font-size: 18px;
-  line-height: 1.4em;
+  font-family: 'Noto Sans', Avenir, "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -468,4 +468,8 @@ a.pagination-item:hover {
   &:before {
     content: 'search results:'
   }
+}
+
+s {
+  text-decoration-style: wavy;
 }

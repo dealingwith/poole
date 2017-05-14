@@ -20,6 +20,3 @@ categories:
 There might be more than one school of thought in design, but there is only one school of thought that is _right_.
 
    [3]: http://www.vitsoe.com/en/rw/about/dieterrams/gooddesign
-
-   
-
