@@ -11,20 +11,14 @@ title: Home
           {{ post.title }}
         </a>
       </h1>
-
       <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-
       {% if post.image %}
-       <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt"><div class="image" style="background-image:url({{ post.image }})"></div></a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt"><div class="image" style="background-image:url({{ post.image }})"></div></a>
       {% endif %}
-      
-      {% if post.excerpt %}
-       <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt }}&nbsp;⇢</a>
-      {% endif %}
-
-      <!-- {{ post.content }} -->
-
+      {% capture excerpt_size %}{{ post.excerpt | size | minus:2 }}{% endcapture %}
+      {% unless excerpt_size contains '-' %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt | strip_html }}&nbsp;⇢</a>
+      {% endunless %}
     </article>
   {% endfor %}
 </div>

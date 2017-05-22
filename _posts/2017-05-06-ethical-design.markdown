@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Ethical design"
-excerpt: "...if there’s no revolution, there’s no art in its service"
 date: 2017-05-06 14:54:46 -0500
 comments: true
 categories: 
