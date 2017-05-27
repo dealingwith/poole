@@ -5,18 +5,21 @@
 
   <body>
 
+    <header class="masthead">
+      <h3 class="masthead-title narrow">
+        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+        <small>{{ site.tagline }}</small>
+      </h3>
+    </header>
+
+    <div class="menu">
+      <a class="menu-item" href="{{ site.baseurl }}/about.html" title="About">About</a>
+      <a class="menu-item" href="https://danielmiller.bandcamp.com/" title="Music">Music</a>
+      <a class="menu-item" href="http://minecraftu.org/" title="MinecraftU">Minecraft U</a>
+      <div style="clear:both"></div>
+    </div>
+
     <div class="container content">
-      <header class="masthead">
-        <h3 class="masthead-title narrow">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h3>
-        <p class="menu">
-          <a href="{{ site.baseurl }}/about.html" title="About" class="menu-item">About</a>
-          <a href="https://danielmiller.bandcamp.com/" title="Music" class="menu-item">Music</a>
-          <a href="http://minecraftu.org/" title="MinecraftU" class="menu-item">Minecraft U</a>
-        </p>
-      </header>
 
       <main>
         {{ content }}
@@ -28,7 +31,5 @@
         </small>
       </footer>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://hypothes.is/embed.js" async></script>
   </body>
 </html>
