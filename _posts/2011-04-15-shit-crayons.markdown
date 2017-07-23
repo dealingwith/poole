@@ -20,18 +20,14 @@ Crayon. A magic crayon is a tool that facilitates creativity in a way that
 wouldn't otherwise be possible. A magic crayon lets its users breathe life
 into things.
 
-
-Some would like to think that all crayons are magic ones. That just any old
+> Some would like to think that all crayons are magic ones. That just any old
 thing can conjure. But that's not true. The magic crayon has a shadow side.
 
+> Some barriers are benign, but others are insidious...
 
-Some barriers are benign, but others are insidious...
+> Inspirations like that are not magic crayons, but shit crayons...
 
-
-Inspirations like that are not magic crayons, but shit crayons...
-
-
-Even if creativity comes from constraint, there's constraint and there's
+> Even if creativity comes from constraint, there's constraint and there's
 incarceration. A despot in a sorcerer's hat does not deserve praise for
 inciting desperate resilience.
 

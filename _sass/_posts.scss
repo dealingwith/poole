@@ -10,14 +10,13 @@
 
 // Blog post or page title
 .page-title,
-.post-title,
 .post-title {
   a {
     color: #303030;
     margin: -5px;
     padding: 5px;
     &:hover {
-      background-color: rgba($yellow,.5);
+      // border-bottom: 2px solid $yellow;
     }
   }
 }

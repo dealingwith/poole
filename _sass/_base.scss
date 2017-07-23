@@ -16,15 +16,11 @@ body {
   margin: 0;
 }
 
-html {
-  background: $black;
-  padding: 10px;
-}
-
 body {
   color: $black;
-  background-color: #fff;
+  background-color: white;
   padding: 0;
+  margin: 0;
 }
 
 // No `:visited` state is required by default (browsers will use `a`)
@@ -37,8 +33,7 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    //border-bottom: 1px solid lighten(#268bd2, 20);
-    background-color: $yellow;
+    background: rgba($yellow,.4);
   }
 
   strong {
@@ -60,7 +55,6 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  // border-radius: 5px;
 }
 
 table {
@@ -100,24 +94,17 @@ tbody tr:nth-child(odd) th {
 }
 
 .menu {
-  border-bottom: $border;
-  margin: 0 0 1rem;
-  padding: 0;
+  padding: 0 0 1rem;
 }
 
 .menu-item {
-  border-right: $border;
+  border-right: 1px solid $black;
   display: block;
   float: left;
   font-size: 0.8rem;
   margin: 0px;
-  padding: 10px;
+  padding: 0px 1rem;
   text-align: center;
-  width: 33.33%;
-  // &:hover {
-  //   background: $grey;
-  //   color: $black;
-  // }
   &.last {
     border-right: 0px;
   }
@@ -136,18 +123,16 @@ article {
   color: lighten(#4C4C4C, 10);
   display: block;
   margin: -5px;
-  padding: 5px;
-  // &:hover {
-  //   background: $yellow;
-  //   border-bottom: none;
-  //   background: lighten($yellow, 15);
-  // }
+  &:not(.image) {
+    padding: 5px;
+  }
   div.image {
     background-position: center;
     background-size: cover;
     height: 200px;
   }
 }
+
 // Typography
 //
 // Headings, body text, lists, and other misc typographic elements.
@@ -277,7 +262,6 @@ a[href^="#fnref:"] {
 // Super small header above the content for site name and short description.
 
 .masthead {
-  border-bottom: 1px solid $light-grey;
   padding: 1rem;
   margin-bottom: 0;
 }
@@ -320,9 +304,9 @@ a[href^="#fnref:"] {
     color: #303030;
     margin: -5px;
     padding: 0 5px;
-    &:hover {
-      background-color: $yellow;
-    }
+    // &:hover {
+    //   background-color: $yellow;
+    // }
   }
 }
 .page-title,
