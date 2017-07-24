@@ -18,7 +18,7 @@ body {
 
 body {
   color: $black;
-  background-color: white;
+  background-color: #fdfdfd;
   padding: 0;
   margin: 0;
 }
@@ -31,9 +31,11 @@ a {
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
-  &:hover,
-  &:focus {
-    background: rgba($yellow,.4);
+  &:not(.image) {
+    &:hover,
+    &:focus {
+      background: rgba($yellow, .4);
+    }
   }
 
   strong {
@@ -98,12 +100,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .menu-item {
-  border-right: 1px solid $black;
-  display: block;
-  float: left;
+  // border-right: 1px solid $black;
+  // display: block;
+  // float: left;
   font-size: 0.8rem;
   margin: 0px;
-  padding: 0px 1rem;
+  // padding: 0px 1rem;
   text-align: center;
   &.last {
     border-right: 0px;
@@ -111,21 +113,15 @@ tbody tr:nth-child(odd) th {
 }
 
 .page, .post {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   padding-bottom: 1em;
-}
-
-article {
-  border-bottom: $border;
 }
 
 .excerpt {
   color: lighten(#4C4C4C, 10);
   display: block;
   margin: -5px;
-  &:not(.image) {
-    padding: 5px;
-  }
+  padding: 5px;
   div.image {
     background-position: center;
     background-size: cover;
@@ -138,14 +134,14 @@ article {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: 'Noto Sans', Avenir, "Helvetica Neue", sans-serif;
-  font-size: 1rem;
+  font-family: Avenir, sans-serif;
+  font-size: 1.1rem;
   line-height: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: $black;
-  font-family: Avenir, Sans-Serif;
+  font-family: Avenir, sans-serif;
   font-weight: 500;
   line-height: 1.2em;
   margin-bottom: 1rem;
@@ -268,7 +264,7 @@ a[href^="#fnref:"] {
 
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 4rem;
   color: #505050;
 
   a {
@@ -276,9 +272,9 @@ a[href^="#fnref:"] {
   }
 
   small {
-    font-size: 75%;
-    font-weight: 400;
-    color: $grey;
+    font-size: .9rem;
+    font-weight: 500;
+    color: lighten($black, .8);
     letter-spacing: 0;
     @media (max-width: 435px) { 
       display: block;
@@ -364,7 +360,7 @@ a[href^="#fnref:"] {
 .pagination {
   overflow: hidden; // clearfix
   margin: 0 -1.5rem 1rem;
-  font-family: "Helvetica Neue", Sans-Serif; //"PT Sans", Helvetica, Arial, sans-serif;
+  // font-family: "Helvetica Neue", Sans-Serif; //"PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }

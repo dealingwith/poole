@@ -8,12 +8,12 @@ title: Home
     <article class="post">
       <h1 class="post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
+          {{ post.title | capitalize }}
         </a>
       </h1>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
       {% if post.image %}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt" class="image"><div class="image" style="background-image:url({{ post.image }})"></div></a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt image"><div class="image" style="background-image:url({{ post.image }})"></div></a>
       {% endif %}
       {% capture excerpt_size %}{{ post.excerpt | size | minus:2 }}{% endcapture %}
       {% unless excerpt_size contains '-' %}

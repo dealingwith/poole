@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Duke Special Record Forthcoming"
-excerpt: 
+excerpt: ""
 image: "/assets/2017/07/duke.jpg"
 date: 2017-07-08 14:06:47 -0500
 comments: true

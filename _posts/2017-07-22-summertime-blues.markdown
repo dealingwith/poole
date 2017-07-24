@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Summertime blues"
-image: "/assets/2017/07/hot.png"
 excerpt: "This is not ok."
 date: 2017-07-22 19:13:48 -0500
 comments: true

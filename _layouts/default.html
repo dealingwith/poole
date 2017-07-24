@@ -7,17 +7,18 @@
 
     <header class="masthead">
       <h3 class="masthead-title narrow">
-        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-        <small>{{ site.tagline }}</small>
+        <a href="{{ site.baseurl }}/" title="Home">Daniel Miller</a> &nbsp;
+        <small>
+          <a class="menu-item" href="{{ site.baseurl }}/about.html" title="About">About</a> &nbsp;/&nbsp;
+          <a class="menu-item" href="https://danielmiller.bandcamp.com/" title="Music">Music</a> &nbsp;/&nbsp;
+          <a class="menu-item last" href="http://minecraftu.org/" title="MinecraftU">Minecraft U</a>
+        </small>
       </h3>
     </header>
-
+<!-- 
     <div class="menu">
-      <a class="menu-item" href="{{ site.baseurl }}/about.html" title="About">About</a>
-      <a class="menu-item" href="https://danielmiller.bandcamp.com/" title="Music">Music</a>
-      <a class="menu-item last" href="http://minecraftu.org/" title="MinecraftU">Minecraft U</a>
       <div style="clear:both"></div>
-    </div>
+    </div> -->
 
     <div class="container content">
 
@@ -27,7 +28,8 @@
 
       <footer class="footer">
         <small>
-          <img src="{{ site.baseurl }}/assets/cc.large.png" style="height: 1rem; display: inline; margin: 0px 2px -3px 0px"> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. <a href="http://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>.
+          <!-- <img src="{{ site.baseurl }}/assets/cc.large.png" style="height: 1rem; display: inline; margin: 0px 2px -3px 0px"> --> 
+          <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons licensed</a>, 2001&ndash;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
         </small>
       </footer>
     </div>
