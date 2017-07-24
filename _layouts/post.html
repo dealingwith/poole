@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  <h1 class="post-title">{{ page.title | capitalize }}</h1>
+  <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {{ content }}
   <p class="small" style="margin-top:2rem;color:#ccc">{{ page.content | number_of_words }} words</p>
