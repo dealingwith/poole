@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Design"
+title: "New design"
 excerpt: "...same as the old design"
 date: 2017-07-23 15:52:22 -0500
 comments: true
