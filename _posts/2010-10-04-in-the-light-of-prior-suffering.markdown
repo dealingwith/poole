@@ -3,8 +3,6 @@ layout: post
 title: "In the Light of Prior Suffering"
 ---
 
-<img src="http://farm2.static.flickr.com/1038/1479737040_8ab5e230ea.jpg" title="# http://www.flickr.com/photos/dealingwith/1479737040/in/set-72157604534049552/">
-
 > Maybe being totally perfect isn't all it's cracked up to be...
 
 "Maybe there is a fear that comes late at night, on a rare night alone, in the dark of a cold winter after the city has quieted its daily celebration. Maybe there is a fear that it might not last. Maybe there is a knowledge of terror, of that sun of success and comfort and ease making its way towards the horizon. Maybe there is an uncertainty of how long the ensuing night will last. A lack of experience of how long that closest star will be pointed at the other side of the world.  
@@ -20,7 +18,3 @@ title: "In the Light of Prior Suffering"
 "We can live. We can learn. We can accept our fates of suffering, and if we are lucky, that suffering will teach us how not to force the sun to set on other lives sharing this universe with us."
 
 [From an old ramble of mine](http://docs.google.com/Doc?id=dfhn8fjc_140fjp8hcgc "Spiritual Conflict in the Everyday")
-
-<p class="date">October 4, 2010</p>
-
-<p class="postscript"></p>
