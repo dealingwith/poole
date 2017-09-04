@@ -153,7 +153,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   font-size: 1.5rem;
 }
 
@@ -193,8 +193,8 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 2px solid $grey;
-  border-bottom: 1px solid #fff;
+  border-top: 2px solid $light-grey;
+  // border-bottom: 1px solid #fff;
 }
 
 abbr {
@@ -265,10 +265,10 @@ a[href^="#fnref:"] {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 4rem;
-  color: #505050;
+  color: $black;
 
   a {
-    color: #505050;
+    color: $black;
   }
 
   small {
