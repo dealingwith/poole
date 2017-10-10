@@ -6,7 +6,7 @@
 .pagination {
   overflow: hidden; // clearfix
   margin: 0 -1.5rem 1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  // font-family: "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -14,12 +14,15 @@
 // Pagination items can be `span`s or `a`s
 .pagination-item {
   display: block;
-  padding: 1rem;
-  border: solid #eee;
-  border-width: 1px 0;
+  font-size: 0.8rem;
+  padding: 0.8rem;
 
   &:first-child {
     margin-bottom: -1px;
+  }
+
+  &.newer {
+    text-align: right;
   }
 }
 

@@ -25,4 +25,4 @@ author:
   url:               https://twitter.com/dealingwith
   email:             dealingwith@gmail.com
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]

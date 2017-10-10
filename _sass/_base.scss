@@ -176,6 +176,9 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  ul, ol, dl {
+    margin-bottom: 0;
+  }
 }
 
 dt {
@@ -346,11 +349,9 @@ a[href^="#fnref:"] {
 // there are no more previous or next posts to show.
 
 .pagination {
-  overflow: hidden; // clearfix
-  margin: 0 -1.5rem 1rem;
-  // font-family: "Helvetica Neue", Sans-Serif; //"PT Sans", Helvetica, Arial, sans-serif;
-  color: #ccc;
-  text-align: center;
+  display: block;
+  font-size: 0.8rem;
+  padding: 0.8rem;
 }
 
 // Pagination items can be `span`s or `a`s
@@ -358,7 +359,8 @@ a[href^="#fnref:"] {
   display: block;
   padding: 1rem;
   border: solid #eee;
-  border-width: 1px 0;
+  border-width: 1px;
+  text-align: center;
 
   &:first-child {
     margin-bottom: -1px;
@@ -378,7 +380,11 @@ a.pagination-item:hover {
   .pagination-item {
     float: left;
     width: 50%;
-    border-width: 1px;
+    text-align: left;
+
+    &.newer {
+      text-align: right;
+    }
 
     &:first-child {
       margin-bottom: 0;
