@@ -96,20 +96,17 @@ tbody tr:nth-child(odd) th {
 }
 
 .menu {
-  padding: 0 0 1rem;
+  display: inline-block;
+  @media (max-width: 435px) { 
+    display: block;
+  }
 }
 
 .menu-item {
-  // border-right: 1px solid $black;
-  // display: block;
-  // float: left;
-  font-size: 0.8rem;
-  margin: 0px;
-  // padding: 0px 1rem;
-  text-align: center;
-  &.last {
-    border-right: 0px;
-  }
+  font-size: .9rem;
+  font-weight: 500;
+  color: lighten($black, .8);
+  letter-spacing: 0;
 }
 
 .page, .post {
@@ -266,19 +263,10 @@ a[href^="#fnref:"] {
   margin-top: 0;
   margin-bottom: 4rem;
   color: $black;
+  font-weight: bold;
 
   a {
     color: $black;
-  }
-
-  small {
-    font-size: .9rem;
-    font-weight: 500;
-    color: lighten($black, .8);
-    letter-spacing: 0;
-    @media (max-width: 435px) { 
-      display: block;
-    }
   }
 }
 
