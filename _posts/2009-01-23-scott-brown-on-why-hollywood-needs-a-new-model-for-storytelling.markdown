@@ -12,26 +12,10 @@ categories:
  - story
 ---
 
-![][1]
+I have a ton of backlogged stuff to put on this blog, but this one is quick and easy, and if you read this article without irony, it could be the "about" page for this blog.
 
-I have a ton of backlogged stuff to put on this blog, but this one is quick
-and easy, and if you read this article without irony, it could be the "about"
-page for this blog.
-
-> Brothers and sisters, we are gathered here today to mourn the death of
-Story. As you may have heard, it's kaput—or, at the very least, terminally
-ill, wracked by videogames, wikis, recaps, talkbacks, YouTube, ADD, and the
-rise of a multiplatform, multipolar, mashup-media culture. Hollywood, vendor
-of Story in its most denatured form, is most at risk: The film industry is
-slowly but steadily being forced to part with quaint artifacts like the
-"hero's journey," Joseph Campbell's so-called Monomyth. (Which is just so ...
-well ... mono.)
+> Brothers and sisters, we are gathered here today to mourn the death of Story. As you may have heard, it's kaput--or, at the very least, terminally ill, wracked by videogames, wikis, recaps, talkbacks, YouTube, ADD, and the rise of a multiplatform, multipolar, mashup-media culture. Hollywood, vendor of Story in its most denatured form, is most at risk: The film industry is slowly but steadily being forced to part with quaint artifacts like the "hero's journey," Joseph Campbell's so-called Monomyth. (Which is just so...well...mono.) Beginnings, middles, and ends are headed for the attic...
 
 [more...][2]
 
-   [1]: http://danielsjourney.com/blog/files/2009/01/pl_brown_f.jpg
-
    [2]: http://wired.com/techbiz/people/magazine/17-02/pl_brown
-
-   
-

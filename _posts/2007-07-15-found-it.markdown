@@ -14,5 +14,5 @@ categories:
 ---
 
 Je t'aime, mais, parce qu'inexplicablement j'aime en toi quelque chose plus
-que toi - l'objet petit a, je te mutile.
+que toi--l'objet petit a, je te mutile.
 

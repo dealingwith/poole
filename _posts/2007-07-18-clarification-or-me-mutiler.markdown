@@ -28,30 +28,20 @@ identity and authority.
 
 [Salecl][3], 121
 
-In both love and hate, we position _l'objet petit a_ in the place of the
-Other. When the _a_ has become a critical element of our identity formation
-(which is the nature of its existence in the first place), it is no wonder how
-we flip from love to hate so easily and so violently. It is our own identity
-that is paramount, and the human signifier of that identity will be used
-however necessary to maintain that identity.
+In both love and hate, we position _l'objet petit a_ in the place of the Other. When the _a_ has become a critical element of our identity formation (which is the nature of its existence in the first place), it is no wonder how we flip from love to hate so easily and so violently. It is our own identity that is paramount, and the human signifier of that identity will be used however necessary to maintain that identity.
 
-[Part of all of this as it relates to me][4] is what I've made the _objet
-petit a_. ([See also][5]. I'm sure the connections I'm pointing out are too
-vague, even with the title attribute in my anchor tags.) But learning that
-perhaps a cojourneywoman [whose identity formation has moved beyond this set
-of almost animal mechanizations][6] would be...a place to start.
+[Part of all of this as it relates to me][4] is what I've made the _objet petit a_. ([See also][5]. I'm sure the connections I'm pointing out are too vague, even with the title attribute in my anchor tags.) But learning that perhaps a cojourneywoman [whose identity formation has moved beyond this set of almost animal mechanizations][6] would be...a place to start.
 
 There's more here. There's always more here. I'm late for many meetings.
 
-   [1]: http://dealingwith.livejournal.com/590495.html
+   [1]: {{ site.baseurl }}/2007/07/16/confluence-or-this-is-pretty-much-the-exact-opposite-of-my-experience.html
 
-   [2]: http://dealingwith.livejournal.com/588183.html
+   [2]: {{ site.baseurl }}/2007/07/06/2219.html
 
    [3]: http://www.amazon.com/Perversions-Love-Hate-Renata-Salecl/dp/1859842364/ref=sr_1_3/002-1068956-0436006?ie=UTF8&s=books&qid=1182582014&sr=8-3
 
-   [4]: http://dealingwith.livejournal.com/590755.html (an excerpt from MikeRiddells Jerusalem, Jerusalem that I broke down at the end of. like. bigsobs.)
+   [4]: {{ site.baseurl }}/2007/07/17/an-excerpt-from-mike-riddells-jerusalem-jerusalem-that-i-broke-down-at-the-end-of-like-big-sobs.html
 
-   [5]: http://dealingwith.livejournal.com/571387.html#cutid1 (For eachdiscourse can be said to be defined by a system of specific constraints thatfunction as the law of the language; and the effects of this discourse are the products of the constraints. In the case of the unconscious, the constraints that function in this discourse produce the libido as its effect; in the case of ideological discourse, the constraints produce the effect of (mis)recognition.)
+   [5]: {{ site.baseurl }}/2007/05/21/a-head-spinning-loop-of-connecting-paradigms-concerning.html
 
-   [6]: http://dealingwith.livejournal.com/590495.html#cutid1 (desire for thathuman signifier who will not eradicate the radical lack, but perhaps occupy it with us)
-
+   [6]: {{ site.baseurl }}/2007/07/16/confluence-or-this-is-pretty-much-the-exact-opposite-of-my-experience.html
