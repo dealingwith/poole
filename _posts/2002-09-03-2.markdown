@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://www.city.ba/eng/sarajevo/index.shtml">CITY.BA - City info service for Bosnia and Herzegovina: Sarajevo</a>
-
