@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-			<a href="http://ned.suckahs.org/archives/001324.php">Bye Bye Blogger</a>
+<a href="http://ned.suckahs.org/archives/001324.php">Bye Bye Blogger</a>
 
 
-			
+

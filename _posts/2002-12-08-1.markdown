@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-			<i>"Well, I never saw it, but apparently it was frequency, duration and then she rated every incident on a scale of one to ten, then she ran graphs to show the quality over time." 
+<i>"Well, I never saw it, but apparently it was frequency, duration and then she rated every incident on a scale of one to ten, then she ran graphs to show the quality over time." 
 
 
 

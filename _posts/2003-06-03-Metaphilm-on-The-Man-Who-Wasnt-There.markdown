@@ -6,7 +6,7 @@ categories:
 ---
 
 
-			Metaphilm, as usual, heavy handed in their analysis; but considering The Stranger is one of my favorite books, I was surprised that I did not pick up on any of this...and it makes me ready to see the film (which I was initially disappointed with, now surprising based on this evidence) again...
+Metaphilm, as usual, heavy handed in their analysis; but considering The Stranger is one of my favorite books, I was surprised that I did not pick up on any of this...and it makes me ready to see the film (which I was initially disappointed with, now surprising based on this evidence) again...
 
 
 
@@ -28,5 +28,5 @@ The similarities between The Stranger and MWWT are just too coincidental. We can
 		
 
 
-			
+
 		

@@ -6,11 +6,11 @@ categories:
 ---
 
 
-			
+
 		
 
 
-			<img alt="tucepi1_web (18K)" src="images/sarajevo/may_2003/dalmatia/tucepi1_web.jpg" height="248" width="330" />
+<img alt="tucepi1_web (18K)" src="images/sarajevo/may_2003/dalmatia/tucepi1_web.jpg" height="248" width="330" />
 
 
 

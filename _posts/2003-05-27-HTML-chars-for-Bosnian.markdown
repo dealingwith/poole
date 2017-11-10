@@ -5,11 +5,11 @@ categories:
  - design
 ---
 
-			
+
 		
 
 
-			Much thanks to <a href="http://www.ellensjourney.org/stranger/">Ellen</a> who emailed to point me to <a href="http://balkansnet.org/diacritic.html">this</a>:
+Much thanks to <a href="http://www.ellensjourney.org/stranger/">Ellen</a> who emailed to point me to <a href="http://balkansnet.org/diacritic.html">this</a>:
 
 
 

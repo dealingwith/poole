@@ -6,9 +6,9 @@ categories:
 ---
 
 
-			Was looking for the exchange rate for Slovak Koruny and stumbled upon <a href="http://www.slovakia.org">slovakia.org</a>.
+Was looking for the exchange rate for Slovak Koruny and stumbled upon <a href="http://www.slovakia.org">slovakia.org</a>.
 		
 
 
-			
+
 		

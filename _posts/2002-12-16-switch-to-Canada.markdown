@@ -5,6 +5,6 @@ categories:
  - elsewhere
 ---
 
-			<a href="http://bantha.cjb.net/john/index.php">v cool switch ad</a>
+<a href="http://bantha.cjb.net/john/index.php">v cool switch ad</a>
 
 

@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-			hmmm doesn't sound anything like the WWII internment camps at <i>all</i>...
+hmmm doesn't sound anything like the WWII internment camps at <i>all</i>...
 
 
 
@@ -21,4 +21,4 @@ Honestly, I feel like the people saying we have to sacrifice the ideals of this 
 of security, are really just the most selfish, fear-driven, media-brainwashed people around.
 
 
-			
+

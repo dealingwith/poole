@@ -6,7 +6,7 @@ categories:
 ---
 
 
-			I'm actually really glad I don't have to try and explain this to you. <a href="http://ellensjourney.org/stranger/archives/000588.html">Great recap of a very weird Euro music thing I can't really explain</a>.
+I'm actually really glad I don't have to try and explain this to you. <a href="http://ellensjourney.org/stranger/archives/000588.html">Great recap of a very weird Euro music thing I can't really explain</a>.
 
 
 
@@ -18,5 +18,5 @@ categories:
 		
 
 
-			
+
 		

@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-			I interrupt this period of bloglessness to bring you this important announcement. The weekend I was in NYC staying with a friend from the UK, we watched some dvd's of this show, which is also on Bravo. Today on a whim I was checking out the website and found these must-see clips from an episode I'm now dieing to see (hint they have to do with Christianity and Dallas):
+I interrupt this period of bloglessness to bring you this important announcement. The weekend I was in NYC staying with a friend from the UK, we watched some dvd's of this show, which is also on Bravo. Today on a whim I was checking out the website and found these must-see clips from an episode I'm now dieing to see (hint they have to do with Christianity and Dallas):
 
 
 

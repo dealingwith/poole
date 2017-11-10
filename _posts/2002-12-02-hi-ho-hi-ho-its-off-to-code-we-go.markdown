@@ -5,7 +5,7 @@ categories:
  - design
 ---
 
-			
+
 I'm actually just testing out SWiM. I just got my archive feature working. With SWiM, you archive whenever you darn well feel like it (it will also eventually have the blogging status quo weekly/monthly archiving option). I have done a couple archives already, setting up the config files by hand, but now I have a little form where I just give the archive a title, and it sets everything up for me, updating my menu etc. etc. I personally like being able to archive whenever I want, because that way I can keep my files' sizes both small and consistant, archiving whenever I feel it appropriate given the number of posts over <i>n</i> days. <i>Anyway</i>, that means that I have done <a href="http://www.danielsjourney.com/index.php?archive=blog_2002_11_18.xml&id_pass=2">0.6 before even 0.2</a>, but it was ness. 0.2 is absolutely next, possibly before I publish this post, followed shortly by 0.2.1 and 0.5. 0.3, 4, and 7 are a little bit further out, with the rest seemingly way out there, but I think the Dec 31 timeframe is still doable.
 
 

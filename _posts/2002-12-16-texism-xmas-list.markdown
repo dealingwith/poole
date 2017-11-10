@@ -5,6 +5,6 @@ categories:
  - elsewhere
 ---
 
-			05. very cool...so simple...<a href="http://www.textism.com/article/647/">texism</a>
+05. very cool...so simple...<a href="http://www.textism.com/article/647/">texism</a>
 
 

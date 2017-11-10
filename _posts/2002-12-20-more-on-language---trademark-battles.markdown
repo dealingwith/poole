@@ -5,8 +5,8 @@ categories:
  - elsewhere
 ---
 
-			<i>So I'll still do my xeroxing on a Savin machine, thank you very much. And eat generic jello. I may 
-							not go rollerblading, but I will use kleenex (even if it's not made by Kimberly-Clark).
+<i>So I'll still do my xeroxing on a Savin machine, thank you very much. And eat generic jello. I may 
+	not go rollerblading, but I will use kleenex (even if it's not made by Kimberly-Clark).
 
               
 

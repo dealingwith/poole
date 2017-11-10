@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-			02. <a href="http://www.nickdenton.org/docs/80_percent_company.mht">the 80 percent company</a> by <a href="http://www.nickdenton.org/">Nick Denton</a>.
+02. <a href="http://www.nickdenton.org/docs/80_percent_company.mht">the 80 percent company</a> by <a href="http://www.nickdenton.org/">Nick Denton</a>.
 
 
 

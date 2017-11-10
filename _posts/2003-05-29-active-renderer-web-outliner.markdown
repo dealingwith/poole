@@ -5,7 +5,7 @@ categories:
  - design
 ---
 
-			<a href=" http://radio.weblogs.com/0104487/outlines/aR/activeRenderer.html">active renderer</a> for radio userland. may push me to make the big purchase of radio.
+<a href=" http://radio.weblogs.com/0104487/outlines/aR/activeRenderer.html">active renderer</a> for radio userland. may push me to make the big purchase of radio.
 
 
 
@@ -13,5 +13,5 @@ categories:
 		
 
 
-			
+
 		

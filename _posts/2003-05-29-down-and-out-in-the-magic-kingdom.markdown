@@ -6,11 +6,11 @@ categories:
 ---
 
 
-			I read <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0765304368/qid=1054208396/sr=8-1/ref=sr_8_1/102-3893155-1056901?v=glance&s=books&n=507846">this book</a> last week and have been meaning to write a review of it, but I have been less inspired the longer I wait (I've even since read Fight Club as well)...but I checked out the current reviews on amazon and in responding to one I will hopefully manage to dig a couple cents out my pocket:
+I read <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0765304368/qid=1054208396/sr=8-1/ref=sr_8_1/102-3893155-1056901?v=glance&s=books&n=507846">this book</a> last week and have been meaning to write a review of it, but I have been less inspired the longer I wait (I've even since read Fight Club as well)...but I checked out the current reviews on amazon and in responding to one I will hopefully manage to dig a couple cents out my pocket:
 		
 
 
-			<blockquote>With endorsements from Larry Lessig, Eric Raymond and Bruce sterling, I thought I couldn't go wrong. I discovered that I could. So I got wiser, but not happpy about it.
+<blockquote>With endorsements from Larry Lessig, Eric Raymond and Bruce sterling, I thought I couldn't go wrong. I discovered that I could. So I got wiser, but not happpy about it.
 
 
 

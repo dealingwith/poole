@@ -5,7 +5,7 @@ categories:
  - minutia
 ---
 
-			To whomever bought me the new Tom Petty record: THANK YOU! ...and please identify yourself so I can thank you a few more times personally... :)
+To whomever bought me the new Tom Petty record: THANK YOU! ...and please identify yourself so I can thank you a few more times personally... :)
 
 
 

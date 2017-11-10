@@ -5,7 +5,7 @@ categories:
  - fiction
 ---
 
-			First a little backstory: So I just walked home from the Dremo's open mic, where I played second-to-last to a handful of die-hards who came out and stayed out despite the snow. And I just walked home in the sub-sub temperatures and have arrived positively reeking of smoke to my cozy apartment four-or-so blocks away. I played my new version of Cohen's Hallelujah--yes, the 1M'th cover version of that song, but at least <i>this version</i> is mine--and it went over quite well.
+First a little backstory: So I just walked home from the Dremo's open mic, where I played second-to-last to a handful of die-hards who came out and stayed out despite the snow. And I just walked home in the sub-sub temperatures and have arrived positively reeking of smoke to my cozy apartment four-or-so blocks away. I played my new version of Cohen's Hallelujah--yes, the 1M'th cover version of that song, but at least <i>this version</i> is mine--and it went over quite well.
 
 
 

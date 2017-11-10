@@ -6,11 +6,11 @@ categories:
 ---
 
 
-			
+
 		
 
 
-			<img src="images/sarajevo/may_2003/dalmatia/makarska2_web.jpg" width="330" height="221" />
+<img src="images/sarajevo/may_2003/dalmatia/makarska2_web.jpg" width="330" height="221" />
 
 
 <img src="images/sarajevo/may_2003/dalmatia/makarska1_web.jpg" width="330" height="248" />

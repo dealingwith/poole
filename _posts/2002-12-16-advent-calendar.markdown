@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-			I've had a few things in my "to blog" fav folder for about 2 weeks, and I guess I'll blog them, even though I was considering just shutting up about it all.
+I've had a few things in my "to blog" fav folder for about 2 weeks, and I guess I'll blog them, even though I was considering just shutting up about it all.
 
 
 

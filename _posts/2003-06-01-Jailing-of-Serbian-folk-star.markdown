@@ -6,9 +6,9 @@ categories:
 ---
 
 
-			<a href="http://www.cp.org/english/online/full/Entertainment/030530/e053002A.html">Jailing of folk star spells trouble for Serbia's pop culture (The Canadian Press)</a>
+<a href="http://www.cp.org/english/online/full/Entertainment/030530/e053002A.html">Jailing of folk star spells trouble for Serbia's pop culture (The Canadian Press)</a>
 		
 
 
-			
+
 		

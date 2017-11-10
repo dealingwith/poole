@@ -5,12 +5,12 @@ categories:
  - comment
 ---
 
-			Joe Strummer has left us, gone up to join what can only be described as the most amazing rock band ever in the sky. Enough cannot be said about his place in our more recent cultural history.
+Joe Strummer has left us, gone up to join what can only be described as the most amazing rock band ever in the sky. Enough cannot be said about his place in our more recent cultural history.
 
 
 
 
-			One thing you might not know is that he had worked quite a bit with Michael Knott, one of my favorite "underground" guys. I was thinking during the <a href="http://www.danielsjourney.com/index.php?archive=blog_2002_12_15.xml&id_pass=63">Misfits show</a>, and this probably applied to Strummer, and most definately to Knott, that these guys really do not ~have it made~ in any sense of the phrase; they have worked their asses off for years for little to no financial rewards. They continue to ~live like artists~ in the truest sense of the word, day in, day out. No real brass ring. Hell, probly no health insurance. Living loan (aka recording contract) to loan, year to year.
+One thing you might not know is that he had worked quite a bit with Michael Knott, one of my favorite "underground" guys. I was thinking during the <a href="http://www.danielsjourney.com/index.php?archive=blog_2002_12_15.xml&id_pass=63">Misfits show</a>, and this probably applied to Strummer, and most definately to Knott, that these guys really do not ~have it made~ in any sense of the phrase; they have worked their asses off for years for little to no financial rewards. They continue to ~live like artists~ in the truest sense of the word, day in, day out. No real brass ring. Hell, probly no health insurance. Living loan (aka recording contract) to loan, year to year.
 
 
 

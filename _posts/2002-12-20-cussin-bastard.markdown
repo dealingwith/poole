@@ -5,8 +5,8 @@ categories:
  - comment
 ---
 
-			
-							So, perhaps it is coinkidink, but <a href="http://monkhouse.blogspot.com/">David<a/> posted about cussing (permalink if they worked), one day after I <a href="http://www.danielsjourney.com/index.php?archive=blog_2002_12_15.xml&id_pass=53">said</a> (some sentences after using the f word) "And you have a site you can curse on all you want and, as of yet, no one is going to stop you from doing that." So, here we go.
+
+	So, perhaps it is coinkidink, but <a href="http://monkhouse.blogspot.com/">David<a/> posted about cussing (permalink if they worked), one day after I <a href="http://www.danielsjourney.com/index.php?archive=blog_2002_12_15.xml&id_pass=53">said</a> (some sentences after using the f word) "And you have a site you can curse on all you want and, as of yet, no one is going to stop you from doing that." So, here we go.
 
               
 
@@ -14,7 +14,7 @@ categories:
               
 
 
-			
+
               01. The reason I curse more in writing than speech is because it is more often inappropriate in speech. When I'm hanging out with the same exact people in person who would be the most appreciative audience of my writing--i.e. my friends, people alot like me in thinking, etc.--and if there are not "youngins" or "elderly" people about--I probably curse as much or more than in my writing. (more on this thread in 05)
 
               

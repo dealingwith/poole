@@ -6,11 +6,11 @@ categories:
 ---
 
 
-			
+
 		
 
 
-			<img alt="split2_web (19K)" src="images/sarajevo/may_2003/dalmatia/split2_web.jpg" height="248" width="330" />
+<img alt="split2_web (19K)" src="images/sarajevo/may_2003/dalmatia/split2_web.jpg" height="248" width="330" />
 
 
 

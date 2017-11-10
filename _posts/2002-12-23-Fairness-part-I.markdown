@@ -6,7 +6,7 @@ categories:
 ---
 
 So I got an email yesterday that was flatly offensive to me. Instead of replying to the email (and/or all of its recipients), I'm going to reply to its content in a more appropriate place/manner--here on my blog.
-			
+
 ### the email:  
 
 subject: This is Priceless - Explains A Lot

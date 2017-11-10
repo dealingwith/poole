@@ -6,12 +6,12 @@ categories:
 ---
 
 
-			<em>Here's a new beginning for Micha's Story. If you don't know what Micha's Story is, then don't worry about it. This is for long-time DJDC readers with good memories.</em>
+<em>Here's a new beginning for Micha's Story. If you don't know what Micha's Story is, then don't worry about it. This is for long-time DJDC readers with good memories.</em>
 
 		
 
 
-			The tape, the CCTV tape, black and white and out of focus on the mini TV in the closet-sized office of strip mall security, shows a middle-aged woman talking with her hands to the young sales clerk behind the counter. He looks like she might as well have her hands crushed around his balls. He nervously rolls on his feet. A transaction takes place. She leaves.
+The tape, the CCTV tape, black and white and out of focus on the mini TV in the closet-sized office of strip mall security, shows a middle-aged woman talking with her hands to the young sales clerk behind the counter. He looks like she might as well have her hands crushed around his balls. He nervously rolls on his feet. A transaction takes place. She leaves.
 
 
 

@@ -6,7 +6,7 @@ categories:
 ---
 
 
-			Friday May 30, 2003
+Friday May 30, 2003
 
 The Guardian
 
@@ -18,5 +18,5 @@ The Guardian
 		
 
 
-			
+
 		

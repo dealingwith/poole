@@ -5,12 +5,12 @@ categories:
  - minutia
 ---
 
-			Miriam, after preparing potatoes and salad for dinner last night (it was yummy!): "Just poor people's food." Me: "Some of the poorest people I know have it the best!" (I was specifically thinking about her maternal grandparents.)
+Miriam, after preparing potatoes and salad for dinner last night (it was yummy!): "Just poor people's food." Me: "Some of the poorest people I know have it the best!" (I was specifically thinking about her maternal grandparents.)
 
 
 
 
-			Miriam, today, while listening to Bob Marley (jokingly): "I always thought he said 'German' there." Me: "Cuz we're German we're German we're German we're German so I hope you like Germans too!"
+Miriam, today, while listening to Bob Marley (jokingly): "I always thought he said 'German' there." Me: "Cuz we're German we're German we're German we're German so I hope you like Germans too!"
 
 
 

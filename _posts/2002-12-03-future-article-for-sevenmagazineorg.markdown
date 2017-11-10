@@ -5,7 +5,7 @@ categories:
  - comment
 ---
 
-			
+
 Just posting some first thoughts that will become an article at some point in the future:
 
 

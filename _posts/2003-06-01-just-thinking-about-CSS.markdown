@@ -5,7 +5,7 @@ categories:
  - design
 ---
 
-			Hey with all this talk/bullshit about CSS in design these days, why the hell doesn't someone try to standardize tag classes (to some extent)?
+Hey with all this talk/bullshit about CSS in design these days, why the hell doesn't someone try to standardize tag classes (to some extent)?
 
 
 
@@ -17,5 +17,5 @@ Surely someone has thought about this before? Is that sort-of what <a href="http
 		
 
 
-			
+
 		

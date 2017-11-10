@@ -5,12 +5,12 @@ categories:
  - minutia
 ---
 
-			So I went to a Misfits show last night, a band that has been playing punk since 1977. 1977!!
+So I went to a Misfits show last night, a band that has been playing punk since 1977. 1977!!
 
 
 
 
-			<img src="http://www.bangor.ac.uk/cyf/myf99/hywel_files/misfits.jpeg">
+<img src="http://www.bangor.ac.uk/cyf/myf99/hywel_files/misfits.jpeg">
 
 
 

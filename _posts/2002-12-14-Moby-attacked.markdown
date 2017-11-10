@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-			<a href="http://www.moby.com/cms/viewdiary.asp?Diary_ID=1118&ViewType=Current">Moby's Journal</a>
+<a href="http://www.moby.com/cms/viewdiary.asp?Diary_ID=1118&ViewType=Current">Moby's Journal</a>
 
 
 

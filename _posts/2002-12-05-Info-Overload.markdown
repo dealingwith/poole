@@ -5,7 +5,7 @@ categories:
  - minutia
 ---
 
-			Ok I'm done. Current song: Information Overload by Living Colour
+Ok I'm done. Current song: Information Overload by Living Colour
 
 
 
