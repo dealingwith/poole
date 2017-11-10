@@ -258,13 +258,14 @@ a[href^="#fnref:"] {
 // Super small header above the content for site name and short description.
 
 .masthead {
+  background: #f9f9f9;
   padding: 1rem;
   margin-bottom: 0;
 }
 
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 4rem;
+  margin-bottom: 0;
   color: $black;
   font-weight: bold;
 
