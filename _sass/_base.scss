@@ -96,9 +96,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .menu {
-  display: inline-block;
   @media (max-width: 435px) { 
-    display: block;
+    margin-top: 1.5rem;
   }
 }
 
@@ -259,8 +258,9 @@ a[href^="#fnref:"] {
 
 .masthead {
   background: #f9f9f9;
+  border-bottom: 1px dotted $grey;
   padding: 1rem;
-  margin-bottom: 0;
+  margin-bottom: 2rem;
 }
 
 .masthead-title {
@@ -271,6 +271,13 @@ a[href^="#fnref:"] {
 
   a {
     color: $black;
+  }
+
+  img {
+    border-radius: 25px;
+    float: left;
+    margin: 0 10px 0 0;
+    max-width: 50px;
   }
 }
 
