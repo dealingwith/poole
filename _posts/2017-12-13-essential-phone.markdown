@@ -53,6 +53,10 @@ The camera got a lot of hate from reviewers, but recently the word on the street
 
 This phone is peppy. I hope the lack of cruft keeps it that way.
 
+### The biggest downside so far
+
+Believe it or not, it is the lack of a headphone jack. I already lost the USB-C headphone adapter (and have bought a replacement, from Google of all places). I have one pair of bluetooth headphones. My earbuds aren't bluetooth. My car is cheap and doesn't play music over bluetooth. I'll remedy the latter two soon, but in the meantime it is super annoying.
+
 ### Overall
 
 I'm pretty happy with this phone. On one hand, it's sad that my last phone only lasted two years, on the other hand, the experience on this phone is a significant upgrade that I appreciate. At half the price of an iPhone X, a comparable build quality and an experience I prefer, I feel very satisfied with the deal I got. I hope Essential stays in business.
