@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From around the web -- music edition"
+title: "From around the web / music edition"
 excerpt: 
 date: 2017-11-13 19:15:16 -0600
 comments: true

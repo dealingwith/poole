@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Around the Web -- Podcast Edition"
+title: "From Around the Web / Podcast Edition"
 excerpt: "I've been hearing a lot of good podcasts lately"
 date: 2017-12-07 19:29:53 -0600
 comments: true
