@@ -10,11 +10,4 @@ categories:
  - nonlinear
 ---
 
-Note: Those coming in from danielsjourney dot com--this is introductory
-material that relates to the next installation. The actual installation is
-coming soon but in the meantime you can check this out...Thanks, D
-
-![][1]
-
-   [1]:
-
+Note: Those coming in from danielsjourney dot com--this is introductory material that relates to the next installation. The actual installation is coming soon but in the meantime you can check this out.

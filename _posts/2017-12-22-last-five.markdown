@@ -17,7 +17,7 @@ categories:
 > 
 > Are you putting in the work to become the person you want to be?
 
-Given [yesterday's bleak post](http://www.danielsjourney.com/2017/12/21/america.html) I figured this might be a good exercise for me.
+Given [yesterday's bleak post]({{ site.baseurl }}/2017/12/21/america.html) I figured this might be a good exercise for me.
 
 Last 5 phone calls: I don't even have the phone app on my homescreen, I use it so infrequently. Last 5 calls were all incoming:
 

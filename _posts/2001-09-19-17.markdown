@@ -4,83 +4,30 @@ date: '2001-09-19 17:41:00'
 layout: post
 slug: '17'
 status: publish
-title: '...'
+title: 'Nonlinear: New storytelling'
 wordpress_id: '17'
 categories:
  - nonlinear
 ---
 
-**5. New storytelling**
+The trends in storytelling over the last 20-30 years have mirrored to some extent the postmodern shift in culture and philosophy, and I believe that these trends point to a future of increasingly disjointed and non-linear story and informational processes. The purpose of this section is to help you along to the conclusions already drawn out in section 1.
 
-[http://turbulence.org/Works/media/index.html (explore links within) ][1]
+---
 
-Turbulence is a site devoted to web art. It is exploring the idea of story
-within this context. It is perhaps in the integration of play, storytelling
-and art where these ideas of non-linear storytelling could be most profoundly
-realized. And of course those three areas effect every other area of our
-lives.
+[Turbulence](http://turbulence.org/) is a site devoted to web art. It is exploring the idea of story within this context. It is perhaps in the integration of play, storytelling and art where these ideas of non-linear storytelling could be most profoundly realized. And of course those three areas effect every other area of our lives.
 
+---
 
-The trends in storytelling over the last 20-30 years have mirrored to some
-extent the postmodern shift in culture and philosophy, and I believe that
-these trends point to a future of increasingly disjointed and non-linear story
-and informational processes. The purpose of this section is to help you along
-to the conclusions already drawn out in section 1.
+[Michael Paul Young](http://www.michaelpaulyoung.com/) “Layered Narrative.” Really allows the person experiencing it to create their own stories and meanings.
 
+---
 
-[http://www.submethod.com/ ][2]
+“[The Apartment](http://turbulence.org/project/apartment/).” Explores the relationship between words and space to create new meanings and stories within the space of the Web.
 
-“Layered Narrative.” Really allows the person experiencing it to create their
-own stories and meanings.
+---
 
+[Scott McCloud](http://www.scottmccloud.com) is a comic book writer and illustrator who has really thought about the use of the web as a storytelling medium. He has some very valid and interesting thoughts and comments about the use of the web. While his ideas apply most directly to comics, as much as comics are stories it applies 100% to non-linear story and storytelling in general. His “story machine” invention also makes use of some of the concepts of non-linear story. In fact it is very much like a hand-made version of the desktop software being spec’ed out here, on a very abstract scale.
 
-[http://www.turbulence.org/Works/apartment/index.html# (view "about") ][3]
+---
 
-“The Apartment.” Explores the relationship between words and space to create
-new meanings and stories within the space of the Web.
-
-
-[http://www.thecomicreader.com/html/icst/icst-6/icst-6.html ][4]
-
-[http://www.scottmccloud.com/comics/comics.html ][5]
-
-[http://www.scottmccloud.com/inventions/machine/machine.html][6]
-
-Scott McCloud is a comic book writer and illustrator who has really thought
-about the use of the web as a storytelling medium. He has some very valid and
-interesting thoughts and comments about the use of the web. While his ideas
-apply most directly to comics, as much as comics are stories it applies 100%
-to non-linear story and storytelling in general. His “story machine” invention
-also makes use of some of the concepts of non-linear story. In fact it is very
-much like a hand-made version of the desktop software being spec’ed out here,
-on a very abstract scale.
-
-
-[http://www.blogger.com/ ][7]
-
-While web logs, or blogs, are linear in their presentation, the entire
-experience at Blogger is very integrated and in some ways, non-linear. Users
-can quickly publish web content through Blogger’s intuitive web interface, and
-the content page is updated. It is perfect for news, or for a project like
-this one (hosted on a blog!). An expansion on this concept of blogs could
-easily incorporate non-linear process in a web content management and
-interactivity system (see 10).
-
-![][8]
-
-   [1]: http://turbulence.org/Works/media/index.html
-
-   [2]: http://www.submethod.com/
-
-   [3]: http://www.turbulence.org/Works/apartment/index.html#
-
-   [4]: http://www.thecomicreader.com/html/icst/icst-6/icst-6.html
-
-   [5]: http://www.scottmccloud.com/comics/comics.html
-
-   [6]: http://www.scottmccloud.com/inventions/machine/machine.html
-
-   [7]: http://www.blogger.com/
-
-   [8]:
-
+Blogger, et. al. While web logs, or blogs, are linear in their presentation, the entire experience at Blogger is very integrated and in some ways, non-linear. Users can quickly publish web content through Blogger’s intuitive web interface, and the content page is updated. It is perfect for news, or for a project like this one (hosted on a blog!). An expansion on this concept of blogs could easily incorporate non-linear process in a web content management and interactivity system (see 10).

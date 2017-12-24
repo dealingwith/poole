@@ -4,28 +4,12 @@ date: '2001-09-19 22:05:00'
 layout: post
 slug: '29'
 status: publish
-title: '...'
+title: 'Nonlinear: Storyboarding software'
 wordpress_id: '3088'
 categories:
  - nonlinear
 ---
 
-**6. Storyboarding software **
-
-[http://www.boardmastersoftware.com/][1]
-
-[http://www.powerproduction.com/home.html][2]
-
-
 Storyboarding software is ok. Most of it is pretty low budget stuff sold for
 way to much. This might, however, be our best bet for a software integration
 with my specs. Checking them out will suffice for you.
-
-![][3]
-
-   [1]: http://www.boardmastersoftware.com/
-
-   [2]: http://www.powerproduction.com/home.html
-
-   [3]:
-
