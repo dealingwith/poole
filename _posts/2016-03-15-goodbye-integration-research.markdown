@@ -36,10 +36,10 @@ I still feel like IR could have been a longer-lasting enterprise had I remained 
 
 ![Integration Research mark]({{ site.baseurl }}/assets/2016/03/IR-mark-02.gif "Integration Research mark")
 
-<span class="small">Shout out to [Joshua Rudd](https://www.uservoice.com/about/) for creating the IR and gallery logos and marks.</span>
+Shout out to [Joshua Rudd](http://joshuarudd.com/) for creating the IR and gallery logos and marks.
 
 ---
 
 ![Integration Research London launch event flyer]({{ site.baseurl }}/assets/2016/03/invite2004_big.png "Integration Research London launch event flyer")
 
-<span class="small">We launched in early 2004 with a trip to London, where we had many friends doing interesting things. (I had completely forgotten about [Jerry Springer: The Opera](https://en.wikipedia.org/wiki/Jerry_Springer:_The_Opera).)</span>
+We launched in early 2004 with a trip to London, where we had many friends doing interesting things. (I had completely forgotten about [Jerry Springer: The Opera](https://en.wikipedia.org/wiki/Jerry_Springer:_The_Opera).)
