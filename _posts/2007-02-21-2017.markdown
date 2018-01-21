@@ -9,4 +9,3 @@ wordpress_id: '2017'
 ---
 
 Agnus Dei, qui tollis peccata mundi, dona nobis pacem.
-
