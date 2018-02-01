@@ -130,14 +130,15 @@ tbody tr:nth-child(odd) th {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: Avenir, sans-serif;
+  font-family: Avenir, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
   font-size: 1.1rem;
+  font-style: normal;
   line-height: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: $black;
-  font-family: Avenir, sans-serif;
+  // font-family: Avenir, sans-serif;
   font-weight: 500;
   line-height: 1em;
   margin-bottom: 1rem;
@@ -193,7 +194,6 @@ hr {
   margin: 1.5rem 0;
   border: 0;
   border-top: 2px solid $light-grey;
-  // border-bottom: 1px solid #fff;
 }
 
 abbr {
@@ -224,7 +224,7 @@ blockquote {
 }
 
 article p, article > a, article li {
-  font-family: 'Droid Serif', 'Source Serif Pro', Georgia, serif;
+  // font-family: 'Droid Serif', 'Source Serif Pro', Georgia, serif;
   line-height: 1.6em;
 }
 
