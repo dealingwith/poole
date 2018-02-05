@@ -5,14 +5,19 @@ date: 2016-12-27 09:00
 
 # Daniel Miller
 
-![]({{ site.baseurl }}/assets/page/dm-headshot.jpg)
-<span class="small">Photo by [Carissa Byers](http://carissabyers.com/)</span>
-
 ### Technology leader, educator, front-end designer and developer
 
 I ship software. I am passionate about the craft of software development, with a focus on design, education and entrepreneurship. [email](mailto:dealingwith@gmail.com) / [blog](http://danielsjourney.com) / [github](https://github.com/dealingwith) / [LinkedIn](https://www.linkedin.com/in/dealingwith/)
 
 ## Experience
+
+### CTO, Modern Message
+SaaS Product Development / 2013 to present
+
+- I lead a team of 11 full-stack Ruby on Rails and front-end developers, UX designers and growth hackers.
+- As the technology lead for the company, my responsibilities run the gamut...code, testing, infrastructure, technical strategy, security, product management, recruiting, developer happiness...
+- I am particularly proud of the team I've helped to build and the agile development methodology we've established, as well as the data-driven design process we've employed.
+- Manage the code for a large front-end Backbone application
 
 ### Cofounder, Minecraft U
 Education / 2014 to present
@@ -20,14 +25,6 @@ Education / 2014 to present
 - [Minecraft U](http://minecraftu.org/) focuses on teaching problem-solving and programming techniques in a safe, encouraging ecosystem centered around Minecraft.
 - [View the curriculum](https://github.com/MinecraftU/mcu-curriculum).
 - Read a little bit about the [product development camp](http://bit.ly/2aZpglW) I ran last summer.
-
-### CTO, Modern Message
-SaaS Product Development / 2013 to present
-
-- I lead a team of 7 full-stack Ruby on Rails developers, UX designers and growth hackers.
-- As the technology lead for the company, my responsibilities run the gamut...code, testing, infrastructure, technical strategy, security, product management, recruiting, developer happiness...
-- I am particularly proud of the team I've helped to build and the agile development methodology we've established, as well as the data-driven design process we've employed.
-- Manage the code for a large front-end Backbone application
 
 ### Cofounder, Extra Sauce
 Digital Agency / 2011 to 2012
