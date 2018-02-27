@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "Lincoln"
-excerpt: 
+image: "/assets/2018/02/lincoln-bio.jpg"
+excerpt: ""
 date: 2018-02-25 14:06:43 -0600
 comments: true
 categories: 
 ---
+
+![]({{ site.baseurl }}/assets/2018/02/lincoln-bio.jpg)
 
 One of the side-effects of having children is only catching about four movies a year, and then only movies that are six years old. Last night I watched Spielberg's [Lincoln](http://www.imdb.com/title/tt0443272/), which I've wanted to watch since it came out.
 
