@@ -101,27 +101,26 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-.menu-item {
-  font-size: .9rem;
-  font-weight: 500;
-  color: lighten($black, .8);
-  letter-spacing: 0;
-}
-
-.page, .post {
-  margin-bottom: 2em;
-  padding-bottom: 0.5em;
-}
+// .menu-item {
+//   font-size: .9rem;
+//   font-weight: 500;
+//   color: lighten($black, .8);
+//   letter-spacing: 0;
+// }
 
 .excerpt {
   color: lighten(#4C4C4C, 10);
   display: block;
   margin: -5px;
-  padding: 5px;
+  padding: 5px 5px 0px;
   div.image {
     background-position: top;
     background-size: cover;
     height: 200px;
+    opacity: 0.8;
+    &:hover {
+      opacity: 1;
+    }
   }
 }
 
@@ -140,13 +139,14 @@ h1, h2, h3, h4, h5, h6 {
   color: $black;
   // font-family: Avenir, sans-serif;
   font-weight: 500;
-  line-height: 1em;
-  margin-bottom: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 0.5rem;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
   font-size: 2rem;
+  line-height: 2rem;
 }
 
 h2 {
@@ -165,8 +165,8 @@ h4, h5, h6 {
 }
 
 p, iframe {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 strong {
@@ -225,9 +225,8 @@ blockquote {
 
 article p, article > a, article li {
   // font-family: 'Droid Serif', 'Source Serif Pro', Georgia, serif;
-  line-height: 1.6em;
+  line-height: 1.4em;
 }
-
 
 // Markdown footnotes
 //
@@ -263,7 +262,8 @@ a[href^="#fnref:"] {
 
 .masthead {
   background: #f9f9f9;
-  border-bottom: 1px dotted $grey;
+  border-top: 2px solid $link-blue;
+  box-shadow: 1px 1px 1px $light-grey;
   padding: 1rem;
   margin-bottom: 2rem;
 }
@@ -271,11 +271,18 @@ a[href^="#fnref:"] {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: $black;
-  font-weight: bold;
-
+  font-size: 1rem;
+  font-weight: 500;
+  
   a {
     color: $black;
+  }
+
+  .menu, .menu a {
+    color: $grey;
+    &:hover {
+      color: $black;
+    }
   }
 
   img {
@@ -291,9 +298,12 @@ a[href^="#fnref:"] {
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
+.posts .post {
+}
+
 .page,
 .post {
-  // margin-bottom: 4em;
+  margin-bottom: 3em;
 }
 
 // Blog post or page title
@@ -309,11 +319,11 @@ a[href^="#fnref:"] {
     // }
   }
 }
-.page-title,
-.post-title {
-  margin-bottom: .5rem;
-  margin-top: 0;
-}
+// .page-title,
+// .post-title {
+//   margin-bottom: .5rem;
+//   margin-top: 0;
+// }
 
 // Meta data line below post title
 .post-date {
