@@ -3,12 +3,14 @@ layout: page
 title: About
 ---
 
-Family: [Carissa Byers](http://carissabyers.com/), Margot, Lucy, Milo and Penn. 
+![]({{ site.baseurl }}/assets/page/DSC_4897.jpg)
 
-18 year [career](https://www.linkedin.com/in/dealingwith) in technology and entrepreneurship. 
+## Product-focused technology leader
 
-Writer of songs and stories. Occasional musician. Cyclist. [Indieweb](https://en.wikipedia.org/wiki/IndieWeb) advocate. 
+With 19 years of [experience](https://www.linkedin.com/in/dealingwith) in technology and entrepreneurship, I help companies ship software that delivers real value to customers. 
 
-I keep a <span style="font-variant:small-caps">[wip](https://en.wikipedia.org/wiki/Work_in_process)</span> description of my [values](https://github.com/dealingwith/values) on Github.
+---
 
-Not on any social networks. You can [email](mailto:dealingwith@gmail.com) me. #iamesh
+More about me:
+
+Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Milo and stepdad of Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and stories. Cyclist. [Indieweb](https://en.wikipedia.org/wiki/IndieWeb) advocate. I keep a <span style="font-variant:small-caps">[wip](https://en.wikipedia.org/wiki/Work_in_process)</span> description of my [values](https://github.com/dealingwith/values) on Github. Not on any social networks. You can [email](mailto:dealingwith@gmail.com) me. #iamesh

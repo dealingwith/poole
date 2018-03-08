@@ -54,17 +54,18 @@ h1, .masthead-title {
 }
 
 img {
+  border-radius: 5px;
   display: block;
-  max-width: 100%;
   margin: 0 0 1rem;
+  max-width: 100%;
 }
 
 table {
-  margin-bottom: 1rem;
-  width: 100%;
-  font-size: 85%;
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
+  font-size: 85%;
+  margin-bottom: 1rem;
+  width: 100%;
 }
 
 td,
@@ -96,17 +97,35 @@ tbody tr:nth-child(odd) th {
 }
 
 .menu {
-  @media (max-width: 435px) { 
-    margin-top: 1.5rem;
-  }
+  border-bottom: 1px solid $light-grey;
+  width: 100vw;
 }
 
-// .menu-item {
-//   font-size: .9rem;
-//   font-weight: 500;
-//   color: lighten($black, .8);
-//   letter-spacing: 0;
-// }
+.menu-item {
+  color: $black;
+  float: left;
+  font-size: 1.3rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  margin: 2px 0px 0px;
+  position: relative;
+  padding: 10px;
+  text-align: center;
+  width: 24.3%;
+
+  @media (max-width: 700px) { 
+    font-size: 1.1rem;
+    margin: 0px;
+    padding: 5px;
+  }
+  @media (max-width: 500px) { 
+    font-size: 0.9rem;
+    padding: 0px;
+  }
+  @media (max-width: 400px) { 
+    font-size: 0.8rem;
+  }
+}
 
 .excerpt {
   color: lighten(#4C4C4C, 10);
@@ -122,6 +141,11 @@ tbody tr:nth-child(odd) th {
       opacity: 1;
     }
   }
+  img {
+    max-width: 200px;
+    margin-right: 1rem;
+    float: left;
+  }
 }
 
 // Typography
@@ -132,12 +156,11 @@ html, body {
   font-family: Avenir, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
   font-size: 1.1rem;
   font-style: normal;
-  line-height: 1.5rem;
+  line-height: 1.4rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: $black;
-  // font-family: Avenir, sans-serif;
   font-weight: 500;
   line-height: 1.5rem;
   margin-bottom: 0.5rem;
@@ -150,23 +173,24 @@ h1 {
 }
 
 h2 {
-  margin-top: 1.5rem;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  margin-top: 0.3rem;
 }
 
 h3 {
-  margin-top: 1.5rem;
   font-size: 1.25rem;
+  margin-top: 1.5rem;
 }
 
 h4, h5, h6 {
-  margin-top: 1rem;
   font-size: 1rem;
+  margin-top: 1rem;
 }
 
 p, iframe {
-  margin-top: 0.5rem;
   margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 strong {
@@ -174,8 +198,8 @@ strong {
 }
 
 ul, ol, dl {
-  margin-top: 0;
   margin-bottom: 1rem;
+  margin-top: 0;
   ul, ol, dl {
     margin-bottom: 0;
   }
@@ -190,10 +214,11 @@ dd {
 }
 
 hr {
-  position: relative;
-  margin: 1.5rem 0;
   border: 0;
   border-top: 2px solid $light-grey;
+  clear: left;
+  margin: 1.5rem 0;
+  position: relative;
 }
 
 abbr {
@@ -203,15 +228,15 @@ abbr {
   text-transform: uppercase;
 
   &[title] {
-    cursor: help;
     border-bottom: 1px dotted #e5e5e5;
+    cursor: help;
   }
 }
 
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
   border-left: .20rem solid $light-grey;
+  margin: .8rem 0;
+  padding: .5rem 1rem;
 
   p:last-child {
     margin-bottom: 0;
@@ -221,11 +246,6 @@ blockquote {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
-}
-
-article p, article > a, article li {
-  // font-family: 'Droid Serif', 'Source Serif Pro', Georgia, serif;
-  line-height: 1.4em;
 }
 
 // Markdown footnotes
@@ -263,33 +283,18 @@ a[href^="#fnref:"] {
 .masthead {
   background: #f9f9f9;
   border-top: 2px solid $link-blue;
-  box-shadow: 1px 1px 1px $light-grey;
+  border-bottom: 1px solid $light-grey;
   padding: 1rem;
-  margin-bottom: 2rem;
 }
 
 .masthead-title {
+  font-size: 1.5rem;
+  font-weight: 500;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 1rem;
-  font-weight: 500;
   
   a {
     color: $black;
-  }
-
-  .menu, .menu a {
-    color: $grey;
-    &:hover {
-      color: $black;
-    }
-  }
-
-  img {
-    border-radius: 25px;
-    float: left;
-    margin: 0 10px 0 0;
-    max-width: 50px;
   }
 }
 
@@ -298,12 +303,15 @@ a[href^="#fnref:"] {
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
-.posts .post {
+.posts {
+  img {
+    margin-bottom: 0px;
+  }
 }
 
 .page,
 .post {
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 // Blog post or page title
@@ -314,36 +322,27 @@ a[href^="#fnref:"] {
     color: #303030;
     margin: -5px;
     padding: 0 5px;
-    // &:hover {
-    //   background-color: $yellow;
-    // }
   }
 }
-// .page-title,
-// .post-title {
-//   margin-bottom: .5rem;
-//   margin-top: 0;
-// }
 
 // Meta data line below post title
 .post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 0.5rem;
   color: #9a9a9a;
+  display: block;
+  margin-bottom: 0.5rem;
+  margin-top: -.5rem;
 }
-
 
 // Related posts
 .related {
+  border-top: 1px solid #eee;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
 }
 
 .related-posts {
-  padding-left: 0;
   list-style: none;
+  padding-left: 0;
 
   h3 {
     margin-top: 0;
@@ -351,14 +350,11 @@ a[href^="#fnref:"] {
 
   li {
     small {
-      font-size: 75%;
       color: #999;
+      font-size: 75%;
     }
 
     a:hover {
-      // color: #268bd2;
-      // text-decoration: none;
-
       small {
         color: inherit;
       }
@@ -379,10 +375,10 @@ a[href^="#fnref:"] {
 
 // Pagination items can be `span`s or `a`s
 .pagination-item {
-  display: block;
-  padding: 1rem;
   border: solid #eee;
   border-width: 1px;
+  display: block;
+  padding: 1rem;
   text-align: center;
 
   &:first-child {
@@ -402,22 +398,22 @@ a.pagination-item:hover {
 
   .pagination-item {
     float: left;
-    width: 50%;
     text-align: left;
+    width: 50%;
 
     &.newer {
       text-align: right;
     }
 
     &:first-child {
-      margin-bottom: 0;
-      border-top-left-radius:    4px;
       border-bottom-left-radius: 4px;
+      border-top-left-radius:    4px;
+      margin-bottom: 0;
     }
     &:last-child {
-      margin-left: -1px;
-      border-top-right-radius:    4px;
       border-bottom-right-radius: 4px;
+      border-top-right-radius:    4px;
+      margin-left: -1px;
     }
   }
 }
@@ -428,10 +424,10 @@ a.pagination-item:hover {
 // or to a parent if there are multiple elements to show.
 
 .message {
+  background-color: #f9f9f9;
+  color: #717171;
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
 }
 
 .aa-input-search {
@@ -443,8 +439,8 @@ a.pagination-item:hover {
 }
 #search-results {
   display: none;
-  border-top: 2px solid #e5e5e5;
   border-bottom: 2px solid #e5e5e5;
+  border-top: 2px solid #e5e5e5;
   margin: 20px 0;
   &:before {
     content: 'search results:'

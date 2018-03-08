@@ -6,19 +6,22 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
+      {% if post.image %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt image">
+          <!-- <div class="image" style="background-image:url({{ post.image }})"></div> -->
+          <img src="{{ post.image }}">
+        </a>
+      {% endif %}
       <h2 class="post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
         </a>
       </h2>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-      {% if post.image %}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt image"><div class="image" style="background-image:url({{ post.image }})"></div></a>
-      {% endif %}
-      {% capture excerpt_size %}{{ post.excerpt | size | minus:2 }}{% endcapture %}
-      {% unless excerpt_size contains '-' %}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt | strip_html }}&nbsp;⇢</a>
-      {% endunless %}
+      
+        <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt | strip_html }}</a>
+      
+      <br style="clear:left">
     </article>
   {% endfor %}
 </div>
