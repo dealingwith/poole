@@ -97,8 +97,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .menu {
-  border-bottom: 1px solid $light-grey;
-  width: 100vw;
+  // border-bottom: 1px solid $light-grey;
+  // width: 100vw;
 }
 
 .menu-item {
@@ -152,14 +152,15 @@ tbody tr:nth-child(odd) th {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: Avenir, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 1.05rem;
   font-style: normal;
-  line-height: 1.4rem;
+  line-height: 1.65rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, header *, .menu * {
   color: $black;
+  font-family: Avenir, Sans-Serif;
   font-weight: 500;
   line-height: 1.5rem;
   margin-bottom: 0.5rem;
@@ -235,16 +236,12 @@ abbr {
 blockquote {
   border-left: .20rem solid $light-grey;
   margin: .8rem 0;
-  // padding: .5rem 1rem;
+  padding: 0 0 0 1rem;
 
   p:last-child {
     margin-bottom: 0;
   }
 
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
 }
 
 // Markdown footnotes

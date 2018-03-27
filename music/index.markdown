@@ -4,7 +4,7 @@ title: "Music"
 date: 2017-08-30 22:09
 ---
 
-Below are all the music projects I have been a part of.
+Below are all the music projects of which I have been a part.
 
 ## Oddities, Obscurities & Obscenities
 <time class="post-date">January 2016</time>

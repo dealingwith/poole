@@ -9,4 +9,4 @@ title: Home
 
 With 19 years of [experience](https://www.linkedin.com/in/dealingwith) in technology and entrepreneurship, I help companies ship software that delivers real value to customers.
 
-<a href="{{ site.baseurl }}/about.html" title="About">More about me</a>
+<a href="{{ site.baseurl }}/about" title="About">More about me</a>
