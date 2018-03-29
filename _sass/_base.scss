@@ -97,8 +97,11 @@ tbody tr:nth-child(odd) th {
 }
 
 .menu {
-  // border-bottom: 1px solid $light-grey;
-  // width: 100vw;
+  border-bottom: 1px solid $light-grey;
+  width: 100vw;
+  * {
+    margin-bottom: 0px !important;
+  }
 }
 
 .menu-item {
@@ -152,10 +155,10 @@ tbody tr:nth-child(odd) th {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: 'Libre Baskerville', serif;
-  font-size: 1.05rem;
+  font-family: Avenir, Sans-Serif;
+  font-size: 1.1rem;
   font-style: normal;
-  line-height: 1.65rem;
+  line-height: 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6, header *, .menu * {
@@ -168,12 +171,12 @@ h1, h2, h3, h4, h5, h6, header *, .menu * {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 2rem;
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   line-height: 1.8rem;
   margin-top: 0.3rem;
 }
@@ -218,7 +221,25 @@ hr {
   border-top: 2px solid $light-grey;
   clear: left;
   margin: 1.5rem 0;
-  position: relative;
+  // position: relative;
+  &.blog_divide {
+    margin: 1.5rem 0 0;
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: 2px solid $light-grey;
+    text-align: center;
+  }
+  &.blog_divide:after {
+    color: $light-grey;
+    content: "⌾";
+    display: inline-block;
+    position: relative;
+    top: -.5em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+  }
 }
 
 abbr {
@@ -280,17 +301,22 @@ a[href^="#fnref:"] {
   background: #f9f9f9;
   border-top: 2px solid $link-blue;
   border-bottom: 1px solid $light-grey;
-  padding: .5rem .5rem .4rem;
+  padding: .5rem .5rem .3rem;
 }
 
 .masthead-title {
   font-size: 1.5rem;
-  font-weight: 500;
   margin-top: 0;
   margin-bottom: 0;
   
   a {
     color: $black;
+  }
+
+  img, svg {
+    float: left;
+    margin: 0 10px 10px 0;
+    max-width: 30px;
   }
 }
 
@@ -307,7 +333,7 @@ a[href^="#fnref:"] {
 
 .page,
 .post {
-  margin-bottom: 1em;
+  // margin-bottom: 1em;
 }
 
 // Blog post or page title
