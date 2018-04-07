@@ -1,6 +1,7 @@
 $black: #404040;
 $grey: #999;
 $light-grey: #e9e9e9;
+$background-grey: #fdfdfd;
 $yellow: rgba(#ffff90, .8);
 $link-blue: #268bd2;
 $border: 1px solid $light-grey;
@@ -18,7 +19,7 @@ body {
 
 body {
   color: $black;
-  background-color: #fdfdfd;
+  background-color: $background-grey;
   padding: 0;
   margin: 0;
 }
@@ -238,7 +239,7 @@ hr {
     top: -.5em;
     font-size: 1.5em;
     padding: 0 0.25em;
-    background: white;
+    background: $background-grey;
   }
 }
 
