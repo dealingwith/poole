@@ -12,11 +12,6 @@ categories:
 ---
 
 
-[Diptych][1] from [Daniel Miller][2] on [Vimeo][3].
+[Diptych][1].
 
    [1]: http://vimeo.com/3248439
-
-   [2]: http://vimeo.com/danielsjourney
-
-   [3]: http://vimeo.com
-
