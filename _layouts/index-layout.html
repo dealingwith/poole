@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="index-about">
+      <img src="{{ site.baseurl }}/assets/page/DSC_4897.jpg">
+
+      <h1>Product-focused Technology Leader</h1>
+
+      <p>With 19 years of <a href="https://www.linkedin.com/in/dealingwith">experience</a> in technology and entrepreneurship, I help companies ship software that delivers real value to customers.<p>
+
+      <a href="{{ site.baseurl }}/about" title="About">More about me</a>
+    </div>
+    
+    <hr>
+
+    <div class="container content">
+      <main>
+        {{ content }}
+      </main>
+      <br style="clear:both">
+      <footer class="footer">
+        <small>
+          <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons licensed</a>, 2001&ndash;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+        </small>
+      </footer>
+    </div>
+  </body>
+</html>

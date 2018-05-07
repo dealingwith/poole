@@ -112,7 +112,7 @@ tbody tr:nth-child(odd) th {
   font-weight: 500;
   letter-spacing: 0;
   position: relative;
-  padding: 5px 10px;
+  padding: 0.3rem .5rem;
   text-align: center;
   // width: 24.3%;
 
@@ -151,12 +151,28 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+.index-about {
+  margin: 1rem;
+  text-align: center;
+  img {
+    margin: 0 auto;
+    max-width: 600px;
+  }
+}
+@media (max-width: 650px) {
+  .index-about {
+    img {
+      max-width: 100%;
+    }
+  }
+} 
+
 // Typography
 //
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: Avenir, Sans-Serif;
+  font-family: 'Open Sans', Sans-Serif;
   font-size: 1.1rem;
   font-style: normal;
   line-height: 1.5rem;
@@ -199,6 +215,7 @@ p, iframe {
 
 strong {
   color: #303030;
+  font-weight: 600;
 }
 
 ul, ol, dl {
@@ -222,7 +239,6 @@ hr {
   border-top: 2px solid $light-grey;
   clear: left;
   margin: 1.5rem 0;
-  // position: relative;
   &.blog_divide {
     margin: 1.5rem 0 0;
     overflow: visible; /* For IE */
@@ -230,16 +246,17 @@ hr {
     border: none;
     border-top: 2px solid $light-grey;
     text-align: center;
-  }
-  &.blog_divide:after {
-    color: $light-grey;
-    content: "⌾";
-    display: inline-block;
-    position: relative;
-    top: -.5em;
-    font-size: 1.5em;
-    padding: 0 0.25em;
-    background: $background-grey;
+    
+    &:after {
+      color: $light-grey;
+      content: "⌾";
+      display: inline-block;
+      position: relative;
+      top: -.5em;
+      font-size: 1.5em;
+      padding: 0 0.25em;
+      background: $background-grey;
+    }
   }
 }
 
