@@ -172,15 +172,18 @@ tbody tr:nth-child(odd) th {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: 'Open Sans', Sans-Serif;
+  font-family: Avenir, Sans-Serif;
   font-size: 1.1rem;
   font-style: normal;
   line-height: 1.5rem;
 }
 
+h1, h2, h3, h4, h5, h6, header *, .menu *, .post-date, .pagination *, footer, footer * {
+  font-family: Avenir, Sans-Serif;
+}
+
 h1, h2, h3, h4, h5, h6, header *, .menu * {
   color: $black;
-  font-family: Avenir, Sans-Serif;
   font-weight: 500;
   line-height: 1.5rem;
   margin-bottom: 0.5rem;
@@ -367,8 +370,9 @@ a[href^="#fnref:"] {
 
 // Meta data line below post title
 .post-date {
-  color: #9a9a9a;
+  color: $light-grey;
   display: block;
+  font-size: 1rem;
   margin-bottom: 0.5rem;
   margin-top: -.5rem;
 }
