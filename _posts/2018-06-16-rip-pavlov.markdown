@@ -29,6 +29,10 @@ He used to keep up with me on mountain bike rides.
 
 Begging at an open window at our old house.
 
+![]({{site.baseurl}}/assets/2018/06/pav9.jpg)
+
+![]({{site.baseurl}}/assets/2018/06/pav10.jpg)
+
 ![]({{site.baseurl}}/assets/2018/06/pav8.png)
 
 I'll miss ya, bud.
