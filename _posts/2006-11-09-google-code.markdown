@@ -12,7 +12,9 @@ categories:
  - wtf
 ---
 
-![][1]WTF. [Google Code][2] is the same as [SourceForge][3]? So I can't create
+![][1]
+
+WTF. [Google Code][2] is the same as [SourceForge][3]? So I can't create
 a project in GC because I already have it in SourceForge? Or? It is so
 confusing and there is no one out there that seems to have a handle on it!
 
@@ -22,7 +24,7 @@ confusing and there is no one out there that seems to have a handle on it!
 provide any clarity about how to get a project on GC, espesh if you already
 have one on SF
 
-[a search of the code discussion group also turns up nuthin'][6]
+a search of the code discussion group also turns up nuthin'
 
 few seconds laters: just went to SF. the interface gives me hives. good lord.
 
@@ -43,6 +45,3 @@ I need to shower.
    [4]: http://www.google.com/search?q=google+code+sourceforge
 
    [5]: http://code.google.com/faq.html#q7
-
-   [6]: http://groups-beta.google.com/group/codesite-discuss/search?group=codesite-discuss&q=sourceforge&qt_g=Search+this+group
-

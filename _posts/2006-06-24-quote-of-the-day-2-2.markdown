@@ -10,11 +10,8 @@ categories:
  - quotable
 ---
 
-_...we're pool balls in constant ricochet. The best we can do is to try and be
+>...we're pool balls in constant ricochet. The best we can do is to try and be
 nice to each other before, during, and after, we impact each other with
-inadvertent soul crushing force._
+inadvertent soul crushing force.
 
-[tmcm][1]
-
-   [1]: http://tmcm.livejournal.com/175609.html
-
+_Too Much Coffee Man_
