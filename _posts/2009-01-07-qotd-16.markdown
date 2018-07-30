@@ -11,12 +11,9 @@ categories:
  - quotable
 ---
 
-[But For The Grace][1]
+_But For The Grace_ `[dead link]`
 
 > Looking at the old man, he wonders, how many more of the tiny switches in
 his head would need to be flipped the wrong way round to move him from
 “eccentric and sometimes difficult” to “burden on society?” Not many, he
 figures.
-
-   [1]: http://rhetoricaldevice.com/ButForTheGrace.html
-

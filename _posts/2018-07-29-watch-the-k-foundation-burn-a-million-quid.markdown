@@ -5,7 +5,7 @@ excerpt: '"In which two art-world provocateurs fly to Scotland and burn through 
 date: 2018-07-29 18:39:34 -0500
 comments: true
 categories: 
-  - elsewhere
+ - elsewhere
 ---
 
 July has been an intense month around these parts; work work work, Minecraft camps in full swing, another vacation, and it's been over 100 degress most of the month.
