@@ -10,21 +10,14 @@ categories:
  - twitter
 ---
 
-> Down by the corner of the street,
-
-Where the three roads meet,
-
-And the feet
-
-Of the people as they pass go "Tweet-tweet-tweet",
-
-Who comes tripping round the corner of the street?
-
-One pair of shoes which are Nurse's;
-
-One pair of slippers which are Percy's. . .
-
-Tweet! Tweet! Tweet!
+> Down by the corner of the street,  
+Where the three roads meet,  
+And the feet  
+Of the people as they pass go "Tweet-tweet-tweet",  
+Who comes tripping round the corner of the street?  
+One pair of shoes which are Nurse's;  
+One pair of slippers which are Percy's. . .  
+Tweet! Tweet! Tweet!  
 
 [Milne][1], from [When We Were Very Young][2] (1924), from tonight's story
 time.
