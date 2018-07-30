@@ -173,9 +173,10 @@ tbody tr:nth-child(odd) th {
 
 html, body {
   font-family: Avenir, Sans-Serif;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-style: normal;
-  line-height: 1.5rem;
+  letter-spacing: 0.01rem;
+  line-height: 1.6rem;
 }
 
 h1, h2, h3, h4, h5, h6, header *, .menu *, .post-date, .pagination *, footer, footer * {
