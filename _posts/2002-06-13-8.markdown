@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://danielsjourney.com/media/ChooseLife.mp3">choose life 431KB mp3</a> also not for the weak of heart
-

@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<font color="#336699">This kind of thing had been done on film for years, but pulling it off live was another technological feat altogether. </font>
-

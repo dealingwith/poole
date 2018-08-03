@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://maypopmusic.com/pics_020531-RL.htm">pics from red lion show</a>
-
