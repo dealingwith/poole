@@ -3,12 +3,6 @@ layout: index-layout
 title: Home
 ---
 
-<h1>Recent Posts</h1>
-
-<p>My blog is a much more personal journal than professional mouthpiece.</p>
-
-<hr class="blog_divide">
-      
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
@@ -21,7 +15,7 @@ title: Home
       
         <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt | strip_html }}</a>
       
-      <hr class="blog_divide">
+      <hr>
     </article>
   {% endfor %}
 </div>

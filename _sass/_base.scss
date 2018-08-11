@@ -1,5 +1,6 @@
 $black: #404040;
 $grey: #999;
+$dark-grey: #4c4c4c;
 $light-grey: #e9e9e9;
 $background-grey: #fdfdfd;
 $yellow: rgba(#ffff90, .8);
@@ -172,11 +173,13 @@ tbody tr:nth-child(odd) th {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  font-family: Avenir, Sans-Serif;
-  font-size: 1.05rem;
+  color: $dark-grey;
+  font-family: Roboto,RobotoDraft,Avenir, Sans-Serif;
+  font-size: 1rem;
   font-style: normal;
-  letter-spacing: 0.01rem;
-  line-height: 1.6rem;
+  letter-spacing: 0.02rem;
+  line-height: 1.5rem;
+  // font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6, header *, .menu *, .post-date, .pagination *, footer, footer * {
@@ -212,11 +215,6 @@ h4, h5, h6 {
   margin-top: 1rem;
 }
 
-p, iframe {
-  // margin-bottom: 0.5rem;
-  // margin-top: 0.5rem;
-}
-
 strong {
   color: #303030;
   font-weight: 600;
@@ -243,25 +241,6 @@ hr {
   border-top: 2px solid $light-grey;
   clear: left;
   margin: 1.5rem 0;
-  &.blog_divide {
-    margin: 1.5rem 0 0;
-    overflow: visible; /* For IE */
-    padding: 0;
-    border: none;
-    border-top: 2px solid $light-grey;
-    text-align: center;
-    
-    &:after {
-      color: $light-grey;
-      content: "⌾";
-      display: inline-block;
-      position: relative;
-      top: -.5em;
-      font-size: 1.5em;
-      padding: 0 0.25em;
-      background: $background-grey;
-    }
-  }
 }
 
 abbr {
