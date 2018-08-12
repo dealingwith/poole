@@ -17,13 +17,6 @@ Spain's ongoing doping investigation turned into an executioner Friday at the
 Tour de France, essentially decapitating the peloton's hierarchy just 24 hours
 ahead of Saturday's prologue start in Strasbourg.
 
-
-[![][1]][2]
-
-State of shock: Ullrich was devastated by the news
-
-photo: _AFP_
-
 Pre-race favorites Jan Ullrich (T-Mobile) and Ivan Basso (CSC) were among nine
 riders from five teams who were ruled out of the 93rd Tour in what brought
 back bad memories of the 1998 Festina scandal.
@@ -62,11 +55,4 @@ d'Epargne sport director Eusebio Unzue.
 
 [http://velonews.com/][3]
 
-   [1]: http://images.velonews.com/images/details/10185.15306.t.jpg
-
-   [2]: void
-window.open('/view_full.php?image=/images/details/10185.15306.f.jpg',
-'ViewFull', 'height=620,width=870,toolbar=no');
-
    [3]: http://velonews.com/
-
