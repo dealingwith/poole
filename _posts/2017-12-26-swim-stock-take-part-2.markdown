@@ -5,6 +5,8 @@ excerpt: "A brief history of a product"
 date: 2017-12-26 22:43:03 -0600
 comments: true
 categories: 
+ - swim
+ - nonlinear
 ---
 
 [In part 1]({{ site.baseurl }}/2017/12/23/swim-stock-take.html) I discussed the origins of the ideas that have driven the development of SWIM. Now for my attempt to sum up 16 years of product development in a few short paragraphs.

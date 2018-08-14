@@ -5,6 +5,8 @@ excerpt: "If this is a career-long project, where is it?"
 date: 2017-12-23 19:13:19 -0600
 comments: true
 categories: 
+ - swim
+ - nonlinear
 ---
 
 If this is a _[career-long project]({{ site.baseurl }}/2017/12/21/america.html "As I said in this post")_, where is it, in the context of the past, present and future?

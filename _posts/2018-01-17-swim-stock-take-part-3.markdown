@@ -5,6 +5,8 @@ excerpt: "Part 3 of my retrospective"
 date: 2018-01-17 23:06:48 -0600
 comments: true
 categories: 
+ - swim
+ - nonlinear
 ---
 
 [In part 1]({{ site.baseurl }}/2017/12/23/swim-stock-take.html) I discussed the origins of the ideas that have driven the development of SWIM.
