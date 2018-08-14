@@ -174,7 +174,7 @@ tbody tr:nth-child(odd) th {
 
 html, body {
   color: $dark-grey;
-  font-family: Roboto,RobotoDraft,Avenir, Sans-Serif;
+  font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1rem;
   font-style: normal;
   letter-spacing: 0.02rem;
@@ -334,7 +334,7 @@ a[href^="#fnref:"] {
 
 .page,
 .post {
-  // margin-bottom: 1em;
+  margin-bottom: 2.5em;
 }
 
 // Blog post or page title
@@ -350,10 +350,10 @@ a[href^="#fnref:"] {
 
 // Meta data line below post title
 .post-date {
-  color: $light-grey;
+  color: $grey;
   display: block;
-  font-size: 1rem;
-  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  // margin-bottom: 0.5rem;
   margin-top: -.5rem;
 }
 

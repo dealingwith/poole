@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![]({{ site.baseurl }}/assets/page/DSC_4897.jpg)
+<img src="{{ site.baseurl }}/assets/page/DSC_4899-copy.jpg" style="max-width: 200px; border-radius: 100px; margin: 0 auto">
 
 ## Product-focused technology leader
 
