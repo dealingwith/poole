@@ -9,10 +9,10 @@ layout: default
   <p class="small" style="margin-top:2rem;color:#ccc">{{ page.content | number_of_words }} words</p>
   <div class="pagination">
     {% if page.previous.url %}
-      <a class="pagination-item older" href="{{page.previous.url}}">{{page.previous.title}}</a>
+      <a class="pagination-item older" href="{{page.previous.url}}">Older: {{page.previous.title}}</a>
     {% endif %}
     {% if page.next.url %}
-      <a class="pagination-item newer" href="{{page.next.url}}">{{page.next.title}}</a>
+      <a class="pagination-item newer" href="{{page.next.url}}">Newer: {{page.next.title}}</a>
     {% endif %}
   </div>
   <br style="clear:both">

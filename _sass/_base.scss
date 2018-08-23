@@ -173,11 +173,10 @@ tbody tr:nth-child(odd) th {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  color: $dark-grey;
-  font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1rem;
+  color: $black;
+  font-family: "avenir next", avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.1rem;
   font-style: normal;
-  letter-spacing: 0.02rem;
   line-height: 1.5rem;
   // font-weight: 400;
 }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rosabelle &mdash; answer &mdash; tell &mdash; pray, answer &mdash; look &mdash; tell &mdash; answer, answer &mdash; tell.
+title: Rosabelle -- answer -- tell -- pray, answer -- look -- tell -- answer, answer -- tell.
 ---
 
 <img src="http://farm3.static.flickr.com/2651/4236918239_57a2b6a385.jpg" title="Photo by Bethan Phillips http://www.flickr.com/photos/beth19/4236918239/">
@@ -14,5 +14,3 @@ title: Rosabelle &mdash; answer &mdash; tell &mdash; pray, answer &mdash; look &
 * I still struggle to resist the urge to just totally drop out.
 * I still feel really betrayed but I'm not sure with whom.
 * I would still do anything to have her back again.
-
-<p class="date">November 06, 2010</p>

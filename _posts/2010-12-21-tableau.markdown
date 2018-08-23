@@ -21,11 +21,11 @@ it 'sees' in its Twitter feed into its drawer, to be discovered by its owner."
 <iframe src="http://player.vimeo.com/video/17280777?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/17280777">Tableau: physical email</a> from <a href="http://vimeo.com/jkestner">John Kestner</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 John Kestner is part of the [Information Ecology team at the MIT Media
-Lab][4], so of course [I'm going to gush a bit][5], but check out [some videos
-of his other projects][6] as well as [the rest of his portfolio][7].
+Lab][4], so of course I'm going to gush a bit, but check out [some videos
+of his other projects][6].
 
-I'm particarly interested in things like the [Daydar personal productivity
-framework][8].
+I'm particarly interested in things like the _Daydar personal productivity
+framework_. `[dead link]`
 
    [1]: http://berglondon.com/blog/2010/12/16/thursday-links-a-drawerful-of-photographs-fictional-logos-flashy-advertising-and-space/
 
@@ -35,13 +35,4 @@ framework][8].
 
    [4]: http://eco.media.mit.edu/
 
-   [5]: http://twitter.com/#!/dealingwith/status/17031471495647232
-
    [6]: http://vimeo.com/jkestner
-
-   [7]: http://coloured.net/john/portfolio/
-
-   [8]: http://coloured.net/john/portfolio/daydar/
-
-   
-

@@ -3,7 +3,7 @@ layout: post
 title: "Isolation"
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/i3HyRtdu1o0" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/i3HyRtdu1o0" frameborder="0" allowfullscreen></iframe></p>
 
 First, some errata: I realized only after a night's sleep that I did not go on anti-depressants 9 months after my divorce ([as I said](http://danielsjourney.com/2010/10/27/tooth-fairy.html)) but rather 18 or so. It was after _yet another_ critical experience following my relocation to Texas. It was this double beat-down (as it were) that led to a kind of retreat/regroup that involved, eventually, anti-depressants.
 

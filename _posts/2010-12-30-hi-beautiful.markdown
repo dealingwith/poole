@@ -3,7 +3,7 @@ layout: post
 title: "Hi Beautiful"
 ---
 
-You've likely seen it already, but [Carissa](carissabyers.blogspot.com) posted [this](http://carissabyers.blogspot.com/2010/12/hi-beautiful-book-for-margot.html) yesterday: "I was looking for a document and ran across an old text.  It was the book I was making for Margot, similar to the book I made for Penn. I can't remember if I ever posted it.  I hadn't finished the pages yet.  It is such an accurate description of us."
+You've likely seen it already, but [Carissa](http://carissabyers.com) posted [this](http://carissabyers.blogspot.com/2010/12/hi-beautiful-book-for-margot.html) yesterday: "I was looking for a document and ran across an old text.  It was the book I was making for Margot, similar to the book I made for Penn. I can't remember if I ever posted it.  I hadn't finished the pages yet.  It is such an accurate description of us."
 
 > I spend my days holding her close with ideas that maybe I could put her back in.  Keep her safe.  Maybe if I rock her long enough I can encourage some sort of osmosis.  Absorb her.  And of course I am.  Just not literally.  I imagine a bubble around her.  Dreams and love and ideas are spun like sugar around us.
 
@@ -18,5 +18,3 @@ You've likely seen it already, but [Carissa](carissabyers.blogspot.com) posted [
 > Her Daddy stands tall and roars at the world with brawn and willpower promising excruciating elements to any who might harm his precious baby.  Just as easily he turns and nuzzles her with such gentleness, golden whiskers and bright blue eyes.  "Hi, Beautiful."
 
 > I spend my days holding her close and teaching her independence.  Hoping I come upon some magical formula that can balance the two through the tornadoes of growing up.  Hoping that someday she will be a woman, my daughter and my friend and we can sit back in our dreams and love and ideas, spun like sugar around us.
-
-<p class="date">December 30, 2010</p>

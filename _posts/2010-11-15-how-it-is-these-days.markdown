@@ -7,6 +7,4 @@ Thought of a good metaphor the other day: it's like somebody walks in every hour
 
 This, of course, is an improvement from being constantly punched in the gut.
 
-<p class="date">November 16, 2010</p>
-
 <p class="postscript">Did you know Houdini was killed by someone punching him in the gut? Houdini had claimed to be able to withstand anyone punching him in the stomach, so some douchebag bust into his green room back stage at a show and punched him repeatedly in the stomach while he was laying on a couch. <a href="http://en.wikipedia.org/wiki/Harry_Houdini#Death">Houdini died of peritonitis from a ruptured appendix</a>, apparently performing either earlier the same day or the day prior.</p>
