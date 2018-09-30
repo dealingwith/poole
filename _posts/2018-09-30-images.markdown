@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Images"
+excerpt: 
+date: 2018-09-30 00:01:06 -0500
+comments: true
+categories: 
+---
+
+![]({{site.baseurl}}/assets/2018/09/soccer.jpg)
+
+Milo played his first soccer game in the rain yesterday.
+
+![]({{site.baseurl}}/assets/2018/09/minecraft.jpg)
+
+Settled into Minecraft. They call me for help a lot less these days.
+
+![]({{site.baseurl}}/assets/2018/09/lunch.jpg)
+
+I've had a lot of father-son lunches with this guy lately.
+
+![]({{site.baseurl}}/assets/2018/09/facebook.jpg)
+
+Found this in a notebook.
+
+![]({{site.baseurl}}/assets/2018/09/programming.jpg)
+
+Found this on the internet.
