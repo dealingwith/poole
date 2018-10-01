@@ -32,13 +32,4 @@ I want the energy I can feel in the words of that 27-year-old. I want that lack 
 
 The world is becoming an increasingly hostile place and more and more it seems that all there is to do is stand back and watch the arrogant, ignorant masses cut themselves to pieces. I'm sure they'll find someone to blame when they find their hands covered in blood.
 
-<audio src="http://www.danielsjourney.com/assets/2016/03/danny.mp3" controls="" preload="none">
-<object type="application/x-shockwave-flash" id="audioplayer1" data="/flash/player.swf?soundFile=http://www.danielsjourney.com/assets/2016/03/danny.mp3&amp;playerID=1" width="290" height="24">
-<param name="movie" value="/flash/player.swf?soundFile=http://www.danielsjourney.com/assets/2016/03/danny.mp3">
-<param name="quality" value="high">
-<param name="menu" value="false">
-<param name="wmode" value="transparent">
-</object>
-</audio>
-
 The mid-life crisis is for real, ya'll, and my life expectancy must be 82. I'll take it.
