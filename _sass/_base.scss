@@ -100,7 +100,6 @@ tbody tr:nth-child(odd) th {
 
 .menu {
   border-bottom: 1px solid $light-grey;
-  width: 100vw;
   * {
     margin-bottom: 0px !important;
   }
@@ -173,16 +172,17 @@ tbody tr:nth-child(odd) th {
 // Headings, body text, lists, and other misc typographic elements.
 
 html, body {
-  color: $black;
-  font-family: "avenir next", avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: $dark-grey;
+  font-family: 'Lato', sans-serif; //"avenir next", avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.1rem;
   font-style: normal;
   line-height: 1.5rem;
   // font-weight: 400;
 }
 
-h1, h2, h3, h4, h5, h6, header *, .menu *, .post-date, .pagination *, footer, footer * {
-  font-family: Avenir, Sans-Serif;
+h1, h2, h3, h4, h5, h6, header *, .menu * {
+//, .post-date, .pagination *, footer, footer * {
+  font-family: avenir, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, header *, .menu * {
