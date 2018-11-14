@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Images"
-excerpt: 
+excerpt: "Of my family and also random things"
 date: 2018-09-30 00:01:06 -0500
 comments: true
 categories: 
