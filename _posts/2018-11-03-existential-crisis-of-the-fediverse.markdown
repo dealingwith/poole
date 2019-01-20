@@ -25,11 +25,11 @@ But to my point: Twitter and Facebook solved problems we didn't have, and in fac
 
 So what problem are these services trying to solve? They're not going to improve the dialog amongst the citizenry of the world, in fact, the tools they create could become yet another in the toolbox of those set to divide us and set ourselves against one another.
 
-It is my hypothesis that the fediverse is creating a technological solution for a practice that can only work outside of technology. A practice that, as soon as technology is laid across it, dissolves into the same problems of any other centralized network.
+It is my hypothesis that the fediverse (as it currently stands) is creating a technological solution for a practice that can only work outside of technology. A practice that, as soon as technology is laid across it, dissolves into the same problems of any other centralized network.
 
-That said, a hub-based model is certainly better than a completely centralized one, and as long as the truly autonomous groups that make up this _practice_ of which I speak use those hubs as a temporary _conveinence_ and not as a true storefront for their ideas, those hubs are fine. 
+That said, a hub-based model is certainly better than a completely centralized one, and as long as the truly autonomous groups that make up this _practice_ of which I speak use those hubs as a temporary _conveinence_ and not as a true storefront for their ideas, those hubs are fine.
 
 But said groups must be autonomous and any structures they create should be temporary. How that works from a technological standpoint has a lot more in common with secret URLs distributed on slips of paper or via clues snuck into Alternative Reality Games than it does with social media marketing. 
 
-And as far as machines being able to process this data we leave littered across the world wide web...we hardly need much protocol for that. Just the smallest about of structure and metadata can be plenty enough for a clever piece of code to create heaps of meaning (and multibillion-dollar companies) from. Just look at Google. In the service of this piece of the puzzle, I find microformats and its ilk a much more interesting piece of technology than federated protocols. 
+And as far as machines being able to process this data we leave littered across the world wide web...we hardly need much protocol for that. Just the smallest amout of structure and metadata can be plenty enough for a clever piece of code to create heaps of meaning (and multibillion-dollar companies) from. Just look at Google. In the service of this piece of the puzzle, I find microformats and its ilk a much more interesting piece of technology than federated protocols. 
 
