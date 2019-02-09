@@ -48,3 +48,6 @@ public/lucys-server
 public/mcu-server
 
 Rakefile
+
+Gemfile
+Gemfile.lock
