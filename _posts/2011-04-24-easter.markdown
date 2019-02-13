@@ -3,8 +3,6 @@ layout: post
 title: "Iesus Nazarenus, Rex Iudaeorum"
 ---
 
-<img src="http://danielsjourney.com/files/download.jpeg" title="# http://www.reuters.com/article/2011/04/18/us-france-art-idUSTRE73H4JR20110418">
-
 I've always been more interested in the death of Jesus than his resurrection. The resurrection feels like a cop out. Like the authors and architects of my religion had to make it conform to the standards of mythology and epic narrative. 
 
 There are stories of believers who did not immediately learn of the resurrection. They remained faithful for years to the Christ who had died on a cross, before learning that he had afterwards walked through walls and floated up into the sky. Part of me wants to be part of a secret sect who was never brought the News. We would believe because of the man who lived, not the man who lived again. Those of us who died--our elderly and our children--would join Him, wherever he was. Not because he had floated into the sky, but because he had gone before us, and stayed there.
@@ -25,6 +23,6 @@ Here's a great [post about Easter](http://thoughtcatalog.com/2011/easter-jesus-w
 
 I've always been more convinced by curious disbelief than by firm, rational beliefs.
 
-<p class="date">April 24, 2011</p>
+---
 
-<p class="postscript"><a href="http://www.kesterbrewin.com/2011/04/19/piss-christ-sanitising-death-and-torture/">Here is another good analysis of the Piss Christ vandalism by my friend Kester</a>.</p>
+<a href="http://www.kesterbrewin.com/2011/04/19/piss-christ-sanitising-death-and-torture/">Here is another good analysis of the Piss Christ vandalism by my friend Kester</a>.

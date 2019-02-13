@@ -7,13 +7,13 @@ comments: true
 categories: 
 ---
 
-I Cut the 'Big Five' Tech Giants From My Life. It Was Hell. [Week 6: Blocking Them All](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194).
+_I Cut the 'Big Five' Tech Giants From My Life. It Was Hell--[Week 6: Blocking Them All](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194)_.
 
 Kashmir Hill from Gizmodo has done [a series](https://gizmodo.com/c/goodbye-big-five) about blocking the "Big Five" tech giants. Here's the video for the final installment, where she blocked all five at once.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Rxuf1598bjc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here [the playlist of all the videos](https://www.youtube.com/playlist?list=PLx1XbvvfIlc4zQgE5ohJA9EJ2NCcGc2QQ).
+Here is [the playlist of all the videos](https://www.youtube.com/playlist?list=PLx1XbvvfIlc4zQgE5ohJA9EJ2NCcGc2QQ).
 
 The part of the video and the article that I find most interesting is the interview with Daniel Kahn Gillmor from the ACLU:
 
