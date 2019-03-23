@@ -7,15 +7,18 @@
 
     {% include header.html %}
 
-    <div class="container">
-      <img src="{{ site.baseurl }}/assets/page/DSC_4899-copy.jpg" style="max-width: 200px; border-radius: 100px; margin: 0 auto">
+    {% unless paginator.previous_page %}
+      <div class="container" style="border-bottom: 1px solid #e9e9e9">
+        <img src="{{ site.baseurl }}/assets/page/DSC_4899-copy.jpg" style="max-width: 150px; border-radius: 75px; margin: 0 auto">
 
-      <h1>Product-focused Technology Leader</h1>
+        <h1 style="text-align: center;">Product-focused Technology Leader</h1>
 
-      <p>With 20 years of <a href="https://www.linkedin.com/in/dealingwith">experience</a> in technology and entrepreneurship, I help companies ship software that delivers real value to customers.</p>
+        <p>With 20 years of <a href="https://www.linkedin.com/in/dealingwith">experience</a> in technology and entrepreneurship, I help companies ship software that delivers real value to customers.</p>
 
-      <a href="{{ site.baseurl }}/about" title="About">More about me →</a>
-    </div>
+        <a href="{{ site.baseurl }}/about" title="About">More about me →</a>
+      </div>
+    {% endunless %}
+
     <div class="container content">
       <main>
         {{ content }}

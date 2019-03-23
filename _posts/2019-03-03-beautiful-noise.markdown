@@ -13,7 +13,7 @@ Penn, 15, is playing bari sax in his room. It has a good tone. He [plays alto](h
 
 Lucy, 7, is playing the piano. Right now she plays _7 Years_ and the beginning of _Für Elise_ by ear and an original tune she's writing every time she sits down at the piano. She also plays her lesson material most of the time, and occasionally breaks out in a Christmas song.
 
-Milo, 4, is plays the drums. He would play my drum pad when that was the only thing to hit in the house. Then we got him a kid drum kit for Christmas. Then we were given an old electric drum kit. His internal metronome is pretty on point, and he understands quarter and eighth notes and how to play a 2-4 beat.
+Milo, 4, is playing the drums. He would play my drum pad when that was the only thing to hit in the house. Then we got him a kid drum kit for Christmas. Then we were given an old electric drum kit. His internal metronome is pretty on point, and he understands quarter and eighth notes and how to play a 2-4 beat.
 
 ![]({{site.baseurl}}/assets/2019/03/milo-electronicdrums.jpg)
 
