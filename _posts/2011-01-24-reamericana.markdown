@@ -3,11 +3,11 @@ layout: post
 title: "Reamericana"
 ---
 
-<p class="media"><object data="http://bandcamp.com/EmbeddedPlayer/album=3895428586/size=grande3/bgcol=FFFFFF/linkcol=4285BB//" type="text/html" width="300" height="410"> </object></p>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3895428586/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://danielmiller.bandcamp.com/album/reamericana-ep">Reamericana EP by Daniel Miller</a></iframe>
 
 In 2003 I lived in Bosnia for a few months and while there recorded a little four-song EP, the _Americana EP_. I was really proud of it, it was my first time working with a producer and it was my first project since 1997. I'll have to "re-print" the epic story of the Bosnian disc reproduction _mofiasco_ on here soon for those who haven't already heard it.
 
-After the first _[Happy Sounding Sad Songs](http://danielmiller.bandcamp.com/album/happy-sounding-sad-songs)_ sessions I wasn't quite happy with the collection. There were a few songs on it that sounded like they belonged more with the previous _Americana EP_ than with the rest of their companions on _HSSS_. I tabled those three, recorded two new ones _([IDKWTDAT](http://danielmiller.bandcamp.com/track/i-dont-know-what-to-do-about-that "I Don't Know What to do About That") & [Clich&eacute;](http://danielmiller.bandcamp.com/track/clich]))_, and that was that.
+After the first _[Happy Sounding Sad Songs](http://danielmiller.bandcamp.com/album/happy-sounding-sad-songs)_ sessions I wasn't quite happy with the collection. There were a few songs on it that sounded like they belonged more with the previous _Americana EP_ than with the rest of their companions on _HSSS_. I tabled those three, recorded two new ones _([IDKWTDAT](http://danielmiller.bandcamp.com/track/i-dont-know-what-to-do-about-that "I Don't Know What to do About That") & Clich&eacute;_), and that was that.
 
 I had it in my mind to re-work _Americana_ since then. The original EP only used sampled drums and on a couple of the songs they sounded, well, sampled. I wanted real drums on those, combine them with the 3 stragglers from _HSSS_, ignore the fact that someone without a career has no place releasing a B-sides compilation, and whammo: new record.
 
@@ -63,11 +63,3 @@ All tracks mastered by Carl Saff in 2010.
 Cover art by Cathey Miller, from the original piece "Bring It"  
 Title font: Raleway by Matt McInerney  
 Cover design by Daniel Miller
-
-<p class="date">January 24, 2011</p>
-
-<script type="text/javascript">
-  djdc.connected = function() {
-    $("#content_container object").css({"padding": "5px"});
-  };
-</script>

@@ -27,5 +27,3 @@ the gods wait to delight
 in you.
 
 -- Charles Bukowski
-
-<p class="date">January 21, 2011</p>

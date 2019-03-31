@@ -3,11 +3,11 @@ layout: post
 title: "[the title of this poem is redacted]"
 ---
 
-<img src="http://danielsjourney.com/images/personalheader.jpg" title="John Heron Project">
+<img src="{{site.baseurl}}/images/personalheader.jpg" title="John Heron Project">
 
 My friend Wood wrote this poem. He recently decided to let his domain name go and shutter the site it was published on, so I felt the need to preserve it here.
 
-<hr>
+---
 
 If she had not been so loved,  
 It would not tear so badly.  
@@ -40,7 +40,3 @@ Sometimes it doesn't end well.
 Sometimes they don't get better.  
 Sometimes we survive our children  
 And will never cease to want them.  
-
-<p class="date">November 15, 2011</p>
-
-<p class="postscript"></p>

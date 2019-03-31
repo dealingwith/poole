@@ -21,4 +21,3 @@ The fact that I'm too tired to do much of anything notwithstanding.
 
 I just noticed that this blog has been around for a year. Fitting that I'm getting ready to shutter it.
 
-<p class="date">September 04, 2011</p>

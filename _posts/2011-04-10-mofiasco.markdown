@@ -5,7 +5,7 @@ title: "Mofiasco"
 
 <img src="http://farm3.static.flickr.com/2355/2254589407_4160be1ea0.jpg" title="http://www.flickr.com/photos/nigel321/2254589407/ photo by Nigel Swales">
 
-I [said in January](http://danielsjourney.com/2011/01/24/reamericana.html) that I should re-post this story. Took a while. I read a really amazing blog post today and its narrative involved the Bosnian crisis, so it inspired me to finally re-post this. I'll share that blog post tomorrow.
+I [said in January]({{site.baseurl}}/2011/01/24/reamericana.html) that I should re-post this story. Took a while. I read a really amazing blog post today and its narrative involved the Bosnian crisis, so it inspired me to finally re-post this. I'll share that blog post tomorrow.
 
 I should set the scene: August 2003. I've been in Bosnia since the beginning of April. I have recorded an EP, my first project since a CD I hastily put together my last semester in college in 1997. I have a band comprised of three Balkan misfits I already have a great affection for. My drummer, Elvis, also produced the EP. I have a "CD release" gig at the longest-established rock club in Sarajevo (it existed--in some form--during the siege). I'm leaving in the days following the gig for the Slovakian mountains--a vacation with my wife's family--and the Greenbelt festival in the UK, where I have a gig. This is the day of the gig:
 
@@ -31,6 +31,6 @@ I should set the scene: August 2003. I've been in Bosnia since the beginning of 
 
 ...the end...how things changed after that. I was actually back in the States in September, never to return to Bosnia again...
 
-<p class="date">April 10, 2011</p>
+
 
 <p class="postscript">* They were known as the <em>gray eminence</em>, which I had never heard of at the time and thought sounded a bit funny but it turns out is a <a href="http://en.wikipedia.org/wiki/%C3%89minence_grise">real thing</a>.</p>

@@ -9,7 +9,7 @@ In conversation yesterday the date December 8th came up and I slipped, "December
 
 Certainly, things are getting easier, in terms of emotionally surviving every day, in terms of emotionally surviving the constant reminders and triggers. But Lucy being both an unspeakable joy and a trigger is certainly an interesting case study in how life never allows for clear distinctions, or for real existential comfort whatsoever.
 
-<hr>
+---
 
 On the other hand, I often feel oddly privileged by my lack of concern for those things that often trouble those untouched by such unfortunate experiences. But while I'm much more able to exist in the moment, I also live in constant fear of what the following moment could contain.
 
@@ -17,8 +17,7 @@ Money, and its concerns either in abundance or decline? No problem! My family dr
 
 Strife--others' conflicts, stressors, disfunctions--when it finds its way into my experience? Ha! But let your toddler wander farther than five feet from you and I get a shot of fear-induced adrenaline through my veins. 
 
-<hr>
+---
 
 But those concerns reflect values, and I'm left observing my own from a strange distance, noticing how they have changed in a way I probably would have never known except perhaps through old age. Still, these values won't make me more successful in the world's eyes (although I'm open to the chance, don't get me wrong). They don't make me immune to anything in particular. They've just given me access...to what I'm still trying to determine.
 
-<p class="date">September 28, 2011</p>

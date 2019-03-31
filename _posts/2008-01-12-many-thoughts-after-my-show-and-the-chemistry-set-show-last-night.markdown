@@ -19,7 +19,7 @@ way I would like...
 So last night after my set at White Rock Coffee, which I should jot down some
 thoughts about but will do so in a less public forum--suffice it to say for
 now **thank you so much** everyone who came out and especially those who sang
-along and pounded on tables when asked--I went to [The Chemistry Set][1]'s
+along and pounded on tables when asked--I went to The Chemistry Set's
 last show.
 
 **I should preface all by saying that The Chemistry Set** was (is the past
@@ -31,8 +31,8 @@ man. They were a great band without any inauthenticity or bullshit attitude.
 They **were mostly perfect**.
 
 The turnout for their final show was good, but **as usual most of the people
-in attendance considered the music as a background soundtrack [for their
-_very_ important social lives][2]**. [There was some Art Conspiracy thing][3]
+in attendance considered the music as a background soundtrack for their
+_very_ important social lives**. There was some Art Conspiracy thing
 in the other room, and besides I didn't see a single person come out into the
 main room for the show. Is it me or is that a little fucked up? I would have
 thought that artists, of all people, would have streamed out like children for
@@ -41,17 +41,8 @@ energy coming off that stage.
 
 So much of the Dallas scene just seems like pearls before swine to me, and
 it's discouraging. I guess I got really spoiled by my 10 short months in the
-[Arlington (Virginia)/DC music scene][4]. (Followed by a quite nice 4 months
+Arlington (Virginia)/DC music scene. (Followed by a quite nice 4 months
 in Sarajevo {musically at least!})
 
 I wanted to post some Chem Set mp3's but they're all so good I can't decide on
 which...and I gotta run...maybe laters...
-
-   [1]: http://www.myspace.com/thechemistryset
-
-   [2]: http://twitter.com/dealingwith/statuses/590271592
-
-   [3]: http://twitter.com/dealingwith/statuses/590397772 (this was anaccidental tweet)
-
-   [4]: http://launch.groups.yahoo.com/group/metromusicscene/
-

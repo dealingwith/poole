@@ -7,4 +7,3 @@ title: "One Year"
 
 365 days ago, my daughter, my only child, died.
 
-<p class="date">August 13, 2011</p>

@@ -9,6 +9,4 @@ In the final two sentences of [his speech to the protests on Wall Street](http:/
 
 > We know that people often desire something but do not really want it. Don't be afraid to really want what you desire.
 
-<p class="date">October 11, 2011</p>
-
 <p class="postscript">The entire speech is well worth reading. &ldquo;The only sense in which are communists is that we care for the commons...Communism failed absolutely, but the problems of the commons are here.&rdquo;</p>

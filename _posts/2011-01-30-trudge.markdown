@@ -3,8 +3,7 @@ layout: post
 title: "..."
 ---
 
-<p class="media"><object data="http://bandcamp.com/EmbeddedPlayer/track=2640512438/size=venti/bgcol=FFFFFF/linkcol=4285BB//" type="text/html" width="400" height="100"> </object></p>
-
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1139714321/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2640512438/transparent=true/" seamless><a href="http://samamidon.bandcamp.com/album/i-see-the-sign">I See The Sign by Sam Amidon</a></iframe>
 
 ...could tell you about how my depression has been getting worse. How I have been considering chemical interventions for it. How I remembered how the last time I required anti-depressants it was quite a few months after an event I had to pretty much eradicate from my memory. How I'm riding my bicycle a whole lot these days trying to beat it off with naturally enhanced endorphins and serotonin and norepinephrine or whatever making yourself hurt on a bicycle does that makes you forget everything and occasionally overly verbose about not much in particular.
 
@@ -23,5 +22,3 @@ title: "..."
 ...could tell you about all the failed attempts my brain has made at creating some semblance of a tautology for this thing. How none of my experience or faith or culture has provided any tools for dealing with it. How they have only provided frameworks that crumble under its weight, pain for their attempts at grace, crumbling ruins for their attempts at meaning.
 
 ...but I don't really feel like it.
-
-<p class="date">January 30, 2011</p>

@@ -11,7 +11,7 @@ There's a corner being turned. The temperature is dropping. Various projects are
 
 Carissa is an amazingly strong person for whom I am very grateful. I could not navigate these waters without her. I'm also attracted to her each day more than the last. I don't have a lot of relationship advice to give, but I think that's the way this thing called love is supposed to work.
 
-<hr>
+---
 
 > ...when people are truly sinking...they have no idea what mix of character, connections and dumb luck will be enough to pull through
 
@@ -21,11 +21,11 @@ In reading _[On Road to Recovery, Past Adversity Provides a Map](http://nyti.ms/
 
 In any case, to consider all this random and meaningless, while valid, is a path to madness.
 
-<hr>
+---
 
 I recently started riding my bike a bit more. I got sick of my gut hanging over my belt. Counting calories has once again become a habit. Riding is the only way to keep those calories in the negative enough to really make a difference. I need to drink less too. I'm trying.
 
-[Rapha has provided some motivation](http://www.rapha.cc/the-rapha-festive-500):
+Rapha has provided some motivation:
 
 > Riding hard at Christmas is not a paradox. As you stuff your belly with food and soak yourself with booze, the roads may seem empty. But they aren't. This year, riders across the globe will be squeezing themselves like oversized elves into tights and overshoes and heading out to go the distance, leaving the turbo trainer in the garage.
 
@@ -34,7 +34,3 @@ My goal was to do half of the Rapha 500. I got to maybe 200k instead. But I went
 Guiding a well built bicycle through a turn at speed is one of the most enjoyable things a man can do. If practiced, there becomes a sequence trained into the body that makes it feel as if it has joined with the machine beneath it, one entity with one mind. There is a cadence to the movements: the shifting of weight on the saddle and then on the pedals, the eyes' line moves further ahead, then the body initiates the turn and the bicycle obeys.  
 
 It is starting to feel like the first beats of that cadence.
-
-<p class="date">January 09, 2011</p>
-
-<p class="postscript">While I have not splurged for any Rapha clothing, they do help <a href="http://www.velodramatic.com/archives/6266">perpetuate an aesthetic</a> that accentuates all the things I've loved about cycling. It is, after all, one of the most beautiful sports in the world. It should be no surprise that so many designers are drawn to it.<br><br><object width="480" height="270"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=15197531&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=15197531&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="270"></embed></object></p>
