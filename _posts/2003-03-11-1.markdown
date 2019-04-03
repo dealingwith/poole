@@ -1,8 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - links
----
-
-<a href="http://www.blognewsnetwork.com/members/0000001/2003/03/11.html">adam curry's weblog</a> remember when schoolyard pranks consisted of a 'kick me' sign and scotch tape?
