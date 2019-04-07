@@ -49,6 +49,8 @@ categories:
 
 [The Trust Battery: My Interview with Shopify Founder Tobi Lütke](https://fs.blog/tobi-lutke/)
 
+This one is **so good**.
+
 ---
 
 [Rhizome artistic director Michael Connor and his team chronicle "net art."](https://www.recode.net/podcasts/2019/2/25/18236624/net-art-rhizome-michael-connor-new-museum-art-happens-here-kara-swisher-recode-decode-podcast)

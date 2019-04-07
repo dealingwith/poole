@@ -12,7 +12,7 @@ title: Home
         </a>
         <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
       </h2>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="excerpt">{{ post.excerpt | strip_html }}</a>
+      <p class="excerpt">{{ post.excerpt | strip_html }}</p>
     </article>
   {% endfor %}
 </div>
