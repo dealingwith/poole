@@ -19,7 +19,7 @@ Milo loves soccer so much, but he tends to keep his distance from the ball.
 
 ![]({{site.baseurl}}/assets/2019/05/milo_soccer2.jpg)
 
-Milo scores his first goal of the season. The ball comes to him and he kicks it and it goes in the goal. The crowd of parents go wild. He talks about it for at least a day and a half.
+Milo scores his first goal of the season. The ball comes to him and he kicks it and it goes in the goal. The crowd of parents goes wild. He talks about it for at least a day and a half.
 
 ---
 
