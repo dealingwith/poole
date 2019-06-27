@@ -28,7 +28,7 @@ body {
 
 body {
   color: $black;
-  background-color: $background-grey;
+  background-color: #fff;
   padding: 0;
   margin: 0;
 }
@@ -37,7 +37,7 @@ body {
 a {
   color: $link-blue;
   cursor: pointer;
-  font-weight: 500;
+  // font-weight: 500;
   position: relative;
   text-decoration: none;
 
