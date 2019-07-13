@@ -7,12 +7,6 @@ comments: true
 categories: 
 ---
 
-**More from Oklahoma**
-
-![]({{site.baseurl}}/assets/2019/06/DSC_0609.jpg)
-
-![]({{site.baseurl}}/assets/2019/06/DSC_0760.jpg)
-
 **Rode my bike this weekend**
 
 Summertime is hot, but I have more time...
