@@ -10,16 +10,9 @@ wordpress_id: '2518'
 categories:
  - elsewhere
  - fiction
- - mp3 of the day
  - quotable
  - suicide
 ---
-
-(If not in the mood for sad, fucked up shit, please skip!) (PS: I'm still not
-depressed. Yay for no meds. It's like we withdrew the ineffectual troops and
-the natives had to learn how to get along!)
-
-![][1]
 
 I just had this rather odd revelation that a high percentage of the times I've
 considered ending my own life have been under the motivation to have the last
@@ -33,7 +26,7 @@ I know I'm not alone in this being alone. I know there are so many of us who
 feel alone even in the company of many friends. We reach out in so many ways
 but not one sees that open hand.
 
-[In 2004 I wrote][2]:
+In 2004 I wrote:
 
 > And that's kind of what it comes down to. Any place can be made into a home.
 But a true home takes two. Alone, one can design their place how they want
@@ -81,7 +74,7 @@ spin down a huge tornado, chaos be damned.
 Grace, these days, would be at least a toilet bowl, where the shit could spin
 around together for a few seconds.
 
-...
+---
 
 > ...and I thought: that laugh will only mean sadness when I am dead, which,
 given the mood I am in and the unkempt quality of my hair, will be very soon.
@@ -95,15 +88,4 @@ moments of self-pity and desperation: it's naptime.
 
 -- [Snow day (Ftrain.com)][3]
 
-The mp3s of the day, if you missed them (or haven't been fed them yet) on my
-del.icio.us links, are all the songs at [happybirthdaydenison.com][4]. That
-guy is a fucking genius.
-
-   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/03/what%20matters%20is%20people.jpg
-
-   [2]: http://danielsjourney.com/blog/index.php?file=2004_02.xml&id=165
-
    [3]: http://www.ftrain.com/snowsnow.html
-
-   [4]: http://happybirthdaydenison.com/
-

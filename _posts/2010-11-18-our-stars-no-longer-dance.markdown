@@ -3,7 +3,7 @@ layout: post
 title: "Our Stars No Longer Dance"
 ---
 
-<p class="media"><object width="100%" height="300"><param name="movie" value="http://www.youtube.com/v/4Dr0WgduMRo?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4Dr0WgduMRo?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DoUKr38wi8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Margot loved to dance. This song helps me believe she's still dancing. It's about Louis Armstrong. Sing to her for me, Louis. 
 
