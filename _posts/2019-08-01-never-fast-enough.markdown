@@ -15,4 +15,4 @@ categories:
 
 >All that said: It’s easy to write an essay about fast software. It’s difficult to make fast software. But when it’s made, we’re all grateful.
 
-[Never Fast Enough](https://craigmod.com/roden/028/#never-fast-enough)
+[Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
