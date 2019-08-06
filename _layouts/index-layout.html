@@ -4,31 +4,31 @@
   {% include head.html %}
 
   <body>
+    <div class="row">
+      <div class="column left">
+        {% unless paginator.previous_page %}
+          <div class="container">
+            <img src="{{ site.baseurl }}/assets/page/DSC_4899-copy.jpg" style="max-width: 150px; border-radius: 75px; margin: 0 auto; border: 2px solid #F1F7F6; box-shadow: -1px 1px 1px #999">
 
-    {% include header.html %}
+            <h1 style="text-align: center;">Daniel Miller</h1>
 
-    {% unless paginator.previous_page %}
-      <div class="container" style="border-bottom: 1px solid #e9e9e9">
-        <img src="{{ site.baseurl }}/assets/page/DSC_4899-copy.jpg" style="max-width: 150px; border-radius: 75px; margin: 0 auto">
+            <h3 style="text-align: center;">Product-focused Technology Leader</h3>
 
-        <h1 style="text-align: center;">Product-focused Technology Leader</h1>
+            <p>With 20 years of <a href="https://www.linkedin.com/in/dealingwith">experience</a> in technology and entrepreneurship, I help companies ship software that delivers real value to customers.</p>
 
-        <p>With 20 years of <a href="https://www.linkedin.com/in/dealingwith">experience</a> in technology and entrepreneurship, I help companies ship software that delivers real value to customers.</p>
+            <p><a href="{{ site.baseurl }}/about" title="About">More about me →</a></p>
+          </div>
+        {% endunless %}
 
-        <p><a href="{{ site.baseurl }}/about" title="About">More about me →</a></p>
       </div>
-    {% endunless %}
-
-    <div class="container content">
-      <main>
-        {{ content }}
-      </main>
-      <br style="clear:both">
-      <footer class="footer">
-        <small>
-          <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons licensed</a>, 2001&ndash;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
-        </small>
-      </footer>
+      <div class="column right">
+        <div class="container content">
+          <main>
+            {{ content }}
+          </main>
+          {% include footer.html %}
+        </div>
+      </div>
     </div>
   </body>
 </html>

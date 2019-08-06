@@ -7,11 +7,11 @@ $yellow: #ffff90;
 $link-blue: #268bd2;
 $border: 1px solid $light-grey;
 
-@import url('https://rsms.me/inter/inter-ui.css');
-html { font-family: 'Inter UI', sans-serif; }
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter UI var alt', sans-serif; }
-}
+// @import url('https://rsms.me/inter/inter-ui.css');
+// html { font-family: 'Inter UI', sans-serif; }
+// @supports (font-variation-settings: normal) {
+//   html { font-family: 'Inter UI var alt', sans-serif; }
+// }
 
 * {
   -webkit-box-sizing: border-box;
@@ -127,6 +127,8 @@ tbody tr:nth-child(odd) th {
 .excerpt {
   color: #999;
   display: block;
+  font-size: 0.95rem;
+  line-height: 1.3rem;
   margin: -5px;
   padding: 5px 5px 0px;
   div.image {
@@ -167,17 +169,12 @@ tbody tr:nth-child(odd) th {
 
 html, body {
   color: $black;
-  font-size: 1.01rem;
-  line-height: 1.5rem;
-}
-
-h1, h2, h3, h4, h5, h6, header *, .menu * {
-//, .post-date, .pagination *, footer, footer * {
   font-family: avenir, 'Nunito', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.4rem;
 }
 
 h1, h2, h3, h4, h5, h6, header *, .menu * {
-  color: $black;
   font-weight: 500;
   line-height: 1.5rem;
   margin-bottom: 0.5rem;
@@ -288,9 +285,9 @@ a[href^="#fnref:"] {
 // Super small header above the content for site name and short description.
 
 .masthead {
-  background: #f9f9f9;
+  // background: #f9f9f9;
   // border-top: 2px solid $link-blue;
-  border-bottom: 1px solid $light-grey;
+  // border-bottom: 1px solid $light-grey;
   padding: .5rem .5rem .2rem;
 }
 
