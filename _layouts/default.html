@@ -4,12 +4,16 @@
   {% include head.html %}
 
   <body>
-    <div class="container">
-      <main>
-        {{ content }}
-      </main>
-      <br style="clear:both">
-      {% include footer.html %}
+    <div class="default">
+      {% include header.html %}
+      <div class="column right">
+        <div class="container content">
+          <main>
+            {{ content }}
+          </main>
+          {% include footer.html %}
+        </div>
+      </div>
     </div>
   </body>
 </html>
