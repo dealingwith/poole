@@ -53,3 +53,5 @@ Gemfile
 Gemfile.lock
 
 .jekyll-metadata
+
+html_proofer.rb

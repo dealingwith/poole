@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 'Spiritual Conflict In The Everyday power relationships suburbia art and death'
+title: 'Spiritual Conflict In The Everyday: power, relationships, suburbia, art and death'
 categories:
  - comment
 ---
-<em>...a beginning</em>
+
+_...a beginning_
 
 We rail against suburbia, but it is not the enemy: it is only our version of the enemy. And "enemy" is not even the right word for it, this unseen power we feel over and around us, pushing us from behind into the crowd, or a dark pit, the fall and the feel of the bottom we know and dread.
 
@@ -19,5 +20,3 @@ So we attack the cool de sac, the SUV, the Sunday-school teacher, the overweight
 But it is not this accumulation of small deaths. It is how the small deaths prevent any real death at all. They are in fact small taxes paid to the god of ourselves, so that we may never have to face a God of us all. They are sidesteps, diversions, truths we tell ourselves, careers, gourmet dinners, anonymous sexual encounters. 
 
 And the more we rail, and the more we divert, and the more we wield our wild power over others, the more we begin to enter this game first cheering, then standing, then fighting with the other side--the side of the dead but never dying, the undead.
-
-<img src="http://danielsjourney.com/blog/files/2004/07/DSCN0635.jpg" alt="don't dump aborted kids in toilet thnx management" />
