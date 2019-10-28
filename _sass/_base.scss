@@ -6,6 +6,7 @@ $background-grey: #fdfdfd;
 $yellow: #ffff90;
 $link-blue: #268bd2;
 $border: 1px solid $light-grey;
+$white: #F1F7F6;
 
 * {
   -webkit-box-sizing: border-box;
@@ -377,4 +378,15 @@ s {
 
 .postscript {
   color: $grey;
+}
+
+img.profile-pic {
+  border: 2px solid $white;
+  border-radius: 75px;
+  box-shadow: 1px 1px 1px $light-grey;
+  margin: 0 auto;
+  max-width: 150px;
+  .content & {
+    border: 2px solid $dark-grey;
+  }
 }
