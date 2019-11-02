@@ -11,10 +11,6 @@ categories:
  - over the rhine
 ---
 
-http://www.archive.org/audio/etree-details-db.php?id=32484
+[i don't think this was straight out of the board, but it sounds like it.](https://archive.org/details/otr2005-05-28.flac16)
 
-i don't think this was straight out of the board, but it sounds like it.
-
-later, upon listening to the whole thing: awesome is not a strong enough word.
-full band. cover of "moondance." acordian on "jesus..." etc.
-
+later, upon listening to the whole thing: awesome is not a strong enough word. full band. cover of "moondance." acordian on "jesus..." etc.

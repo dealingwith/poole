@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://www.washingtonpost.com/wp-dyn/articles/A3489-2002Sep25.html">Bill to Limit Music, Dancing in D.C. Restaurants Goes Nowhere (washingtonpost.com)</a>
-
