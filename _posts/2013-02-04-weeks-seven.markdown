@@ -10,9 +10,7 @@ categories: minutia
 
 Oh how the weeks are flying by! I've wanted to blog but have had too many things in the air at one time. A development contract, some bartered web design work, the new record, two different side projects. And tomorrow my wife gets her picture taken for a feature in [D Moms](http://moms.dmagazine.com/category/moms-we-love/).
 
-Still not a lot to share about any of those things in said air. But I do want to share [this talk](https://vimeo.com/39441590) by one of my favorite people, [Aaron Draplin](http://draplin.com/). If you want to be inspired, love awesome people and aren't put off by a lot of salty language, spend an hour with this little gem: 
-
-<iframe src="http://player.vimeo.com/video/39441590" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+Still not a lot to share about any of those things in said air. ~~But I do want to share this talk by one of my favorite people, [Aaron Draplin](http://draplin.com/). If you want to be inspired, love awesome people and aren't put off by a lot of salty language, spend an hour with this little gem:~~ (`dead link`)
 
 ### Sobriety
 
