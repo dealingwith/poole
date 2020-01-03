@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-I've been struggling with communicating my thoughts and attitudes around [Agile](https://en.wikipedia.org/wiki/Agile_software_development) within the organizations and contexts in which I've found myself. See ["Product Camp"](http://www.danielsjourney.com/2018/03/11/product-camp.html "As long as agile remains a series of processes and not a set of principles, it will be a religion without a higher power."). "Kanban is not Agile," "We need a real scrum master," and "How do you do backlog grooming" are all statements I've heard in the last few years that have caused me to internally roll my eyes.
+I've been struggling with communicating my thoughts and attitudes around [Agile](https://en.wikipedia.org/wiki/Agile_software_development) within the organizations and contexts in which I've found myself. See ["Product Camp"]({{site.baseurl}}/2018/03/11/product-camp.html "As long as agile remains a series of processes and not a set of principles, it will be a religion without a higher power."). "Kanban is not Agile," "We need a real scrum master," and "How do you do backlog grooming" are all statements I've heard in the last few years that have caused me to internally roll my eyes.
 
 My position is that Agile is a set of principles, not processes, but it's hard to get this to hit home with anyone. People just want processes that fix their pains. They don't want to actually change their thinking.
 
