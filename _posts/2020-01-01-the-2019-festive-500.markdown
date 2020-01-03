@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-The  [first time I attempted the Festive 500 was 2010]({{site.baseurl}}/2011/01/09/corner.html):
+The [first time I attempted the Festive 500 was 2010]({{site.baseurl}}/2011/01/09/corner/):
 
 >My goal was to do half of the Rapha 500. I got to maybe 200k instead. But I went on the longest ride I’d done since the 90’s. I rode more days than I had in any given week since the 90’s. I’m noticeably faster now than I was two weeks before Christmas. I haven’t lost any weight. But when I’m on my bicycle my mind clears and fills with good ideas and sometimes, even, a little hope...
 
@@ -15,9 +15,9 @@ The  [first time I attempted the Festive 500 was 2010]({{site.baseurl}}/2011/01/
 
 >It is starting to feel like the first beats of that cadence.
 
- [I was successful on my second attempt, in 2011]({{site.baseurl}}/2012/01/01/rapha.html). I wasn't on Strava yet, so no digital trophy for me. 
+[I was successful on my second attempt, in 2011]({{site.baseurl}}/2012/01/01/rapha/). I wasn't on Strava yet, so no digital trophy for me. 
 
- [I also managed it on my third attempt, in 2012]({{site.baseurl}}/2012/12/31/the-2012-festive-500.html). I was unemployed at the time.
+[I also managed it on my third attempt, in 2012]({{site.baseurl}}/2012/12/31/the-2012-festive-500/). I was unemployed at the time.
 
 Soon after, in 2013, I got a new job as the CTO of a (at the time) very small startup. In 2014, Milo was born.
 

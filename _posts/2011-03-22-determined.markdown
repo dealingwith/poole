@@ -3,7 +3,7 @@ layout: post
 title: "Determinedistic"
 ---
 
-I've said before that there are certain questions that are now &ldquo;[best escorted out of the park by security]({{site.baseurl}}/2011/02/24/what-now.html)&rdquo; ...and maybe you noticed that was the first of a trilogy: "What now?" &ldquo;[I'll go on.]({{site.baseurl}}/2011/02/28/I-can-not-go-on.html)&rdquo; &ldquo;[Not because \[I want\] to but because \[I have\] to.]({{site.baseurl}}/2011/03/07/bikes.html)&rdquo;
+I've said before that there are certain questions that are now [best escorted out of the park by security]({{site.baseurl}}/2011/02/24/what-now/) ...and maybe you noticed that was the first of a trilogy: "What now?" [I'll go on.]({{site.baseurl}}/2011/02/28/I-can-not-go-on/) [Not because I want to but because I have to.]({{site.baseurl}}/2011/03/07/bikes/)
 
 The problem with the deeper questions surrounding our loss and our lives is that they are the questions that have existed for all time and our answers--or lack thereof--are the same as well. The search for meaning evolves into a search to be more human, to connect to--not a Truth--but the truth of what it means to here with others.
 
