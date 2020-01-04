@@ -36,7 +36,7 @@ I've thought often about how he was able to maintain focus the way he did. I've 
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/ol6VYp0naYA?rel=0" frameborder="0" allowfullscreen></iframe>
 
-It's interesting to observe how my focus changes as I context switch between the (still far too many) things I have chosen to do: cycling, music, coding, writing. Sunday I was in the studio and this week I find myself stopping to more intentionally listen to the music I normally play just to drown out my coworker's conversations. I find myself contemplating my next record, what songs need to be learned, which people need to be recruited. [I find myself blown away by new music](http://blog.danielsjourney.com/2012/03/20/son-lux-live/) that--mysteriously--crosses my desk during this time. 
+It's interesting to observe how my focus changes as I context switch between the (still far too many) things I have chosen to do: cycling, music, coding, writing. Sunday I was in the studio and this week I find myself stopping to more intentionally listen to the music I normally play just to drown out my coworker's conversations. I find myself contemplating my next record, what songs need to be learned, which people need to be recruited. [I find myself blown away by new music]({{site.baseurl}}/2012/03/20/son-lux-live/) that--mysteriously--crosses my desk during this time. 
 
 It seems that one of the ways to succeed despite all the distractions and context-switching required by modern, connected life is to be able to focus quickly, and on the right things. I feel like I've said this exact thing before, and while I couldn't find that post in the archives, I [have quoted and written a lot about attention in the past](http://danielsjourney.com/categories/attention/).
 
@@ -66,6 +66,6 @@ It is difficult to keep a post about hard work and concentration from becoming j
 
 ---
 
-Previously: [Contentment](http://blog.danielsjourney.com/2012/03/15/rate-of-change-part-1/)
+Previously: [Contentment]({{site.baseurl}}/2012/03/15/rate-of-change-part-1/)
 
 Next up: Intention and Habit

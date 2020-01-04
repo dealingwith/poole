@@ -6,7 +6,7 @@ comments: true
 categories: [design, development, music]
 ---
 
-One topic my [post from yesterday](http://blog.danielsjourney.com/2012/05/15/intellectual-property-primer/) did not specifically address was music. Coincidentally, [Andy Baio recently posted a thorough investigation of cover songs on YouTube](http://waxy.org/2012/05/criminal_creativity_untangling_cover_song_licensing_on_youtube/) that speaks to many of the issues on both sides of the intellectual property debate. 
+One topic my [post from yesterday]({{site.baseurl}}/2012/05/15/intellectual-property-primer/) did not specifically address was music. Coincidentally, [Andy Baio recently posted a thorough investigation of cover songs on YouTube](http://waxy.org/2012/05/criminal_creativity_untangling_cover_song_licensing_on_youtube/) that speaks to many of the issues on both sides of the intellectual property debate. 
 
 > We all break laws. Every day, millions of people jaywalk, download music, and drive above the speed limit. Some laws are obscure, others are inconvenient, and others are just fun to break.
 

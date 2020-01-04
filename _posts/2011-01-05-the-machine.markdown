@@ -5,7 +5,7 @@ title: "Tweetage Wasteland: You Can't Turn Off The Machine"
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u7ziwuIpnVY" frameborder="0" allowfullscreen></iframe>
 
-Last December I paid Dave Pell a compliment on Twitter and he replied "[Learning a lot from your blog](https://twitter.com/davepell/status/14852545004437504)." I thought, "Uh oh, which blog?" and asked him as much in a direct message. Twitter gave way to email and he asked if he could use material from my post ["The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy."](http://danielsjourney.com/2010/11/29/connected.html) Dave starts his piece:
+Last December I paid Dave Pell a compliment on Twitter and he replied "[Learning a lot from your blog](https://twitter.com/davepell/status/14852545004437504)." I thought, "Uh oh, which blog?" and asked him as much in a direct message. Twitter gave way to email and he asked if he could use material from my post ["The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy."]({{site.baseurl}}/2010/11/29/connected/) Dave starts his piece:
 
 > I think about a lot of things before I share online. But here's one thing I never think about:
 
@@ -19,7 +19,7 @@ Dave is an amazing writer already featured on NPR (among others), and the things
 
 > ...We haven't had a chance to reflect on the role this technology is playing in our lives.
 
-This is all a subject matter I've been interested in for a long time. In my original post I use the term _technopathology_, a term I first encountered in the Peter Lamborn Wilson (aka Hakim Bey) video I included in [this post](http://danielsjourney.com/2010/10/28/isolation.html) (he coined the term). I've been a long-time fan of Wilson's writings (ask anyone who's been around when I start referencing his essay on [Immediatism](http://books.google.com/books?id=FlKN__HHPTMC&lpg=PP1&ots=L760-c6-yS&dq=hakim%20bey%20immediatism&pg=PA7#v=onepage&q&f=false)) but I'm not as radical in my rejection of technologies as he. As Dave says, this is the world we live in--and I read that a little more literally as a technologist who makes his living (and spends most of his time, besides) in front of just such a machine. But to think about this system as "the rule of sick machines" is helpful when trying to diagnose these illnesses we've developed due to our unblinking acceptance of various technologies into our lives.
+This is all a subject matter I've been interested in for a long time. In my original post I use the term _technopathology_, a term I first encountered in the Peter Lamborn Wilson (aka Hakim Bey) video I included in [this post]({{site.baseurl}}/2010/10/28/isolation/) (he coined the term). I've been a long-time fan of Wilson's writings (ask anyone who's been around when I start referencing his essay on [Immediatism](http://books.google.com/books?id=FlKN__HHPTMC&lpg=PP1&ots=L760-c6-yS&dq=hakim%20bey%20immediatism&pg=PA7#v=onepage&q&f=false)) but I'm not as radical in my rejection of technologies as he. As Dave says, this is the world we live in--and I read that a little more literally as a technologist who makes his living (and spends most of his time, besides) in front of just such a machine. But to think about this system as "the rule of sick machines" is helpful when trying to diagnose these illnesses we've developed due to our unblinking acceptance of various technologies into our lives.
 
 I wrote about this topic years ago for Movement magazine in the UK: 
 
