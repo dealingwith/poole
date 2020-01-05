@@ -8,7 +8,7 @@ categories: [thoughts, minutia]
 
 ### to (ride a bike) (write a blog) (take the train) (eat bacon) ###
 
-First there was [XOXO](2012/09/23/xoxo/) and its admonishment to "Work on something you are passionate about, because if it becomes successful you'll have to do it all the time." Then there was [Bret Victor's talk on "Inventing on Principle"](2012/09/30/bret-victor-inventing-on-principle/). Then there was [the news](2012/10/07/nic/) that Nic Hughes had lost his fight with cancer. Then there was [an acknowledgement](2012/11/06/daddys-girls/) of the similarities between Margot and Lucy and the moment I've described as my [biggest regret](http://www.flickr.com/photos/carissabyers/4779129420/ "About two years ago Daniel went to work"). There's been a serious theme around here and it's not going to stop with this post.
+First there was [XOXO]({{site.baseurl}}/2012/09/23/xoxo/) and its admonishment to "Work on something you are passionate about, because if it becomes successful you'll have to do it all the time." Then there was [Bret Victor's talk on "Inventing on Principle"]({{site.baseurl}}/2012/09/30/bret-victor-inventing-on-principle/). Then there was [the news]({{site.baseurl}}/2012/10/07/nic/) that Nic Hughes had lost his fight with cancer. Then there was [an acknowledgement]({{site.baseurl}}/2012/11/06/daddys-girls/) of the similarities between Margot and Lucy and the moment I've described as my [biggest regret](http://www.flickr.com/photos/carissabyers/4779129420/ "About two years ago Daniel went to work"). There's been a serious theme around here and it's not going to stop with this post.
 
 ### Nic's Memorial ###
 
@@ -48,21 +48,13 @@ Unfortunately for us, Nic and Margot were both taken from us too soon and in unl
 
 ### "Cycling's part of that subtle end of the spectrum." ###
 
-One of my main prescriptions is bicycling. Over in [my podcast](http://huffduffer.com/johnnycitizen) I've recently posted two clips of Mike Burrows from [The Bike Show](http://thebikeshow.net/burrows-on-the-bicycle-part-one/), which has this to say about him:
+One of my main prescriptions is bicycling. Over in ~~my podcast~~ I've recently posted two clips of Mike Burrows from [The Bike Show](http://thebikeshow.net/burrows-on-the-bicycle-part-one/), which has this to say about him:
 
 > Mike Burrows is probably best known for his design of the Lotus 108 pursuit bike that Chris Boardman rode in the Barcelona Olympics, winning the first gold medal for a British cyclist in over 70 years. But Mike has made a huge contribution to pedal powered machines more widely. His compact road frame first developed for Giant is now a design standard and his designs have moved the world of laid back or recumbent bicycles on from the early, pioneering days in 1970s California. Burrows remains inventive, opinionated and passionate about bicycles.
 
-The [first clip](http://huffduffer.com/johnnycitizen/88559) is about the freedom that a bicycle engenders, both a freedom in movement but also a freedom from toil:
+The ~~first clip~~ is about the freedom that a bicycle engenders, both a freedom in movement but also a freedom from toil.
 
-<audio controls="controls">
-  <source src="http://johnnycitizen.com/podcast/jcp_09.mp3" type="audio/mp3">
-</audio>
-
-The [second clip](http://huffduffer.com/johnnycitizen/90965) is about money and happiness:
-
-<audio controls="controls">
-  <source src="http://johnnycitizen.com/podcast/jcp_10.mp3" type="audio/mp3">
-</audio>
+The ~~second clip~~ is about money and happiness.
 
 ### So I write this while at work. With a little bit of irony. ###
 
@@ -72,7 +64,7 @@ Yesterday Penn and I had a day together. First we went to Cindy's for a 2nd brea
 
 ---
 
-So this is just the [usual]({{site.baseurl}}/2011/11/29/desire-and-meaning/), a post about meaning and [more](http://danielsjourney.com/2011/11/07/worst-day/) ruminating about how it might be staring me in the face the entire time. Maybe I'm just having a midlife crisis. Maybe I've never really been able to distinguish between the [important and the merely urgent][1]. *Maybe I should just go home.*
+So this is just the [usual]({{site.baseurl}}/2011/11/29/desire-and-meaning/), a post about meaning and [more]({{site.baseurl}}/2011/11/07/worst-day/) ruminating about how it might be staring me in the face the entire time. Maybe I'm just having a midlife crisis. Maybe I've never really been able to distinguish between the [important and the merely urgent][1]. *Maybe I should just go home.*
 
 *Later, at home*...and maybe I should just keep writing.
 

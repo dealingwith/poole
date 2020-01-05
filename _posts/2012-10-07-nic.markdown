@@ -33,7 +33,7 @@ Amen to that, and godspeed, Nic.
 Here is something I recorded for Nic (as requested of many by his friends before his passing). It might give you a little insight into what Nic meant to me:
 
 <audio controls="controls">
-  <source src="/files/Nic.mp3" type="audio/mp3">
+  <source src="{{site.baseurl}}/assets/2012/10/Nic.mp3" type="audio/mp3">
 </audio>
 
-If you're curious about the things I mention in that audio, check out [Vaux's page on smallfire.org](http://www.smallfire.org/vauxpage1.html) or explore [Vaux's archive](http://www.vaux.net/services-archive).
+If you're curious about the things I mention in that audio, check out [Vaux's page on smallfire.org](http://www.smallfire.org/vauxpage1.html) or explore [Vaux's archive](http://www.vaux.net/).

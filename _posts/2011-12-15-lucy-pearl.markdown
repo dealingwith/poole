@@ -10,8 +10,6 @@ categories: [minutia, announcements]
 
 Announcing the arrival of Lucy Pearl Miller, born December 7th, 2011; weighing 8 pounds 10 ounces ([Carissa](http://carissabyers.com/) is 4'11"). In her first week in our family she has beguiled all of us with her sweetness and the power of The Cute.
 
-![Lucy Pearl has a curl](http://farm8.staticflickr.com/7007/6519025795_c5e01c3dfd.jpg)
-
 Those who know us well know that Lucy's birth has even more meaning than usual, and we appreciate your heartfelt expressions of joy at our blessing.
 
 I've never experienced so much healing so quickly.
