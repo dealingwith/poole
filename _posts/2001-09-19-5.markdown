@@ -2,7 +2,6 @@
 author: dealingwith
 date: '2001-09-19 17:22:00'
 layout: post
-slug: '5'
 status: publish
 title: 'Nonlinear: The Original Business Proposition'
 wordpress_id: '3085'
