@@ -1,4 +1,3 @@
-require "jekyll-categories"
 require "titleize"
 
 Jekyll::Hooks.register :posts, :pre_render do |post|
