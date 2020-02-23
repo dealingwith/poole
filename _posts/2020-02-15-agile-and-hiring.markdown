@@ -3,8 +3,6 @@ layout: post
 title: "Agile and Hiring"
 excerpt: "Two topics that are top of mind at the moment"
 date: 2020-02-15 08:21:12 -0600
-comments: true
-categories: 
 ---
 
 Two topics that are top of mind at the moment, but these two articles are not necessarily related to one another.
