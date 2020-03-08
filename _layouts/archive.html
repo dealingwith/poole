@@ -4,20 +4,12 @@
   {% include head.html %}
 
   <body style="width: 500%">
-
-    {% include header.html %}
-
-    <!-- <div style="margin: 1rem; font-size: .9rem">see also: <a href="{{ site.baseurl }}/categories">category archives</a></div> -->
     <div style="margin: 1rem">
       {{ content }}
       <br style="clear:left">
     </div>
     <div class="container content">
-      <footer class="footer">
-        <small>
-          <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons licensed</a>, 2001&ndash;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
-        </small>
-      </footer>
+      {% include footer.html %}
     </div>
   </body>
 </html>

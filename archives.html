@@ -12,6 +12,6 @@ title: Archives
         <ul>
     {% assign date = currentdate %}
   {% endif %}
-    <li><a class="archive_link" href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a class="archive_link" href="{{ post.url }}" style="font-size:.9rem">{{ post.title }}</a></li>
   {% if forloop.last %}</ul></div>{% endif %}
 {% endfor %}
