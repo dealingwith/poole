@@ -8,7 +8,7 @@ categories:
 
 I threw my back out Friday night at Milo's football game, playing football with Lucy on the sideline. I spent that night and all of Saturday in moderate pain. I took Advil and used Aspercreme, used a massager, a heating pad, took a long, hot shower, and in general was feeling a lot better by mid-day Sunday. I even went on a bike ride. Then, _while putting on my socks_ Sunday afternoon, I threw it out way worse. Excruciating pain. That night I called the over-the-phone doctor and got a prescription for Meloxicam and switched to Tylenol since one shouldn't take Meloxicam and Advil together. It is now over 24 hours later and I'm just now getting back to where I was before the nearly fatal socks pulling-on.
 
-This all on a day of Covid-19 pandemic global freak-out, the markets crashing, oil falling to almost $30 a barrel...and all of that is happening during a season of personal upheaval. And now even my body is failing me.
+This all on a day of Covid-19 pandemic global freak-out, the markets crashing, oil falling to almost $30 a barrel...
 
 So, I was grateful for a few thinkers today...
 
