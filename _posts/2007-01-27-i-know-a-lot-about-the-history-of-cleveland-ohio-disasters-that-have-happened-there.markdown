@@ -6,35 +6,17 @@ slug: i-know-a-lot-about-the-history-of-cleveland-ohio-disasters-that-have-happe
 status: publish
 title: I know a lot about the history of Cleveland, Ohio, Disasters that have happened
   there
-wordpress_id: '1968'
 categories:
- - mp3 of the day
  - music
  - nostalgia
 ---
 
-It's a long thread I shant explain, but I had to post [Hide Away][1] by [Adam
-Again][2], the band that wrote the song (Dig) that inspired Don't Tell Me, and
-from which Don't Tell Me stole lyrics for the outro.
+It's a long thread I shant explain, but I had to post _Hide Away_ by [Adam Again][2], the band that wrote the song (_Dig_) that inspired Don't Tell Me, and from which Don't Tell Me stole lyrics for the outro.
 
-While I'm at it, here's [It's All Right][3].
+While I'm at it, _It's All Right_.
 
-And shit, [Relapse][4].
+And shit, _Relapse_.
 
-And I uploaded [Good Cop Bad Cop][5] by Everything But the Girl a while back
-but never posted it.
-
-![][6]
-
-   [1]: http://daniel.iaspiretonothing.com/blog/files/2007/01/Adam%20Again%20-%20Worldwide%20Favorites%20-%203%20-%20Hide%20Away.mp3
+...and _Good Cop Bad Cop_ by _Everything But the Girl_.
 
    [2]: http://en.wikipedia.org/wiki/Adam_Again
-
-   [3]: http://daniel.iaspiretonothing.com/blog/files/2007/01/Adam%20Again%20-%20Worldwide%20Favorites%20-%202%20-%20It%27s%20All%20Right.mp3
-
-   [4]: http://daniel.iaspiretonothing.com/blog/files/2007/01/Adam%20Again%20-%20Worldwide%20Favorites%20-%2016%20-%20Relapse.mp3
-
-   [5]: http://daniel.iaspiretonothing.com/blog/files/2007/01/EBTG-Walking_Wounded-%2809%29-Good_Cop_Bad_Cop.mp3
-
-   [6]: http://myspace-066.vo.llnwd.net/00219/66/09/219569066_l.jpg
-
