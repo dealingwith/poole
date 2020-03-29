@@ -5,7 +5,7 @@ categories:
  - elsewhere
 ---
 
-blogpulse.com (`dead link`)
+<a class="dead">blogpulse.com (dead link)</a>
 
 all the blogging things just make me feel like there are all these batters swinging wildly at every ball, but none of them see that the pitcher hasn't thrown a fast ball down the center yet.
 

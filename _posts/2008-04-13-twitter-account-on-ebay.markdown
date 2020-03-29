@@ -10,7 +10,7 @@ categories:
  - twitter
 ---
 
-Twitter Account and Followers For Sale (`dead link`):
+<a class="dead">Twitter Account and Followers For Sale (dead link)</a>
 
 > I really love my Twitter account but I feel like I haven't been using it the way I want to. Quite honestly, I feel sorry for all of my followers because they wind up with my tweets in their timelines and I haven't been able to utilize the medium the way I want to. I also participate in another Twitter account over on Rocketboom so I'm thinking I'll post more over there and start up a new account to do what I want to do next.
 

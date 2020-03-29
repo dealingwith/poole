@@ -15,7 +15,7 @@ I read this book almost as fast as I read a Palahniuk novel, and that's saying a
 
 See also: 
 
-powells.com interview w/ Ethan Hawke (`dead link`)
+<a class="dead">powells.com interview w/ Ethan Hawke (dead link)</a>
 
 > Dave: Your novels certainly aren't religious novels by any means, but in each one people are struggling with some pretty big questions, particularly in Ash Wednesday.
 

@@ -5,7 +5,7 @@ categories:
  - minutia
 ---
 
-Fanatical Apathy (`dead link`)
+<a class="dead">Fanatical Apathy (dead link)</a>
 
 > The dinner-party question that most people have no problem with is always a real trauma for me:
 

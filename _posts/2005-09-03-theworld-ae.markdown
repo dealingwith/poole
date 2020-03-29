@@ -10,7 +10,7 @@ categories:
  - nonlinear
 ---
 
-theworld.ae (`dead link`) offers a semi-nonlinear, natural navigation experience exceptionally similar to a couple digital I've done, Hate Mail and Order/Disorder (part of WTF?). Extra kudos for Flash text I could actually read.
+<a class="dead">theworld.ae (dead link)</a> offers a semi-nonlinear, natural navigation experience exceptionally similar to a couple digital I've done, Hate Mail and Order/Disorder (part of WTF?). Extra kudos for Flash text I could actually read.
 
 Now if you'll excuse me, I must go feel poor.
 

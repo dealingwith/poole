@@ -11,7 +11,7 @@ Last December I paid Dave Pell a compliment on Twitter and he replied "[Learning
 
 > The unthinkable.
 
-Dave is an amazing writer already featured on NPR (among others), and the things he wrote around the context of my post were both sensitive and thought provoking (`dead link`). 
+Dave is an amazing writer already featured on NPR (among others), and <a class="dead">the things he wrote around the context of my post were both sensitive and thought provoking (dead link)</a>. 
 
 > Daniel can't escape his own digital trail. Yet he returns to the internet to add to it. He is using the machine to express his frustration that the machine won't leave him alone. The same technology that haunts him also provides a way to mourn and remember.
 

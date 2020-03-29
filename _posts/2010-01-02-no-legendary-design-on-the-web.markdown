@@ -11,7 +11,7 @@ categories:
  - design
 ---
 
-_Why there are no legendary web designers_ (`dead link`) got me all in bunch earlier
+<a class="dead">_Why there are no legendary web designers_ (dead link)</a> got me all in bunch earlier
 today, had to share here. In reply to:
 
 > The web is a low resolution, low fidelity, crappy medium.
