@@ -36,7 +36,7 @@ a {
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
-  &:not(.image) {
+  &:not(.image, .dead) {
     &:hover,
     &:focus {
       background: $yellow;
@@ -45,6 +45,11 @@ a {
 
   strong {
     color: inherit;
+  }
+
+  &.dead {
+    color: $dark-grey;
+    text-decoration: line-through;
   }
 
 }
