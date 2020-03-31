@@ -1,12 +1,12 @@
 $black: #404040;
-$grey: #999;
+$grey: #5b5b5b;
 $dark-grey: #353739;
 $light-grey: #e9e9e9;
 $background-grey: #fdfdfd;
 $yellow: #ffff90;
 $link-blue: #268bd2;
 $border: 1px solid $light-grey;
-$white: #F1F7F6;
+$white: #fff;
 
 * {
   -webkit-box-sizing: border-box;
@@ -18,12 +18,13 @@ $white: #F1F7F6;
 
 html,
 body {
-  margin: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 body {
   color: $black;
-  background-color: #fff;
+  background-color: $white;
   padding: 0;
   margin: 0;
 }
@@ -124,7 +125,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .excerpt {
-  color: #999;
+  color: $grey;
   display: block;
   font-size: 0.95rem;
   line-height: 1.3rem;
@@ -195,9 +196,6 @@ a[href^="#fnref:"] {
 // Super small header above the content for site name and short description.
 
 .masthead {
-  // background: #f9f9f9;
-  // border-top: 2px solid $link-blue;
-  // border-bottom: 1px solid $light-grey;
   padding: .5rem .5rem .2rem;
 }
 
@@ -230,14 +228,8 @@ a[href^="#fnref:"] {
 
 .page,
 .post {
-  .content & {
-    // border: 1px solid #e9e9e9;
-    // border-radius: 5px;
-    // padding: 20px;
-  }
-  border-bottom: 1px dashed $light-grey;
   margin-bottom: 2em;
-  padding-bottom: 2em;
+  padding-bottom: 2.3em;
   &:last-child {
     border-bottom: none;
   }
@@ -257,9 +249,7 @@ a[href^="#fnref:"] {
 // Meta data line below post title
 .post-date {
   color: $grey;
-  // display: block;
   font-size: 0.9rem;
-  // margin-bottom: 0.5rem;
   margin-top: -.5rem;
 }
 
@@ -305,8 +295,6 @@ a[href^="#fnref:"] {
 
 // Pagination items can be `span`s or `a`s
 .pagination-item {
-  // border: solid #eee;
-  // border-width: 1px;
   display: block;
   padding: 1rem;
   text-align: center;

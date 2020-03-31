@@ -6,17 +6,19 @@
   <body>
     <div class="default">
       <div class="header">
-        <div class="container">
-          <h1 style="text-align: center;"><a href="/">Daniel Miller</a></h1>
-        </div>
+        <h1 style="text-align: right;">
+          <a href="/" class="material-icons md-24">home</a>
+          <a href="/about" class="material-icons md-24">face</a>
+          <a href="/music" class="material-icons md-24">album</a>
+        </h1>
       </div>
       <div class="column right">
         <div class="container content">
           <main>
             {{ content }}
           </main>
-          {% include footer.html %}
         </div>
+        {% include footer.html %}
       </div>
     </div>
   </body>

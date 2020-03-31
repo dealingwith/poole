@@ -19,31 +19,25 @@
 }
 
 footer {
-  padding-bottom: 1rem;
+  padding: 1rem;
 }
 
 .header {
-  background-color: $dark-grey;
-  background-attachment: fixed;
-  background-size: cover;
-  border-bottom: 3px solid $white;
+  padding: 0.5rem 1.5rem;
   * {
-    color: $white;
-    line-height: 1.6rem;
+    color: $dark-grey;
+    line-height: 0.4rem;
   }
   a {
-    border-bottom: 1px dotted $white;
+    color: $dark-grey;
+    display: inline;
+    padding: 4px;
   }
   a:hover {
-    background: none;
-  }
-  .default & {
-    * {
-      font-size: 1rem;
-    }
-    .container {
-      padding: 10px 0 15px;
-    }
+    border: 1px dotted $black;
+    border-radius: 100px;
+    color: $black;
+    padding: 3px;
   }
 }
 
