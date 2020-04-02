@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://www.bornmagazine.org/mother.html">Born Magazine: Design and Literature Collaboration</a>
-

@@ -44,7 +44,7 @@ from _This Person_ (with extra paragraph break) from [Miranda July][3]'s
 [No One Belongs Here More Than You][4]
 
 Today's mp3s of the day are the live sets by Dan Wilson and Sondre Lerche,
-from their Club Dada performances in November, thanks to lullabyes.net `[dead link]`.
+from their Club Dada performances in November, thanks to lullabyes.net (dead link).
 
 sondre lerche 11/15/07
 

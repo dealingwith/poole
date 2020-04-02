@@ -14,4 +14,4 @@ categories:
 
 > I am pretty certain I drive the other programmer at my job batshit crazy when we’re trying to design software. We will talk through about maybe half of a design and then I will suggest we stop and start trying to code it. I think (but don’t know for sure) that he wants to think through every scenario and mentally execute and verify the design before he sits down in front of Eclipse and makes it happen. Whereas I want to start vetting the design with the computer once I’ve got a good clue as to how it might work out. I think this is my way of resisting the urge to think I’m the most clever person on earth by getting real.
 
-[Adam Keys](https://therealadam.com), _Unwritten code is the easiest to maintain_ `[dead link]`
+[Adam Keys](https://therealadam.com), _Unwritten code is the easiest to maintain_ (dead link)

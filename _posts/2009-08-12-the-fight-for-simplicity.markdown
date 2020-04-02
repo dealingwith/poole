@@ -54,9 +54,9 @@ interface design, as that is an area I read the most about:
 
   * [Practicing product minimalism][12].
 
-  * _Managing UI Complexity_ `[dead link]` by Brandon Walkin is a extremely well written post well advertised by its title. It contains many great tips for simplifying the user interface of applications. He mentions a common design problem I've often encountered: "The [user interface] reflects the developer's model of the task rather than the user's model."
+  * _Managing UI Complexity_ (dead link) by Brandon Walkin is a extremely well written post well advertised by its title. It contains many great tips for simplifying the user interface of applications. He mentions a common design problem I've often encountered: "The [user interface] reflects the developer's model of the task rather than the user's model."
 
-  * _Approaching a Minimum Viable Product_ `[dead link]` and [Minimum Viable Product: a guide][15].
+  * _Approaching a Minimum Viable Product_ (dead link) and [Minimum Viable Product: a guide][15].
 
   * [Do The Simplest Thing That Could Possibly Work][16].
 

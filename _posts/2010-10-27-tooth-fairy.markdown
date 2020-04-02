@@ -19,4 +19,4 @@ I'm not as concerned (yet) about a drug decision as I am about what this thing i
 
 I need a Tooth Fairy Moment. I need to know what is true, and what this terrain yet holds so I can prepare for it.
 
-<p class="postscript">* <a href="/2010/10/28/isolation.html">correction</a></p>
+<p class="postscript">* <a href="/2010/10/28/isolation">correction</a></p>
