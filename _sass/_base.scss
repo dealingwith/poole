@@ -1,12 +1,9 @@
+$white: #fff;
 $black: #404040;
-$grey: #5b5b5b;
-$dark-grey: #353739;
+$grey: #6c6c6c;
 $light-grey: #e9e9e9;
-$background-grey: #fdfdfd;
 $yellow: #ffff90;
 $link-blue: #268bd2;
-$border: 1px solid $light-grey;
-$white: #fff;
 
 * {
   -webkit-box-sizing: border-box;
@@ -240,7 +237,7 @@ a[href^="#fnref:"] {
 .post-title,
 .post-title {
   a {
-    color: #303030;
+    color: $black;
     margin: -5px;
     padding: 0 5px;
   }
@@ -380,6 +377,6 @@ img.profile-pic {
   margin: 0 auto;
   max-width: 150px;
   .content & {
-    border: 2px solid $dark-grey;
+    border: 2px solid $black;
   }
 }
