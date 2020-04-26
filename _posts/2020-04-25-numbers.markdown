@@ -12,19 +12,20 @@ categories:
 
 More up-to-date number: [52,234](https://twitter.com/AndyBiotech/status/1253859071050108930)
 
-[United States military casualties of war](https://en.wikipedia.org/wiki/United_States_military_casualties_of_war#Wars_ranked_by_U.S._combat_deaths)
-
-### Total U.S. Deaths
+### Total U.S. Deaths in Context
 
 |Event|Deaths|
 |-----|------|
-|Cival War|750,000|
+|Civil War|750,000|
+|1918 H1N1 Virus|675,000|
 |World War II|405,399|
 |World War I|116,516|
+|1968 H3N2 Virus|100,000|
 |Vietnam War|58,209|
 |Korean War|54,246|
-|Coronavirus|52,234|
+|COVID-19|52,234|
 |Revolutionary War|25,000|
+|2009 Swine Flu|12,469|
 
 ...so very soon, COVID-19 will have killed more people than those who died in the Korean War or the Vietnam War, and eventually will likely eclipse U.S. deaths in World War I.
 
