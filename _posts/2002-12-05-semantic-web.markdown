@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'semantic web'
-categories:
- - design
- ---
+---
 
 I've mentioned the <a href="http://www.w3c.org/2001/sw/">semantic web</a> a
 few times in the past. It is a subject I am both a student and evangelist
