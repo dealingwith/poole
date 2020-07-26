@@ -11,7 +11,7 @@ categories:
 
 Last night we went to see Over the Rhine at the wonderful listening room [The Kessler](http://thekessler.org/). 
 
-![]({{site.baseurl}}/assets/2018/04/kessler.jpg)
+![](/assets/2018/04/kessler.jpg)
 
 Image from the [Over the Rhine Twitter](https://twitter.com/overtherhine/status/990394388399448065)
 

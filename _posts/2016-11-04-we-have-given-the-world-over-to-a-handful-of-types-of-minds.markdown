@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![]({{site.baseurl}}/assets/2016/11/bt.jpg)
+![](/assets/2016/11/bt.jpg)
 
 [Baratunde Thurston on the CodeNewbie Podcast](http://www.codenewbie.org/podcast/comedy-and-code-part-i):
 

@@ -9,30 +9,30 @@ categories:
 
 I got Pavlov from the Dallas SPCA in early 2005, when he was 1 year old. He lived a lot of life with me.
 
-![]({{site.baseurl}}/assets/2018/06/pav1.jpg)
+![](/assets/2018/06/pav1.jpg)
 
 I forgot he used to lay like this until I was looking at old pictures of him.
 
-![]({{site.baseurl}}/assets/2018/06/pav2.png)
+![](/assets/2018/06/pav2.png)
 
 He was known as the emo dog.
 
-![]({{site.baseurl}}/assets/2018/06/pav4.png)
+![](/assets/2018/06/pav4.png)
 
 His literal BFF, Ringo. We're worried about how Ringo will handle life without Pav.
 
-![]({{site.baseurl}}/assets/2018/06/pav6.png)
+![](/assets/2018/06/pav6.png)
 
 He used to keep up with me on mountain bike rides.
 
-![]({{site.baseurl}}/assets/2018/06/pav7.png)
+![](/assets/2018/06/pav7.png)
 
 Begging at an open window at our old house.
 
-![]({{site.baseurl}}/assets/2018/06/pav9.jpg)
+![](/assets/2018/06/pav9.jpg)
 
-![]({{site.baseurl}}/assets/2018/06/pav10.jpg)
+![](/assets/2018/06/pav10.jpg)
 
-![]({{site.baseurl}}/assets/2018/06/pav8.png)
+![](/assets/2018/06/pav8.png)
 
 I'll miss ya, bud.

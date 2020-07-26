@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-![Had I slept?]({{site.baseurl}}/assets/2016/03/wake_up.gif)
+![Had I slept?](/assets/2016/03/wake_up.gif)
 
 ## This series of posts is not about depression
 

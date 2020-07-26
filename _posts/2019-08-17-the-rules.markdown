@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![]({{site.baseurl}}/assets/2019/08/Respectable-Jersey.png)
+![](/assets/2019/08/Respectable-Jersey.png)
 
 Respectable Road Club Rules (WIP)
 

@@ -8,10 +8,10 @@ comments: true
 categories: 
 ---
 
-![]({{site.baseurl}}/assets/2016/08/milo1.png)
+![](/assets/2016/08/milo1.png)
 
-![]({{site.baseurl}}/assets/2016/08/milo2.png)
+![](/assets/2016/08/milo2.png)
 
-![]({{site.baseurl}}/assets/2016/08/milo3.png)
+![](/assets/2016/08/milo3.png)
 
-![]({{site.baseurl}}/assets/2016/08/lucy1.png)
+![](/assets/2016/08/lucy1.png)

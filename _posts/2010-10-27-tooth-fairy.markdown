@@ -5,7 +5,7 @@ title: "The Real Tooth Fairy"
 
 > This morning, Penn sulked slowly down the hallway and plopped on the couch.  "She didn't come."  He looked up at me with the biggest crocodile tears you have ever seen and I couldn't bear to lie for that neglectful tooth fairy woman again.
 
-One of the side effects of the <a href="{{site.baseurl}}/2010/09/17/insomnia/">insomnia</a>, which Carissa has been combating by falling asleep cuddled up next to me on the couch while I wait still for sleep to come, is the acceleration of certain veil-liftings like <a href="http://carissabyers.blogspot.com/2010/10/lost-tooth-and-tooth-fairy/">who the tooth fairy really is</a>.
+One of the side effects of the <a href="/2010/09/17/insomnia/">insomnia</a>, which Carissa has been combating by falling asleep cuddled up next to me on the couch while I wait still for sleep to come, is the acceleration of certain veil-liftings like <a href="http://carissabyers.blogspot.com/2010/10/lost-tooth-and-tooth-fairy/">who the tooth fairy really is</a>.
 
 ---
 
@@ -15,7 +15,7 @@ I've been on anti-depressants before; I have a degree in psychology, I've been s
 
 Since emerging from that series of bad decisions I've used St John's wort with success to combat a pretty regular depression onset. Since August I've been trying to maintain a regular St John's regimen. Today I started with double my normal dose, which probably puts me at the recommended daily dose; but I'm getting the sense that its potency is wearing off. Or what it is trying to fight is getting stronger.
 
-I'm not as concerned (yet) about a drug decision as I am about what this thing is turning into. There have been cycles of "It's getting better" that alternate with cycles of "No, it's getting worse." [The original post of this blog]({{site.baseurl}}/2010/09/02/in-order-to-remember-we-must-first-forget/) is still just as applicable now as it was then. The amount I miss her every day is unmeasurable, and everything sucks without her.
+I'm not as concerned (yet) about a drug decision as I am about what this thing is turning into. There have been cycles of "It's getting better" that alternate with cycles of "No, it's getting worse." [The original post of this blog](/2010/09/02/in-order-to-remember-we-must-first-forget/) is still just as applicable now as it was then. The amount I miss her every day is unmeasurable, and everything sucks without her.
 
 I need a Tooth Fairy Moment. I need to know what is true, and what this terrain yet holds so I can prepare for it.
 

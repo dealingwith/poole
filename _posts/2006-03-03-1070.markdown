@@ -9,7 +9,7 @@ title: 'Pigs in Space'
 
 [THIS][1] is what the intarweb is all about.
 
-![]({{site.baseurl}}/assets/2006/03/96987694_3f925e193a_6k.jpg)
+![](/assets/2006/03/96987694_3f925e193a_6k.jpg)
 
    [1]: http://www.flickr.com/photo_zoom.gne?id=96987694&size=o
 

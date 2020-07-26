@@ -9,7 +9,7 @@ categories:
 
 For the first time, all three children started school last Monday. Milo, our youngest, started kindergarten! He was the most excited of all three. I was more anxious for him than he was for himself. Still am.
 
-<img src="{{site.baseurl}}/assets/2019/08/first-day-of-school-milo.jpg" style="float: left; width: 30%; margin-right: 1%">
-<img src="{{site.baseurl}}/assets/2019/08/first-day-of-school-lucy.jpg" style="float: left; width: 30%; margin-right: 1%">
-<img src="{{site.baseurl}}/assets/2019/08/first-day-of-school-penn.jpg" style="float: left; width: 30%; ">
+<img src="/assets/2019/08/first-day-of-school-milo.jpg" style="float: left; width: 30%; margin-right: 1%">
+<img src="/assets/2019/08/first-day-of-school-lucy.jpg" style="float: left; width: 30%; margin-right: 1%">
+<img src="/assets/2019/08/first-day-of-school-penn.jpg" style="float: left; width: 30%; ">
 <br style="clear:left">

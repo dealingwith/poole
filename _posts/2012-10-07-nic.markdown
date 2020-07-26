@@ -16,7 +16,7 @@ Today I found out [Nic Hughes](http://hauntedgeographies.typepad.com/) lost his 
 > Hope this is not too invasive? Take care,
 > Nic Hughes
 
-On the way home from the office, where I was when I heard, I was somehow drawn to memories of a host of those we've lost. I found myself listening to [Carter](http://www.carteralbrecht.com/)'s record. I happened to drive by where earlier this year we saw [a teenage girl killed]({{site.baseurl}}/2012/01/01/rapha/).
+On the way home from the office, where I was when I heard, I was somehow drawn to memories of a host of those we've lost. I found myself listening to [Carter](http://www.carteralbrecht.com/)'s record. I happened to drive by where earlier this year we saw [a teenage girl killed](/2012/01/01/rapha/).
 
 Later, in reply to my helpless email of remorse, our mutual friend [Kester](http://www.kesterbrewin.com/) replied:
 
@@ -33,7 +33,7 @@ Amen to that, and godspeed, Nic.
 Here is something I recorded for Nic (as requested of many by his friends before his passing). It might give you a little insight into what Nic meant to me:
 
 <audio controls="controls">
-  <source src="{{site.baseurl}}/assets/2012/10/Nic.mp3" type="audio/mp3">
+  <source src="/assets/2012/10/Nic.mp3" type="audio/mp3">
 </audio>
 
 If you're curious about the things I mention in that audio, check out [Vaux's page on smallfire.org](http://www.smallfire.org/vauxpage1.html) or explore [Vaux's archive](http://www.vaux.net/).

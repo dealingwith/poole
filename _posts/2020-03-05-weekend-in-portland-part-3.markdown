@@ -8,7 +8,7 @@ categories:
 
 I asked Dillen what other bike-related sights I should see and he recommended [Golden Pliers](https://www.goldenpliers.com/), so I went there next. 
 
-![]({{site.baseurl}}/assets/2020/03/IMG_20200229_135742.jpg)
+![](/assets/2020/03/IMG_20200229_135742.jpg)
 
 I mostly window-shopped, although I had a cortado while I was there, and bought some postcards and stickers.
 
@@ -18,7 +18,7 @@ That night I'd been invited to my coworker's house in Beaverton for game night. 
 
 >Go For It! unapologetically celebrates the acquisition of status symbols. The winner of the game is the first player to acquire the requisite number of expensive consumer items, each represented by a card with an illustration of the item and a prominent price tag.
 
-![]({{site.baseurl}}/assets/2020/03/Go-For-It-game-status-cards.jpg)
+![](/assets/2020/03/Go-For-It-game-status-cards.jpg)
 
 ---
 

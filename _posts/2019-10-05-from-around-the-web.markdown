@@ -9,7 +9,7 @@ categories:
 
 This image I found while looking for images to describe "roadmap tetris":
 
-![]({{site.baseurl}}/assets/2019/10/tetris.gif)
+![](/assets/2019/10/tetris.gif)
 
 ---
 

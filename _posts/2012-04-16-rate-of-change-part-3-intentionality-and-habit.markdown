@@ -44,6 +44,6 @@ Other techniques include a [Ulysses pact](http://en.wikipedia.org/wiki/Ulysses_p
 
 ---
 
-Previously: [Hard Work]({{site.baseurl}}/2012/03/21/rate-of-change-part-2/)
+Previously: [Hard Work](/2012/03/21/rate-of-change-part-2/)
 
 Next up: Trust, Humility, Balance and Sleep

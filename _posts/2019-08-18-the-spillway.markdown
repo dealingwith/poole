@@ -9,4 +9,4 @@ categories:
 
 From my ride this morning.
 
-![]({{site.baseurl}}/assets/2019/08/IMG_20190818_065931.jpg)
+![](/assets/2019/08/IMG_20190818_065931.jpg)

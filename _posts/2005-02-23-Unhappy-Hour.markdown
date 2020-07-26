@@ -5,7 +5,7 @@ categories:
  - announcements
 ---
 
-<a href="http://www.sindustrydesigns.com/unhappy/unhappy_02.htm"><img src="{{site.baseurl}}/blog/files/2005/02/unhappy_02.jpg" align="left" /><a href="http://www.joeyseeman.com/">Joey Seeman</a> (<a href="http://www.sindustrydesigns.com">see also</a>), and <a href="http://pigeonstoneproject.com" title="not much to see there yet. working on that atm.">Pigeon-Stone Project</a> at the Magnolia present, "The Unhappy Hour," featuring jilted lovers and unhappy bar patrons.
+<a href="http://www.sindustrydesigns.com/unhappy/unhappy_02.htm"><img src="/blog/files/2005/02/unhappy_02.jpg" align="left" /><a href="http://www.joeyseeman.com/">Joey Seeman</a> (<a href="http://www.sindustrydesigns.com">see also</a>), and <a href="http://pigeonstoneproject.com" title="not much to see there yet. working on that atm.">Pigeon-Stone Project</a> at the Magnolia present, "The Unhappy Hour," featuring jilted lovers and unhappy bar patrons.
 
 24 February - 6 April
 Opening Reception

@@ -14,27 +14,27 @@ Last weekend I did the Texas Chainring Massacre gravel ride. I did the 30 mile "
 
 My trusty steed, with brand new gravel tires installed:
 
-![]({{site.baseurl}}/assets/2018/02/bike.jpg)
+![](/assets/2018/02/bike.jpg)
 
 Some of the TCM course:
 
-![]({{site.baseurl}}/assets/2018/02/tcm1.jpg)
+![](/assets/2018/02/tcm1.jpg)
 
-![]({{site.baseurl}}/assets/2018/02/tcm.jpg)
+![](/assets/2018/02/tcm.jpg)
 
 Cows!
 
-![]({{site.baseurl}}/assets/2018/02/cows.jpg)
+![](/assets/2018/02/cows.jpg)
 
 Old buildings!
 
-![]({{site.baseurl}}/assets/2018/02/pano.jpg)
+![](/assets/2018/02/pano.jpg)
 
 ---
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1392124682/embed/8833d52d1fe47b1c5e575138128cc1eba511d6be'></iframe>
 
-![]({{site.baseurl}}/assets/2018/02/levees.jpg)
+![](/assets/2018/02/levees.jpg)
 
 ---
 

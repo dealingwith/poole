@@ -8,7 +8,7 @@ comments: true
 categories: 
 ---
 
-![]({{site.baseurl}}/assets/2017/01/lucy-recital.jpg)
+![](/assets/2017/01/lucy-recital.jpg)
 
 Watching a child grow is an amazing thing. It's also terrifying: it conjures all the fear and insecurity of childhood. I'm so proud of Lucy for how deftly she navigates each new challenge. 
 

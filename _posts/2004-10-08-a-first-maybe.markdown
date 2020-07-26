@@ -27,7 +27,7 @@ she sees me and gives me the sign for "can i bum a smoke?" so i roll down my pas
 
 i pulled away. end of story.
 
-i sold art tonight, which was a great feeling. an art prof bought <a href="{{site.baseurl}}/blog/files/2004/10/black_white.jpg">a piece</a>. like, she has her phd in ART, people. that is very cool. and i think i might have been the only person to sell work tonight. i'm also pretty sure mine was the least expensive there (out of something like 15 artists).
+i sold art tonight, which was a great feeling. an art prof bought <a href="/blog/files/2004/10/black_white.jpg">a piece</a>. like, she has her phd in ART, people. that is very cool. and i think i might have been the only person to sell work tonight. i'm also pretty sure mine was the least expensive there (out of something like 15 artists).
 
 after that show i went to see my favorite band, the happy bullets, play at my favorite bar, sons of hermann. their set made me very happy indeed. after they played a new band with local luminaries from bedhead/the new year and some other bigger local acts played and they were also very good.
 

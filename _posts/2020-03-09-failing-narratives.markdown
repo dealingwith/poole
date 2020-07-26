@@ -26,7 +26,7 @@ First, Cory Doctorow, in an interview at the Kelowna Public Library with the CBC
 
 > We are now living through a moment that illustrates a lot of the failure modes that we've papered over and insisted could be dealt with when the moment came. This is the moment, and it appears the way we deal with them is by dismantling those old systems...
 
-[I cropped the original audio, for context on the above]({{site.baseurl}}/assets/2020/03/Canada_Reads_Kelowna_Doctorow_Penton-crop.mp3).
+[I cropped the original audio, for context on the above](/assets/2020/03/Canada_Reads_Kelowna_Doctorow_Penton-crop.mp3).
 
 [Here's Cory's original post on craphound.com](https://craphound.com/podcast/2020/03/06/audio-from-the-kelowna-canada-reads-event-with-sarah-penton) with has a link to the entire interview.
 
@@ -64,4 +64,4 @@ Lastly, [Illusion Of Control](http://www.recoveringleadership.com/?p=1016) by my
 
 As a postscript, I'll end with this [Poorly Drawn Lines](http://www.poorlydrawnlines.com/) cartoon.
 
-![]({{site.baseurl}}/assets/2020/03/pdl.png)
+![](/assets/2020/03/pdl.png)

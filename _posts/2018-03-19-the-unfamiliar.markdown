@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![]({{site.baseurl}}/assets/2018/03/7466393770_f68bef939c_o.jpg)
+![](/assets/2018/03/7466393770_f68bef939c_o.jpg)
 
 > ...it is a sign of great inner insecurity to be hostile to the unfamiliar...
 
