@@ -10,6 +10,6 @@ categories:
 
 Having a [professional photographer](http://carissabyers.com/) as a wife has its advantages.
 
-![]({{ site.baseurl }}/assets/2017/08/lucy.jpg)
+![]({{site.baseurl}}/assets/2017/08/lucy.jpg)
 
-![]({{ site.baseurl }}/assets/2017/08/milo.jpg)
+![]({{site.baseurl}}/assets/2017/08/milo.jpg)

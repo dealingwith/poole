@@ -41,5 +41,5 @@ the radical lack, but perhaps occupy it with us._
 
    [1]: http://www.amazon.com/Alt-Spirit-Metro-M3-Mike-Riddell/dp/074593711X/ref=sr_1_1/002-4601971-5548037?ie=UTF8&s=books&qid=1184605445&sr=8-1
 
-   [2]: {{ site.baseurl }}/2007/07/15/found-it.html
+   [2]: {{site.baseurl}}/2007/07/15/found-it.html
 

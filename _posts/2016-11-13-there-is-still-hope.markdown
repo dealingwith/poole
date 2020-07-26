@@ -8,5 +8,5 @@ comments: true
 categories: 
 ---
 
-![]({{ site.baseurl }}/assets/2016/11/2016-11-13.jpg)
+![]({{site.baseurl}}/assets/2016/11/2016-11-13.jpg)
 

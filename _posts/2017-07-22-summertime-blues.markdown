@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![]({{ site.baseurl }}/assets/2017/07/hot.png)
+![]({{site.baseurl}}/assets/2017/07/hot.png)
 
 This is not ok.
 

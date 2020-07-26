@@ -20,7 +20,7 @@ I have been combing over a lot of job applicants lately, and here is some advice
 
 ---
 
-![]({{ site.baseurl }}/assets/2017/03/CPhxSawWsAAdPAv.png)
+![]({{site.baseurl}}/assets/2017/03/CPhxSawWsAAdPAv.png)
 
 [Hi, I’d Like to Add Myself to the New Yorker](http://www.frankchimero.com/blog/2016/new-yorker/)
 

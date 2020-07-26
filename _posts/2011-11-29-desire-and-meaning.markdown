@@ -5,7 +5,7 @@ title: "Desire, meaning, beauty, stories (the last post)"
 
 <iframe width="100%" height="315" src="http://www.youtube.com/embed/fD1512_XJEw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-I had promised that [this post about the problem of desire]({{ site.baseurl }}/2011/10/02/desire/) would be continued and before I end this chapter of my blogging life I want to try and wrap it up. Except it's complicated. I was discussing motivations and plans with a trusted friend and said, "...but of course it's never about the money. It's about how we see ourselves, about how these things support the narrative of who we think we are" (or something like that).
+I had promised that [this post about the problem of desire]({{site.baseurl}}/2011/10/02/desire/) would be continued and before I end this chapter of my blogging life I want to try and wrap it up. Except it's complicated. I was discussing motivations and plans with a trusted friend and said, "...but of course it's never about the money. It's about how we see ourselves, about how these things support the narrative of who we think we are" (or something like that).
 
 At any rate, I don't have time to finish those thoughts exactly. They are heavily influenced, as I mentioned, by [Pete Rollins](http://peterrollins.net/), specifically his thoughts on [desire](http://peterrollins.net/?tag=desire) and [drive](http://peterrollins.net/?tag=drive) (which in turn are influenced by [Lacan](http://en.wikipedia.org/wiki/Jacques_Lacan)). It is also heavily influenced by Victor Frankl, who wrote [a famous book](http://en.wikipedia.org/wiki/Man's_Search_for_Meaning) on meaning. I would suggest you just go read all that stuff.
 

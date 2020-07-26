@@ -34,14 +34,14 @@ In both love and hate, we position _l'objet petit a_ in the place of the Other. 
 
 There's more here. There's always more here. I'm late for many meetings.
 
-   [1]: {{ site.baseurl }}/2007/07/16/confluence-or-this-is-pretty-much-the-exact-opposite-of-my-experience.html
+   [1]: {{site.baseurl}}/2007/07/16/confluence-or-this-is-pretty-much-the-exact-opposite-of-my-experience.html
 
-   [2]: {{ site.baseurl }}/2007/07/06/2219.html
+   [2]: {{site.baseurl}}/2007/07/06/2219.html
 
    [3]: http://www.amazon.com/Perversions-Love-Hate-Renata-Salecl/dp/1859842364/ref=sr_1_3/002-1068956-0436006?ie=UTF8&s=books&qid=1182582014&sr=8-3
 
-   [4]: {{ site.baseurl }}/2007/07/17/an-excerpt-from-mike-riddells-jerusalem-jerusalem-that-i-broke-down-at-the-end-of-like-big-sobs.html
+   [4]: {{site.baseurl}}/2007/07/17/an-excerpt-from-mike-riddells-jerusalem-jerusalem-that-i-broke-down-at-the-end-of-like-big-sobs.html
 
-   [5]: {{ site.baseurl }}/2007/05/21/a-head-spinning-loop-of-connecting-paradigms-concerning.html
+   [5]: {{site.baseurl}}/2007/05/21/a-head-spinning-loop-of-connecting-paradigms-concerning.html
 
-   [6]: {{ site.baseurl }}/2007/07/16/confluence-or-this-is-pretty-much-the-exact-opposite-of-my-experience.html
+   [6]: {{site.baseurl}}/2007/07/16/confluence-or-this-is-pretty-much-the-exact-opposite-of-my-experience.html
