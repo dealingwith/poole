@@ -21,13 +21,13 @@ categories:
 
 ---
 
-[Immediatism]({{site.baseurl}}/2003/03/04/Hakim-Bey.html)
+[Immediatism]({{site.baseurl}}/2003/03/04/Hakim-Bey/)
 
 > The Spectacle is above all empty. It fuels itself by the constant gulping down of everyone's creative powers and ideas. It's more desperate for your 'radical subjectivity' than any vampire or cop for your blood. It wants your creativity much more even than you want it yourself. It would die unless you desired it, and you will only desire it if it seems to offer you the very desires you dreamed, alone in your lonely genius, disguised and sold back to you as commodities.
 
 ---
 
-[Thanks for Ruining the Internet]({{site.baseurl}}/2014/02/12/thanks-for-ruining-the-internet.html)
+[Thanks for Ruining the Internet]({{site.baseurl}}/2014/02/12/thanks-for-ruining-the-internet/)
 
 > The distance between a fart-noise soundboard app and Forbes has compressed almost to the point of indecipherability.
 
@@ -47,7 +47,7 @@ categories:
 
 ---
 
-[Rebels: Episode 2]({{site.baseurl}}/2016/09/05/rebels-episode-2.html)
+[Rebels: Episode 2]({{site.baseurl}}/2016/09/05/rebels-episode-2/)
 
 > Creating content on the internet and actually owning all of that content and retaining complete control over that content is still one of the most culturally radical things one can do. Sure, the marketers of the world will tell you you're wasting your time, but that is only if your horizon for meaningful impact in the world has shortened to the amount of time a news story remains in your social network feed. This is why link-rot has become an epidemic. 
 

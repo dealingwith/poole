@@ -18,7 +18,7 @@ But I've yet to hear or read a [lean](https://en.wikipedia.org/wiki/Lean_product
 
 ### This is not about empathy
 
-I have heard product design and develoment educators talk about the necessity of empathy. I have [written about that before]({{site.baseurl}}/2010/07/17/its-all-about-meaning.html). Empathy is a great trait for product people to have and it will allow them to get things right more often than those without empathy.
+I have heard product design and develoment educators talk about the necessity of empathy. I have [written about that before]({{site.baseurl}}/2010/07/17/its-all-about-meaning/). Empathy is a great trait for product people to have and it will allow them to get things right more often than those without empathy.
 
 ---
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">No matter how smart and experienced you are or how clever and thought-out your idea is, it will not survive contact with real customers.</p>&mdash; Daniel Miller (@dealingwith) <a href="https://twitter.com/dealingwith/status/697822898157854720">February 11, 2016</a></blockquote>

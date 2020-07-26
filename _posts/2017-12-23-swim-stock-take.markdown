@@ -9,7 +9,7 @@ categories:
  - nonlinear
 ---
 
-If this is a _[career-long project]({{site.baseurl}}/2017/12/21/america.html "As I said in this post")_, where is it, in the context of the past, present and future?
+If this is a _[career-long project]({{site.baseurl}}/2017/12/21/america/ "As I said in this post")_, where is it, in the context of the past, present and future?
 
 ## The basics
 
@@ -31,12 +31,12 @@ There are a _ton_ of tools for all the above purposes. I have tried _many_. I wi
 
 ## The beginning
 
-[My very first blog post ever]({{site.baseurl}}/2001/09/18/4.html) (using Blogger/Blogspot at the time) was about nonlinear narratives and ARGs.
+[My very first blog post ever]({{site.baseurl}}/2001/09/18/4/) (using Blogger/Blogspot at the time) was about nonlinear narratives and ARGs.
 
-The [very first iteration]({{site.baseurl}}/2001/09/19/5.html) of the thing that was to become SWIM was just an idea, a PowerPoint presentation. I have no idea if that presentation still exists anymore. In fixing up the original  post, I can see I hosted images of the slides on the server space provided by my ISP at the time (remember when ISPs would give you your own web server space?).
+The [very first iteration]({{site.baseurl}}/2001/09/19/5/) of the thing that was to become SWIM was just an idea, a PowerPoint presentation. I have no idea if that presentation still exists anymore. In fixing up the original  post, I can see I hosted images of the slides on the server space provided by my ISP at the time (remember when ISPs would give you your own web server space?).
 
-The [next exploration]({{site.baseurl}}/2001/09/19/10.html) was the original brain-dump, inspired by BMW's [online film/ARG series](https://en.wikipedia.org/wiki/The_Hire#Contest/game_&_party). 
+The [next exploration]({{site.baseurl}}/2001/09/19/10/) was the original brain-dump, inspired by BMW's [online film/ARG series](https://en.wikipedia.org/wiki/The_Hire#Contest/game_&_party). 
 
-I also simultaneously discovered [The Beast ARG]({{site.baseurl}}/2001/09/19/11.html) and [Magestic]({{site.baseurl}}/2001/09/19/13.html); [artists working in nonlinear narrative]({{site.baseurl}}/2001/09/19/17.html) and tooling around [storyboarding]({{site.baseurl}}/2001/09/19/29.html) and [business organization]({{site.baseurl}}/2001/09/19/30.html) and [screenwriting]({{site.baseurl}}/2001/09/19/33.html). I had a [novel idea for a nonlinear web CMS]({{site.baseurl}}/2001/09/19/37.html).
+I also simultaneously discovered [The Beast ARG]({{site.baseurl}}/2001/09/19/11.html) and [Magestic]({{site.baseurl}}/2001/09/19/13.html); [artists working in nonlinear narrative]({{site.baseurl}}/2001/09/19/17.html) and tooling around [storyboarding]({{site.baseurl}}/2001/09/19/29.html) and [business organization]({{site.baseurl}}/2001/09/19/30.html) and [screenwriting]({{site.baseurl}}/2001/09/19/33.html). I had a [novel idea for a nonlinear web CMS]({{site.baseurl}}/2001/09/19/37/).
 
 And that's how this whole obsession got started. Next installment: the various incarnations of SWIM in the 16 years since.

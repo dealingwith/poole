@@ -21,7 +21,7 @@ Regardless, it was a refreshing dose of what I think church _should_ be, as well
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1607945823/size=small/bgcol=ffffff/linkcol=0687f5/track=3071323481/transparent=true/"></iframe>
 
-[As I shared last week]({{site.baseurl}}/2017/01/24/a-crisis-of-faith-in-myself.html "The world is becoming an increasingly hostile place and more and more it seems that all there is to do is stand back and watch"), it has become hard to process everything that is happening in our world today, particularly in this country, as the tyrannical promises of the individual our electoral college voted into the presidency come to pass. It is hard to know what to do.
+[As I shared last week]({{site.baseurl}}/2017/01/24/a-crisis-of-faith-in-myself/ "The world is becoming an increasingly hostile place and more and more it seems that all there is to do is stand back and watch"), it has become hard to process everything that is happening in our world today, particularly in this country, as the tyrannical promises of the individual our electoral college voted into the presidency come to pass. It is hard to know what to do.
 
 ![]({{site.baseurl}}/assets/2017/01/vis_car_road.gif)
 
