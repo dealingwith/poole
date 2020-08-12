@@ -6,13 +6,18 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
-      <h2 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
+        <a href="{{ site.baseurl }}{{ post.url }}" style="color:inherit">
+          <h2 class="post-title">
+            {{ post.title }}
+          </h2>
+          <p class="excerpt">
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+            <span class="material-icons">
+              flash_on
+            </span>
+            {{ post.excerpt | strip_html }}
+          </p>
         </a>
-        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-      </h2>
-      <p class="excerpt">{{ post.excerpt | strip_html }}</p>
     </article>
   {% endfor %}
 </div>

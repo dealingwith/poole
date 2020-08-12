@@ -1,7 +1,8 @@
 $white: #fff;
 $black: #000; //#404040;
-$grey: #404040; //#6c6c6c;
-$light-grey: #e9e9e9;
+$grey: #6c6c6c; //#404040;
+$light-grey: #999999;
+$lightest-grey: #e9e9e9;
 $yellow: #ffff90;
 $link-blue: #268bd2;
 
@@ -121,10 +122,10 @@ tbody tr:nth-child(odd) th {
 }
 
 .excerpt {
-  color: $grey;
+  color: $light-grey;
   display: block;
-  font-size: 0.95rem;
-  line-height: 1.3rem;
+  font-size: 0.9rem;
+  line-height: 1.3em;
   margin: -5px;
   padding: 5px 5px 0px;
   div.image {
@@ -140,6 +141,9 @@ tbody tr:nth-child(odd) th {
     max-width: 200px;
     margin-right: 1rem;
     float: left;
+  }
+  span {
+    font-size: 0.65em;
   }
 }
 
@@ -244,9 +248,7 @@ a[href^="#fnref:"] {
 
 // Meta data line below post title
 .post-date {
-  color: $grey;
-  font-size: 0.9rem;
-  margin-top: -.5rem;
+  
 }
 
 // Related posts
@@ -378,4 +380,10 @@ img.profile-pic {
   .content & {
     border: 2px solid $black;
   }
+}
+
+.word-count {
+  color: $light-grey;
+  font-size: 0.75rem;
+  margin-top: 2rem;
 }
