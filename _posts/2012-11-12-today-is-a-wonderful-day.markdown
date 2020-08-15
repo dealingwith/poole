@@ -58,8 +58,6 @@ The ~~second clip~~ is about money and happiness.
 
 ### So I write this while at work. With a little bit of irony. ###
 
-![bacon](http://distilleryimage2.s3.amazonaws.com/c44ac14e2c3011e281cb22000a1f9a0a_7.jpg)
-
 Yesterday Penn and I had a day together. First we went to Cindy's for a 2nd breakfast. Then we hung out at the office for a while; I completed a couple of tasks and he read his book report book. Then we walked to the train, took the train to Mockingbird station, had a drink and a bite at Trinity Hall, shopped at Urban Outfitters (a dress for mom, a hat and a gag gift for Penn), took the train back downtown and drove home, making a quick stop for ice cream. He was perfect the entire afternoon.
 
 ---
