@@ -2,7 +2,7 @@ $white: #fff;
 $black: #000; //#404040;
 $grey: #6c6c6c; //#404040;
 $light-grey: #999999;
-$lightest-grey: #e9e9e9;
+$lightest-grey: #c9c9c9;
 $yellow: #ffff90;
 $link-blue: #268bd2;
 
@@ -121,9 +121,9 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
-.excerpt {
-  color: $light-grey;
-  display: block;
+.excerpt, .post-date {
+  // color: $grey;
+  // display: block;
   font-size: 0.9rem;
   line-height: 1.3em;
   margin: -5px;
@@ -143,8 +143,16 @@ tbody tr:nth-child(odd) th {
     float: left;
   }
   span {
+    color: $light-grey;
     font-size: 0.65em;
   }
+}
+
+.post-date {
+  color: $light-grey;
+  // float: left;
+  // font-size: 0.85em;
+  // margin-left: 0.1em;
 }
 
 .index-about {
@@ -223,6 +231,12 @@ a[href^="#fnref:"] {
 .posts {
   img {
     margin-bottom: 0px;
+  }
+  .post {
+    padding: .7em .7em .95em;
+    &:hover {
+      background-color: $yellow;
+    }
   }
 }
 

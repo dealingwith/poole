@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paul Ford Dropping Knowledge on the Postlight Podcast Yet Again"
-excerpt: '"...they finally learned to just shut it"'
+excerpt: '&ldquo;...they finally learned to just shut it&rdquo;'
 date: 2020-08-11 22:21:55 -0500
 categories: 
 ---

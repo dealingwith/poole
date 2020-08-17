@@ -4,7 +4,7 @@ layout: default
 
 <article class="post">
   <h2 class="post-title">{{ page.title }}</h2>
-  <p class="excerpt"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></p>
+  <p class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></p>
   {{ content }}
   <p class="word-count">{{ page.content | number_of_words }} words</p>
   <div class="pagination">
