@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interconnected on improving browsers"
-excerpt: '"If I got made king of web browsers, here’s what I’d do"'
+excerpt: '&ldquo;If I got made king of web browsers, here’s what I’d do&rdquo;'
 date: 2020-08-08 19:41:02 -0500
 categories: 
 ---

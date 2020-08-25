@@ -1,6 +1,6 @@
 $white: #fff;
-$black: #000; //#404040;
-$grey: #6c6c6c; //#404040;
+$black: #404040;
+$grey: #6c6c6c;
 $light-grey: #999999;
 $lightest-grey: #c9c9c9;
 $yellow: #ffff90;
@@ -34,7 +34,7 @@ a {
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
-  &:not(.image, .dead) {
+  &:not(.dead) {
     &:hover,
     &:focus {
       background: $yellow;
@@ -49,7 +49,6 @@ a {
     color: $grey;
     text-decoration: line-through;
   }
-
 }
 
 h1, .masthead-title {
@@ -124,8 +123,8 @@ tbody tr:nth-child(odd) th {
 .excerpt, .post-date {
   // color: $grey;
   // display: block;
-  font-size: 0.9rem;
-  line-height: 1.3em;
+  font-size: 0.85rem;
+  // line-height: 1.3em;
   margin: -5px;
   padding: 5px 5px 0px;
   div.image {
@@ -151,7 +150,7 @@ tbody tr:nth-child(odd) th {
 .post-date {
   color: $light-grey;
   // float: left;
-  // font-size: 0.85em;
+  font-size: 0.8em;
   // margin-left: 0.1em;
 }
 
@@ -395,4 +394,9 @@ img.profile-pic {
   color: $light-grey;
   font-size: 0.75rem;
   margin-top: 2rem;
+}
+
+li {
+  margin-left: -1.5em;
+  padding-left: 0.25em;
 }

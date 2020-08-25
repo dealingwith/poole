@@ -11,11 +11,7 @@ title: Home
             {{ post.title }}
           </h2>
           <p class="excerpt">
-            <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-            <span class="material-icons">
-              flash_on
-            </span>
-            {{ post.excerpt | strip_html }}
+            {{ post.excerpt | strip_html }} <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%b %d, %Y" }}</time>
           </p>
         </a>
     </article>

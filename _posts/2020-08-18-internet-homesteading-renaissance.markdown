@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internet Homesteading Renaissance?"
-excerpt: 
+excerpt: "On personal publishing and community gardening"
 date: 2020-08-18 14:47:07 -0500
 categories: 
 ---
