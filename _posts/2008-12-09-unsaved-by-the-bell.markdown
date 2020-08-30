@@ -35,7 +35,8 @@ that mouth, all the laughter blasted from those lungs, all the warmth under
 those arms, all the thoughts behind those eyes...they were all only ever to
 live in our memories.
 
-[inspired by][1]
+---
 
-   [1]: http://www.neatorama.com/2008/12/08/the-science-behind-some-popular-phrases/
+[The Science Behind Some Popular Phrases](http://www.neatorama.com/2008/12/08/the-science-behind-some-popular-phrases/)
 
+> Saved by the Bell: Before modern medicine, it was hard to determine if a person was really dead or simply in a really, really deep sleep. As a precaution, the presumed dead were buried with a string that ran from the corpse's finger to a bell. If there was a mistake, the person could twitch the finger and thus be saved from being buried alive.
