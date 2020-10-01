@@ -12,18 +12,9 @@ categories:
  - video
 ---
 
-http://www.youtube.com/watch?v=rsV602B17EU
+<a class="dead">American Dream Town (video) (dead link)</a>
 
-> Meet Ochelata, Oklahoma, the typical American town. Today's American Dream
-has changed from white picket fences to clawing for survival. Ochelata shows
-us what happens when manufacturing jobs give way to service jobs, when the
-middle class is decimated, and when a dream becomes a nightmare.
+> Meet Ochelata, Oklahoma, the typical American town. Today's American Dream has changed from white picket fences to clawing for survival. Ochelata shows us what happens when manufacturing jobs give way to service jobs, when the middle class is decimated, and when a dream becomes a nightmare.
 
-I don't know much about [this video][1] except that is uses and has the same
-name as the last song off my last record. My record is Creative-Commons
-licensed, so you don't even have to get my permission to use it in
-noncommercial projects...I've already given the permission. [Seeing it in a
-video like this is a lot of fun...][1]
-
-   [1]: http://www.youtube.com/watch?v=rsV602B17EU
+I don't know much about this video except that is uses and has the same name as the last song off my last record. My record is Creative-Commons licensed, so you don't even have to get my permission to use it in noncommercial projects...I've already given the permission. Seeing it in a video like this is a lot of fun...
 
