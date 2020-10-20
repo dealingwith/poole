@@ -23,6 +23,9 @@ h1 {
 h2 {
   font-size: 1.4rem;
   margin: 1.5rem 0 0;
+  &.post-title {
+    margin: 0;
+  }
 }
 
 h3 {
