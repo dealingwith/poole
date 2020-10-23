@@ -20,7 +20,7 @@ More on Tristram Shandy / Laurence Sterne:
 
 highest quality images [here][9].
 
-finally some obvious links: [wikipedia entry for Tristram][10] and [Sterne][11], and via that, an [upcoming film version][12], a [1.1M ZIP of the illustrated hypertext of the books][13].
+finally some obvious links: [wikipedia entry for Tristram][10] and [Sterne][11].
 
 > One of the meta-statements Sterne seems to be making is he has no respect for your time, nor your desire for narrative cohesion--and why should he? Defiant, Sterne is. Very defiant. Cool. [#][15]
 

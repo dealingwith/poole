@@ -11,16 +11,16 @@ categories:
  - word of the day
 ---
 
-_...the school of experience--not reasoning out of a solution a priori, but
-making a great many small mistakes fast, and then_ keeping a record of them_.
+> ...the school of experience--not reasoning out of a solution a priori, but
+making a great many small mistakes fast, and then keeping a record of them.
 This is where the 21st century has a profound [oracular][1] advantage over the
-intellectual experience of all previous centuries--it can simply_ search the
-daylights _out of vast datamines of experience, at the press of a button.
+intellectual experience of all previous centuries--it can simply search the
+daylights out of vast datamines of experience, at the press of a button.
 
-_The ability to make many small mistakes in a hurry is a vital accomplishment
-for any society that intends to be sustainable_. It's not necessary that every
+> The ability to make many small mistakes in a hurry is a vital accomplishment
+for any society that intends to be sustainable. It's not necessary that every
 experience be sensible logical or even sane--but it's vitally important to
-register, catalog and data-mine the errors._
+register, catalog and data-mine the errors.
 
 [#][2]
 

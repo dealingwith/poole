@@ -5,13 +5,11 @@ layout: post
 slug: stumble-wisely
 status: publish
 title: Stumble Wisely
-wordpress_id: '1026'
 categories:
  - elsewhere
  - quotable
 ---
 
-_What I have is my motto: "Stumble Wisely."_
+> What I have is my motto: "Stumble Wisely."
 
-http://www.ftrain.com/GreenApples.html
-
+[Green Apples](https://www.ftrain.com/GreenApples)

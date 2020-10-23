@@ -14,20 +14,10 @@ Shipped a major refactor/rewrite of our application this week, with a lot of hel
 
 I haven't any time to ride during the week for the last two weeks save for a few bike commutes, but really late at night after I can't code anymore I'll play [Minecraft](http://minecraft.net/) for an hour give or take and slowly accomplish objectives in the game.
 
-![My minecraft home](http://farm9.staticflickr.com/8395/8684196763_212694b401.jpg)
-
 My valley of relative safety. Over the last few days I've been nurturing a sugarcane farm, from which I made paper (yeah, I don't know either). Tonight I braved the depths of an empty mine I discovered and found some red stone (think magic uranium), I made it back to the surface, crafted a compass and then, combined with my paper, a map. I must say, I felt a great sense of accomplishment.
 
 ## 16 months
 
-[![Lucy](http://farm9.staticflickr.com/8240/8662616124_fddf3b870c.jpg)](http://www.flickr.com/photos/carissabyers/8662616124/sizes/m/in/set-72157633280380028/)
+![Lucy](/assets/2013/04/8662616124_fddf3b870c.jpg)
 
 So delightful she is! 
-
-![Gimme dat phone](http://farm9.staticflickr.com/8533/8682517066_c4a7559c9e.jpg)
-
-Give me that phone!
-
-![Pig](http://farm9.staticflickr.com/8385/8668302325_23732e0e26.jpg)
-
-Pig at the park!
