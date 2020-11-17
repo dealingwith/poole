@@ -121,12 +121,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .excerpt, .post-date {
-  // color: $grey;
-  // display: block;
-  // font-size: 0.85rem;
-  // line-height: 1.3em;
-  margin: -5px;
-  padding: 5px 5px 0px;
+  margin: 0 0 1rem 0;
   div.image {
     background-position: top;
     background-size: cover;
@@ -143,15 +138,11 @@ tbody tr:nth-child(odd) th {
   }
   span {
     color: $light-grey;
-    // font-size: 0.65em;
   }
 }
 
 .post-date {
   color: $light-grey;
-  // float: left;
-  // font-size: 0.8em;
-  // margin-left: 0.1em;
 }
 
 .index-about {
@@ -259,35 +250,6 @@ a[href^="#fnref:"] {
   }
 }
 
-// Related posts
-.related {
-  border-top: 1px solid #eee;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-
-.related-posts {
-  list-style: none;
-  padding-left: 0;
-
-  h3 {
-    margin-top: 0;
-  }
-
-  li {
-    small {
-      color: #999;
-      font-size: 75%;
-    }
-
-    a:hover {
-      small {
-        color: inherit;
-      }
-    }
-  }
-}
-
 // Pagination
 //
 // Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
@@ -342,39 +304,6 @@ a.pagination-item:hover {
   }
 }
 
-// Messages
-//
-// Show alert messages to users. You may add it to single elements like a `<p>`,
-// or to a parent if there are multiple elements to show.
-
-.message {
-  background-color: #f9f9f9;
-  color: #717171;
-  margin-bottom: 1rem;
-  padding: 1rem;
-}
-
-.aa-input-search {
-  border: 1px solid #e5e5e5;
-  float: right;
-  font-size: .8rem;
-  margin-left: 5px;
-  padding: 4px;
-}
-#search-results {
-  display: none;
-  border-bottom: 2px solid #e5e5e5;
-  border-top: 2px solid #e5e5e5;
-  margin: 20px 0;
-  &:before {
-    content: 'search results:'
-  }
-}
-
-s {
-  text-decoration-style: wavy;
-}
-
 .postscript {
   color: $grey;
 }
@@ -395,8 +324,3 @@ img.profile-pic {
   font-size: 0.75rem;
   margin-top: 2rem;
 }
-
-// li {
-//   margin-left: -1.5em;
-//   padding-left: 0.25em;
-// }
