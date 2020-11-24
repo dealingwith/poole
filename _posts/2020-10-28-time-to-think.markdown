@@ -27,7 +27,7 @@ Both of my daily email "readings"---the Daily Stoic and Richard Rohr---were abou
 
 Good thing my meditation practice is back(ish). (I'm still really bad at meditation.)
 
-I was actually thinking as I poured my coffee this morning (prior to reading these) that there's consistently been this dilemma in organizations I've been a part of, where leaders want their staff to think more strategically---or even just more tactically---but said staff is far too busy just trying to keep up with the abitious plans of said leaders to take time to think. This often applies even at the highest level of an organization, where even the highest level staff have their time fully allocated to meetings and batting away emails and Slack messages. 
+I was actually thinking as I poured my coffee this morning (prior to reading these) that there's consistently been this dilemma in organizations I've been a part of, where leaders want their staff to think more strategically---or even just more tactically---but said staff is far too busy just trying to keep up with the abitious plans of said leaders to take time to think. This often applies even at the highest level of an organization, where even directors, vice presidents, and CEOs have their time fully allocated to meetings and batting away emails and Slack messages. 
 
 So should we try to fix this, and if so, how do we go about solving this problem?
 
@@ -52,7 +52,7 @@ I'm struggling with all of this personally, obviously, or I wouldn't be writing 
     1. Training on how to write, specifically how to write with the org as your audience. Templates.
 1. Cultivate participation from those typically silent. If you are typically a loud "voice in the room", pause before speaking.
 
-My final thought is one of my favorite things I've ever read about leadership. It was a random Tweet:
+My final thought is one of my favorite things I've ever read about leadership. It was a random tweet:
 
 > one the largest indicators i've seen of effective leadership is one that is actually a result of a visible absence, which is to say:
 

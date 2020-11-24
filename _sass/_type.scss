@@ -2,10 +2,10 @@
 //
 // Headings, body text, lists, and other misc typographic elements.
 
-html, body {
+html, body, ul, li {
   color: $black;
   font-family: sans-serif;
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 h1, h2, h3, h4, h5, h6, header *, .menu * {
@@ -43,11 +43,12 @@ strong {
 }
 
 ul, ol, dl {
-  margin-bottom: 1rem;
-  margin-top: 0;
-  ul, ol, dl {
-    margin-bottom: 0;
-  }
+  margin: 1em 0;
+  padding: 0;
+}
+
+ul {
+  list-style: square outside;
 }
 
 dt {
