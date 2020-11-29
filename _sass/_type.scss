@@ -2,7 +2,7 @@
 //
 // Headings, body text, lists, and other misc typographic elements.
 
-html, body, ul, li {
+html, body {
   color: $black;
   font-family: sans-serif;
   line-height: 1.45;
@@ -42,7 +42,7 @@ strong {
   font-weight: 600;
 }
 
-ul, ol, dl {
+ul {
   margin: 1em 0;
   padding: 0;
 }
