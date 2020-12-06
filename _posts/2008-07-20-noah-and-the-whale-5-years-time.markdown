@@ -10,11 +10,4 @@ categories:
  - mp3 of the day
 ---
 
-This used to be a video embed of the tune, but it got taken down from the
-YouTubes.
-
-I DL'd a couple tunes off the Internets though, and [they are available
-here][1].
-
-   [1]: http://danielsjourney.com/blog/files/2008/07/Noah_and_the_Whale/
-
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/DkaIQSMnV-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
